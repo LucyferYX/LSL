@@ -1,0 +1,308 @@
+Man ir mājas.
+Es esmu mājās.
+Es eju uz mājām.
+Mēs ejam uz mājām.
+Kur ir tavas mājas?
+Kur atrodas tavas mājas?
+Manas mājas ir Rīga.
+Māja ir liela.
+Māja ir maza.
+Mammas atrodas mājās.
+Tēti atrodas dzīvoklī.
+Māti sauc [NAME].
+Tēvu sauc [NAME].
+Čau, mamm!
+Čau, tēt!
+Sveika, mamm.
+Sveiks, tēt.
+Es tevi mīlu!
+Vai tu mīli savu radus?
+Tie ir mani radi.
+Tā ir mīlestība.
+Mīlestības pilns cilvēks.
+Tā ir mana ģimene.
+Sieviete un vīrietis.
+Kurš tev patīk vislabāk?
+Viņš ir mīlīgs cilvēks.
+Viņa ir tik mīļa!
+Viņas ģimenei ir daudz nauda.
+Tajā ģimenē nav daudz bērnu.
+Šī ir tikai parasta ģimene.
+Ģimenes ir lielas vai mazas.
+Ģimenē esmu tikai es.
+Ģimenē esmu es, mamma, tētis, māsa un brālis.
+Mājās dzīvo mana māte un tēvs.
+Mamma un tētis ir kopā.
+Tētim ir daudz naudas.
+Mammai ir viens dēls un četras meitas.
+Man ir brālis.
+Man nav māsa.
+Viņai ir trīs brāļi.
+Viņam ir divi māsas.
+Mājās dzīvo vairāki brāļi un māsas.
+Brāļiem ir daudz draugu.
+Māsām nav daudz draugu.
+Mana māsa ir desmit gadu veca.
+Mans brālis ir septiņus gadus vecs.
+Mani abi vecāki ir trīsdesmit gadu veci.
+Pēc divdesmit gadiem.
+Es dzīvoju kopā ar savu divpadsmit gadu vecu brāli.
+Tas ir viņas bērns.
+Bērnu sauc [NAME].
+Vai jums ir bērni?
+Man ir 2 bērni - dēls un meita.
+Cik gadu ir jūsu meitai?
+Vai šis ir jūsu dēls?
+Cik jums ir dēli?
+Cik tev ir meitas?
+Dēliem un meitām.
+Meitu un dēlu draugi ir jauki.
+Mēs esam draugi.
+Kur ir tavi draugi?
+Mana ģimene ir maza.
+Tava ģimene ir liela.
+Kur tu dzīvo?
+Mēs dzīvojam.
+Es dzīvoju.
+Es dzīvoju Rīgā.
+Es rīt būšu Rīgā.
+Viņas dzīvoklis atrodas Rīgā.
+Dzīvokļa atrašanās vieta.
+Es dzīvoju dzīvoklī.
+Latvijā ir daudz pilsētu.
+Rīga ir pilsēta Latvijā.
+Viņa dzīvo Latvijā.
+Viņam ļoti patīk Latvija.
+Viņai nepatīk te dzīvot.
+Es atrodos šeit Rīgā, Latvijā.
+Kur tas ir?
+Viņas zina, kur tas ir.
+Viņi nezina, kur tas ir.
+Kur atrodas veikals?
+Kur ir tuvākais veikals?
+Veikali ir tur.
+Kase ir tur.
+Veikals [NAME].
+Veikalam ir kases.
+Tuvākais pārtikas veikals atrodas šeit.
+Es dodos uz pārtikas veikala kasi.
+Viņa atrodas pie kases.
+Viņš strādā kasē.
+Kur atrodas aptieka?
+Viņas devās uz aptieku.
+Aptiekā ir maz cilvēku.
+Šie darbinieki strādā aptiekā.
+Pie aptiekas ar mums stāv daži cilvēki.
+Man ir mazliet naudas tepat.
+Mans tētis strādā bankā.
+Diemžēl viņa tēvam nav daudz naudas.
+Bankā atrodas daudz cilvēku.
+Latvijas Banka atrodas Rīgā.
+Es šodien došos uz baznīcu.
+Baznīca ir liela.
+Rīgā nav daudz baznīcu.
+Kur atrodas tuvākā baznīca?
+Vai Latvijā ir daudz pasta ēku?
+Šī ir pasta ēka.
+Dosimies kopā uz pastu.
+Tas ir pasts?
+Pasūtīt pa pastu.
+Kur pieņem pakas?
+Pasūtu vairākas pakas.
+Aiznesu paku uz pasta ēku.
+Mēs ar tēti ejam uz pastu.
+Mana mamma atrodas poliklīnikā.
+Poliklīnika ir maza.
+Šī poliklīnika nav liela.
+Rītdien iešu uz poliklīniku.
+Šobrīd poliklīnikā nav daudz darbinieku.
+Mans draugs šobrīd dodas uz skolu.
+Tā ir mana skola.
+Rīgā ir vairākas skolas.
+Šodien skolā ir ļoti maz cilvēku.
+Man šajā skolā ir daudz draugu.
+Skola ir laba.
+Iesim kopā uz manu skolu?
+Es vēlos strādāt skolā.
+Cik skolas tu zini?
+Rīgā atrodas ļoti liela slimnīca, es uz to iešu.
+Mana māte un tēvs strādā slimnīcā.
+Cik Latvijā ir slimnīcu?
+Es šodien nebraukšu uz slimnīcu.
+Slimnīcā strādā 10 darbinieki.
+Tepat ir tirgus.
+Tirgus ir šeit.
+Tirgus ir ļoti pilns.
+Mana ģimene vakar bija tirgū.
+Ejam uz tirgu kopā?
+Pārtika no tirgus vai no veikala?
+Veikalā ir vairākas kases.
+Pirkumus iegādājas veikalos.
+Es vēlos nopirkt pārtiku tajā veikalā.
+Pārtikas veikals.
+[NAME] aizgāja uz pārtikas veikalu.
+Kopā iesim uz kasi samaksāt par pirkumiem.
+Pirkumi ir nepieciešami.
+Pārtikai ir augstas cenas.
+Veikalā [NAME] nav zemas cenas.
+Tas atrodas zemu.
+Cilvēks ēd pārtiku.
+[NAME], [NAME] un [NAME] kopā aizgāja uz tirgu.
+Kurā vietā Rīgā atrodas labs un liels tirgus?
+Viesnīcā ir mazliet darbinieku un daudz cilvēku.
+[NAME] ir šitās viesnīcas darbiniece.
+Rīgā atrodas vairākas ēkas, piemēram, aptiekas, bankas, baznīcas, pasti, poliklīnikas, skolas, slimnīcas, tirgus, veikali un viesnīcas.
+Ēku atrašanās vieta.
+Es šobrīd braucu ar mašīnu.
+Tēvs rīt brauks ar mašīnu uz Rīgu.
+Mašīna tiks saņemta rītdien.
+Automašīnas ir dažādas.
+Es nevaru aiziet līdz mašīnai.
+Automašīna maksā daudz naudu.
+Skrienam līdz automašīnai?
+Man ir skaista mašīna.
+Rīga ir maza valsts.
+Es vēlos saņemt naudu.
+Viņa atrodas šeit, lai paņemtu viņas naudu.
+Kāda ir darba alga?
+Vidējā alga valstī.
+Es negribu saņemt vidējo algu.
+Vai tu saņem lielu algu?
+Vai jūs esat priecīgi par saņemto algu?
+Vai man paņemt kredītu?
+Man ir neliela alga, varbūt man vajag kredītu no bankas?
+Cik liels būs kredīts?
+Kredīti ir dažādi.
+Kredīts nav nepieciešams.
+Samaksā kredītu.
+Cik tas maksā?
+Jūsu ID.
+ID karte.
+Maksājumu karte.
+Pieņemam tikai maksājumu karti.
+Kur es varu saņemt darba algu?
+Es tevi pieņemu darbā.
+Pieņemt cilvēku.
+Darbiniekiem maksā algu, tā var būt liela, vidēja vai maza.
+Māte saņēma lielu algu.
+Māmiņa bieži strādā par mazu algu.
+Tētuks reti saņem naudu.
+Darbs ir grūts.
+Darbs ir ļoti viegls.
+Tētim strādāt ir grūti, bet mammai viegli.
+Vidēja vecuma cilvēks.
+Māte nav veca.
+Vai tu šeit esi viena?
+Viņi ir tikai divi.
+Abi divi.
+Viņai dzīvot nav grūti, bet viņam ir.
+Ejam kopā?
+Diemžēl es nevaru.
+Domāju, ka jā.
+Es bieži domāju.
+Domāju par māmiņu un tētuku.
+Viena minūte.
+Cik minūtes?
+Cik ir pulkstenis?
+Pulkstenis ir pieci.
+Pulksten sešos.
+Pulksten septiņos vai astoņos.
+Pulkstenis atpaliek par desmit minūtēm.
+Pirms deviņām minūtēm.
+Autobuss atbrauks pēc piecpadsmit minūtēm.
+Tikai piecpadsmit sekundes!
+Mans pulkstenis tagad atpaliek.
+Viņš ir mazliet atpalicis.
+Es vakar aizgāju uz kafejnīcu.
+Kafejnīca atrodas tur.
+Kafejnīca ir tukša.
+[NAME] un [NAME] meklē kafejnīcas.
+Es iztērēju daudz naudas šajā kafejnīcā.
+Mēs kafejnīcā ēdam.
+Ēdināšanas pakalpojums.
+Pirms vai pēc ēšanas?
+Es gribu ēst.
+Vai tu gribi dzert?
+Es neko negribu.
+Ko dzeram un ko ēdam?
+Vai jūs tagad dzersiet?
+Vai Jūs vēlaties vēl?
+Vai viņa vēlas vēl?
+Domāju, ka viss sakārtots.
+Domāju, ka jā!
+Domāju, ka nē!
+Tagad nav vakars.
+Ir vēls rīts.
+Tagad ir ļoti vēls.
+Agrs rīts.
+Agri no rīta.
+Viņu aizveda agri naktī.
+Par agru!
+Vēlu vakarā.
+Skaists rīts.
+Rīt no rīta.
+Deviņos no rīta.
+Rīti un vakari.
+Trijos pēcpusdienā.
+Pēcpusdiena.
+Es gaidu pēcpusdienu.
+Astoņos vakarā.
+Tagad ir ļoti vēls.
+Tikai viena sekunde.
+Pēc apmēram piecām sekundēm.
+Gadā ir divpadsmit mēneši.
+Divpadsmit stundas.
+Vienā dienā ir vairākas stundas.
+Diennaktī ir diena un nakts.
+Vienā stundā ir sešdesmit minūtes.
+Vienā minūtē ir sešdesmit sekundes.
+Septiņdesmit kilometri stundā.
+Astoņdesmit kilometri stundā.
+Septiņdesmit dažādu pakalpojumu.
+Astoņdesmit dažādu pasūtījumu.
+Pieci metri sekundē.
+Apmēram četri metri sekundē.
+Sešas stundas, septiņas minūtes un astoņas sekundes.
+Šodien ir jauka diena.
+Kādi ir laika apstākļi?
+Tagadējie laikapstākļi.
+Pulksteņa laiks ir divpadsmit.
+Diena ir īsa.
+Nakts ir gara.
+Brauksim pa nakti.
+Nebraucam vēlu naktī.
+Šodien, rītdien vai vakardien?
+Vakardiena nebija laba.
+Viņa vakar atbrauca uz Rīgu.
+Varbūt skriet, varbūt iet, bet varbūt braukt.
+Brauksim ar mašīnu vai autobusu?
+Autobuss bija tukšs.
+Vecāki brauc ar skaistu mašīnu.
+Mašīna ir glīta.
+Viņš jūtas neglīts.
+Neglīti cilvēki.
+Lūdzu, izdariet man pakalpojumu!
+Nē, pats izdari.
+Ceļš ir garš.
+Brauc pa to ceļu.
+Uz ceļa notika slikta situācija.
+Uz [NAME] ceļa notika auto avārija. 
+Radīt neglītu situāciju.
+Izraisīt avāriju.
+Man ceļā bija avārija.
+Kur var salabot mašīnu.
+Lūdzu, salabojiet manu automašīnu.
+Transporta pakalpojums.
+Es izmantoju transporta pakalpojumu.
+Autoserviss.
+Es aizvedīšu mašīnu uz autoservisu.
+[NAME] mašīnai ir vajadzīgs remonts.
+Kur ir servisa ēka?
+Pilsētas autobusam ir nepieciešams remonts.
+Lūdzu, aizvediet mani uz Rīgu!
+Lūdzu, atvediet mani no Rīgas!
+Vai arī tevi nepieciešams atvest?
+Automašīnas atvešana.
+Veikals atveda pārtikas produktus.
+Gaidi pie luksofora gaismas!
+Laimīgu ceļu!

@@ -1,0 +1,83 @@
+Melns un balts.
+Kādas krāsas tev patīk?
+[NAME] patīk zila krāsa.
+Man nepatīk violetā krāsa.
+Mana mīļākā krāsa ir rozā.
+Viņiem vislabāk patīk zilā krāsa.
+Nē, violetā ir vislabākā!
+Man patīk, piemēram, sarkani un dzelteni ziedi.
+Sarkanā, dzeltenā un zaļā luksofora krāsas.
+Braucam pie zaļās gaismas.
+Viņš aizbrauca pie sarkanās gaismas.
+Apstājamies pie sarkanās gaismas.
+Vai tev ir iemīļota nodarbošanās?
+
+Man patīk ziedi.
+Skaistas ziedu krāsas.
+Puķēm ir vairāki ziedi.
+Ko mēs nopirksim.
+Es nopirkšu baltās puķes.
+Šai puķei ir dzelteni ziedi.
+Aiznesīsim viņam tavus ziedus?
+Lūdzu, četrdesmit puķes!
+Es esmu dārznieks.
+Dārznieki pērk sēklas.
+Kāda veida sēkla?
+Manā dārzā ir vairāk nekā simts dažādu augu.
+Vairākas dienas es strādāju dārzā.
+Pirms četriem gadiem man bija ļoti liels dārzs.
+Augiem ir nepieciešama laba, brūna augsne.
+Augsni var nopirkt dārzkopības veikalā.
+
+Es bieži iepērkos apģērba veikalos.
+[NAME] veikalā ir vairāk nekā simts dažāda lieluma kreklu.
+Brūns krekls.
+Man mājās ir apmēram trīsdesmit krekli.
+Vai jums ir citi krekli?
+Man ir nepieciešams krekls un zilas bikses.
+Džinsu bikses.
+Manas mīļākās bikses ir džinsu.
+Vai tie ir džinsi?
+Šodien uzvelc
+Vai tev ir nepieciešamas jaunas bikses?
+Es gribu sev nopirkt apavus.
+Tie ir mani mājas apavi.
+Tie ir sieviešu vai vīriešu apavi?
+Es pasūtīšu sieviešu apavus.
+Šīs kurpes man ir par mazu.
+Tās kurpes ir par lielu.
+Kurš kurpju izmērs tas ir?
+Man ir četrdesmitais kurpju izmērs.
+Apaviem nav laba krāsa.
+Aiznes apavus uz remontu!
+Dažādu krāsu šalle.
+Vai jums ir rozā šalles?
+Krāsainām šallēm.
+Šī šalle ir ļoti dārga.
+Kādi tev cimdi?
+Cimdi ir dārgi, bet cepure ir lēta.
+Man patīk šī krāsainā cepure.
+Vai es varētu pasūtīt sašūtu cepuri?
+Vai šādi apģērbi ir arī citās krāsās?
+Vai šajā apģērbu veikalā ir zeķes?
+Es meklēju savu zeķi!
+Es šuvu dažādus apģērbus.
+Es gribētu pasūtīt brilles.
+Briļļu cena ir augsta.
+Cepuru, šaļļu, zeķu un cimdu šūšanas pakalpojums.
+Šūšanas darbnīca.
+
+Man ļoti patīk gleznot.
+Es esmu gleznotājs.
+Latvijā nav daudz gleznotāju.
+
+Man ir sporta nodarbības.
+Kāds ir tavs mīļākais sporta veids?
+Sportistam ir daudz enerģijas.
+Viena veida enerģija.
+Eksistē vairāki sporta veidi.
+Neeksistē tikai viens veids.
+
+Parasti ģimenēm patīk ceļot.
+Kur ceļosim?
+Mēs ceļojam vienu mēnesi.

@@ -1,0 +1,308 @@
+mans ir māja
+es esmu māja
+es iet uz māja
+mēs iet uz māja
+kur ir tavs māja
+kur atrasties tavs māja
+mans māja ir rīga
+māja ir liels
+māja ir mazs
+māte atrasties māja
+tēvs atrasties dzīvoklis
+māte saukt [NAME]
+tēvs saukt [NAME]
+sveiks māte
+sveiks tēvs
+sveiks māte
+sveiks tēvs
+es tu mīlēt
+vai tu mīlēt mans radi
+tas ir mans radi
+tas ir mīlēt
+mīlēt pilns cilvēks
+tas ir mans ģimene
+sieviete un vīrietis
+kurš tu patikt viss labs
+viņš ir mīlēt cilvēks
+viņš ir mīlēt
+viņš ģimene ir daudz nauda
+tas ģimene nav daudz bērns
+tas ir tikai parasts ģimene
+ģimene ir liels vai mazs
+ģimene esmu tikai es
+ģimene esmu es māte tēvs māsa un brālis
+māja dzīvot mans māte un tēvs
+māte un tēvs ir kopā
+tēvs ir daudz nauda
+māte ir 1 dēls un 4 meita
+mans ir brālis
+mans nav māsa
+viņš ir 3 brālis
+viņš ir 2 māsa
+māja dzīvot vairāk brālis un māsa
+brālis ir daudz draugs
+māsa nav daudz draugs
+mans māsa ir 10 gads vecs
+mans brālis ir 7 gads vecs
+mans abi vecāki ir 30 gads vecs
+pēc 20 gads
+es dzīvot kopā ar mans 12 gads vecs brālis
+tas ir viņš bērns
+bērns saukt [NAME]
+vai jums ir bērns
+mans ir 2 bērns dēls un meita
+cik gads ir tavs meita
+vai tas ir tavs dēls
+cik jums ir dēls
+cik tavs ir meita
+dēls un meita
+dēls un meita draugs ir jauks
+mēs būt draugs
+kur būt tavs draugs
+mans ģimene būt mazs
+tavs ģimene būt liels
+kur tu dzīvot
+mēs dzīvot
+es dzīvot
+es dzīvot rīga
+es rīt būt rīga
+viņš dzīvoklis atrasties rīga
+dzīvoklis atrasties vieta
+es dzīvot dzīvoklis
+latvija ir daudz pilsēta
+rīga ir pilsēta latvija
+viņš dzīvot latvija
+viņš ļoti patikt latvija
+viņš nepatikt tas dzīvot
+es atrasties šeit rīga latvija
+kur tas ir
+viņi zināt kur tas ir
+viņi nezināt kur tas ir
+kur atrasties veikals
+kur ir tuvs veikals
+veikals ir tas
+kase ir tas
+veikals [NAME]
+veikals ir kase
+tuvs ēst veikals atrasties šeit
+es braukt uz ēst veikals kase
+viņš atrasties pie kase
+viņš strādāt kase
+kur atrasties aptieka
+viņi braukt uz aptieka
+aptieka ir mazs cilvēks
+tas darbinieks strādāt aptieka
+pie aptieka ar mums stāvēt nedaudz cilvēks
+mans ir nedaudz nauda šeit
+mans tēvs strādāt banka
+diemžēl viņš tēvs nav daudz nauda
+banka atrasties daudz cilvēks
+latvija banka atrasties rīga
+es šodien braukt uz baznīca
+baznīca ir liels
+rīga nav daudz baznīca
+kur atrasties tuvs baznīca
+vai latvija ir daudz pasts ēkas
+tas ir pasts māja
+braukt kopā uz pasts
+tas ir pasts
+pasūtīt pasts
+kur saņemt paka
+pasūtīt vairāk paka
+aizvest paka uz pasts māja
+mēs ar tēvs iet uz pasts
+mans māte atrasties poliklīnika
+poliklīnika ir mazs
+tas poliklīnika nav liels
+rīt iet uz poliklīnika
+šodien poliklīnika nav daudz darbinieks
+mans draugs šodien iet uz skola
+tas ir mans skola
+rīga ir vairāk skola
+šodien skola ir ļoti maz cilvēks
+mans tas skola ir daudz draugs
+skola ir labs
+iet kopā uz mans skola
+es vēlēties strādāt skola
+cik skola tu zināt
+rīga atrasties ļoti liels slimnīca es uz tas iet
+mans māte un tēvs strādāt slimnīca
+cik latvija ir slimnīca
+es šodien nebraukt uz slimnīca
+slimnīca strādāt 10 darbinieks
+šeit ir tirgus
+tirgus ir šeit
+tirgus ir ļoti pilns
+mans ģimene vakar bija tirgus
+iet uz tirgus kopā
+ēst no tirgus vai no veikals
+veikals ir vairāk kase
+pirkums iegādāties veikals
+es vēlēties iegādāties ēst tas veikals
+ēst veikals
+[NAME] iet uz ēst veikals
+kopā iet uz kase maksāt par pirkums
+pirkums ir vajadzēt
+ēst ir augsts cena
+veikals [NAME] nav zems cena
+tas atrasties zems
+cilvēks ēst ēst 
+[NAME] [NAME] un [NAME] kopā iet uz tirgus
+kur vieta rīga atrasties labs un liels tirgus
+viesnīca ir nedaudz darbinieks un daudz cilvēks
+[NAME] ir tas viesnīca darbinieks
+rīga atrasties vairāk ēkas piemēram aptieka banka baznīca pasts poliklīnika skola slimnīca tirgus veikals un viesnīca
+ēkas atrasties vieta
+es šodien braukt ar automašīna
+tēvs rīt braukt ar automašīna uz rīga
+automašīna saņemt rīt
+automašīna ir dažāds
+es nevarēt iet līdz automašīna
+automašīna maksāt daudz nauda
+skriet līdz automašīna
+mans ir skaists automašīna
+rīga ir mazs valsts
+es vēlēties saņemt nauda
+viņš atrasties šeit paņemt viņš nauda
+kāds ir darbs alga
+vidējs alga valsts
+es negribēt saņemt vidējs alga
+vai tu saņemt liels alga
+vai jūs esmu priecīgs par saņemt alga
+vai mans paņemt kredīts
+mans ir mazs alga varbūt mans vajadzēt kredīts no banka
+cik liels būt kredīts
+kredīts ir dažāds
+kredīts nav vajadzēt
+maksāt kredīts
+cik tas maksāt
+tavs i d
+i d karte
+maksāt karte
+saņemt tikai maksāt karte
+kur es varēt saņemt darbs alga
+es tu saņemt darbs
+saņemt cilvēks
+darbinieks maksāt alga tas varēt būt liels vidējs vai mazs
+māte saņemt liels alga
+māte bieži strādāt par mazs alga
+tēvs reti saņemt nauda
+darbs ir grūts
+darbs ir ļoti viegls
+tēvs strādāt ir grūts bet māte viegls
+vidējs vecs cilvēks
+māte nav vecs
+vai tu šeit esmu 1
+viņš ir tikai 2
+abi 2
+viņš dzīvot nav grūts bet viņš ir
+iet kopā
+diemžēl es nevarēt
+domāt jā
+es bieži domāt
+domāt par māte un tēvs
+1 minūte
+cik minūtes
+cik ir pulkstenis
+pulkstenis ir 5
+pulkstenis 6
+pulkstenis 7 vai 8
+pulkstenis atpalikt par 10 minūtes
+pirms 9 minūtes
+autobuss atbraukt pēc 15 minūtes
+tikai 15 sekunde
+mans pulkstenis šodien atpalikt
+viņš ir nedaudz atpalikt
+es vakar iet uz kafejnīca
+kafejnīca atrasties tas
+kafejnīca ir tukšs
+[NAME] un [NAME] meklēt kafejnīca
+es maksāt daudz nauda tas kafejnīca
+mēs kafejnīca ēst
+ēst pakalpojums
+pirms vai pēc ēst
+es gribēt ēst
+vai tu gribēt dzert
+es neko negribēt
+ko dzert un ko ēst
+vai jūs šodien dzert
+vai tu vēlēties vēl
+vai viņš vēlēties vēl
+domāt viss kārtība
+domāt jā
+domāt nē
+šodien nav vakars
+ir vēls rīts
+šodien ir ļoti vēls
+agrs rīts
+agrs no rīts
+viņš aizvest agrs nakts
+par agrs
+vēls vakars
+skaists rīts
+rīt rīts
+9 rīts
+rīts un vakars
+3 pēcpusdiena
+pēcpusdiena
+es gaidīt pēcpusdiena
+8 vakars
+šodien ir ļoti vēls
+tikai 1 sekunde
+pēc apmēram 5 sekunde
+gads ir 12 mēnesis
+12 stunda
+1 diena ir vairāk stunda
+diennakts ir diena un nakts
+1 stunda ir 60 minūte
+1 minūte ir 60 sekunde
+70 kilometrs stunda
+80 kilometrs stunda
+70 dažāds pakalpojums
+80 dažāds pasūtīt
+5 metrs sekunde
+apmēram 4 metrs sekunde
+6 stunda 7 minūte un 8 sekunde
+šodien ir jauks diena
+kāds ir laiks apstāklis
+šodien laiks apstāklis
+pulkstenis laiks ir 12
+diena ir īss
+nakts ir garš
+braukt nakts
+nebraukt vēls nakts
+šodien rīt vai vakar
+vakar nav labs
+viņš vakar atbraukt uz rīga
+varbūt skriet varbūt iet bet varbūt braukt
+braukt ar automašīna vai autobuss
+autobuss bija tukšs
+vecāki braukt ar skaists automašīna
+automašīna ir glīts
+viņš justies neglīts
+neglīts cilvēks
+lūdzu darīt mans pakalpojums
+nē pats darīt
+ceļš ir garš
+braukt tas ceļš
+uz ceļš notikt slikts apstāklis
+uz [NAME] ceļš notikt automašīna avārija
+radīt neglīts apstāklis
+radīt avārija
+mans ceļš bija avārija
+kur varēt salabot automašīna
+lūdzu salabot mans automašīna
+transports pakalpojums
+es izmantot transports pakalpojums
+automašīna serviss
+es aizvest automašīna uz automašīna serviss
+[NAME] automašīna ir vajadzēt serviss
+kur ir serviss māja
+pilsēta autobuss ir vajadzēt serviss
+lūdzu aizvest es uz rīga
+lūdzu atvest es no rīga
+vai arī tu vajadzēt atvest
+automašīna atvest
+veikals atvest ēst produkts
+gaidīt pie luksofors gaisma
+laimīgs ceļš

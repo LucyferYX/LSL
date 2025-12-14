@@ -1,0 +1,241 @@
+sveiks
+sveiks
+sveiks [NAME]
+sveiks [NAME]
+labdien
+labdien [NAME]
+labvakar
+labvakar [NAME]
+labrīt
+labrīt [NAME]
+sveiks
+sveiks [NAME]
+mans vārds ir [NAME]
+mans vārds ir [NAME]
+cilvēks ir dažāds vārds un vārds
+mans saukt [NAME]
+kāds vārds tu saukt
+vai tu saukt par [NAME]
+kā tu saukt
+kā jūs saukt
+kāds ir tavs vārds
+viņš saukt [NAME]
+viņš vārds ir [NAME]
+viņš vārds ir [NAME]
+vai tavs vārds ir [NAME]
+tas cilvēks vārds ir [NAME]
+[NAME] ir tas cilvēks vārds
+cilvēks vārds
+cilvēks [NAME]
+cilvēks vārds
+kāds ir tavs vārds
+kāds ir viņš vārds
+prieks tu redzēt
+prieks jūs redzēt
+es negribēt tu redzēt
+mans bija prieks tu redzēt
+ļoti patikt
+mans ir patikt tu redzēt
+mans ir ļoti patikt jūs redzēt
+prieks iepazīties
+prieks ar tavs iepazīties
+mans bija priecīgs ar jums iepazīties
+novēlēt jums veiksme
+novēlēt tavs veiksme
+jums taisnība
+viss tavs ir taisnība
+diemžēl jums nav taisnība
+mans ir prieks
+mans nav prieks
+kā tu iet
+mans iet labs
+mans ir iet
+tu ir iet
+kur mēs ir iet
+kur mēs iet
+es iet
+kā justies
+kā tu justies
+ir labs
+ir slikts
+mans iet labs
+mans iet slikts
+es justies slikts
+es justies labs
+viss ir labs
+tas nekas ir ok
+ok
+mums viss ir labs
+viss ir kārtība
+viss nav kārtība
+viss būt labs
+viss bija labs
+vai tu viss ir labs
+paldies
+paldies tu
+paldies kā ir tu
+lūdzu
+lūdzu [NAME]
+lūdzu esmu priecīgs
+piedot
+lūdzu piedot
+lūdzu piedot
+piedot mans
+piedot mans
+piedot mans [NAME]
+es piedot
+tu piedot
+vai tu piedot
+viņš piedot
+es saprast
+vai tu saprast
+es saprast tu
+es nevarēt tu saprast
+palīdzēt mans
+palīdzēt [NAME]
+vai tu varēt palīdzēt
+tu varēt palīdzēt
+kā es varēt palīdzēt
+es varēt palīdzēt
+es nevarēt palīdzēt
+vai palīdzēt ir labs
+vai palīdzēt
+vai tu palīdzēt
+mans tu bija palīdzēt
+vai viņš ir priecīgs
+vai viņš ir priecīgs
+es gribēt viņš palīdzēt
+vai viņš ir priecīgs
+vai viņš ir priecīgs
+es esmu labs
+es esmu slikts
+es esmu laimīgs
+es esmu laimīgs
+mans patikt [NAME]
+mans nepatikt [NAME]
+mans viņš nepatikt
+mans viņš nepatikt
+es viņš patikt
+es viņš patikt
+es viņš nepatikt
+es viņš nepatikt
+kāds tu esmu
+vai [NAME] ir labs
+vai [NAME] ir labs
+vai [NAME] ir slikts
+vai [NAME] ir slikts
+[NAME] ir ļoti labs
+[NAME] ir ļoti slikts
+es esmu priecīgs
+es esmu bēdīgs
+es neesmu priecīgs
+es neesmu ļoti priecīgs
+es neesmu bēdīgs
+es neesmu ļoti bēdīgs
+viņš nav laimīgs
+viņš nav laimīgs
+vai tu esmu bēdīgs
+vai jūs esmu priecīgs
+kāpēc tu esmu bēdīgs
+kāpēc jūs esmu bēdīgs
+[NAME] ir priecīgs
+[NAME] ir bēdīgs
+viņš ir laimīgs
+viņš ir laimīgs
+viņš nav ļoti laimīgs cilvēks
+mans ir būt laimīgs
+mans ir būt priecīgs
+es gribēt būt laimīgs
+es gribēt būt ļoti priecīgs
+mēs esmu laimīgs
+mēs esmu bēdīgs
+mēs esmu priecīgs
+viņi ir priecīgs un laimīgs
+viņi ir laimīgs un priecīgs
+viņš nav bēdīgs
+ko tu darīt
+ko mēs darīt
+ko viņš darīt
+jā
+jā labs
+paldies jā
+paldies jā
+piedot jā
+jā es gribēt
+jā es zināt
+vai tu esmu [NAME]
+jā es esmu [NAME]
+nē
+nē slikts
+paldies nē
+piedot nē
+paldies nē
+piedot piemēram kā
+es piedot
+viņi piedot
+nē es negribēt
+nē es nezināt
+nē es nezināt [NAME]
+nē es neesmu [NAME]
+mans nav
+mans ir
+kas tas ir
+kas tas varēt būt
+vai tas ir
+vai tu zināt
+vai jūs zināt
+vai jūs daudz zināt
+es zināt
+es nezināt
+es zināt maz
+es daudz nezināt
+es nezināt kas tas ir
+vai tu varēt runāt
+vai jūs nevarēt runāt
+viņš runāt
+viņš runāt
+lūdzu runāt
+lūdzu runāt ātrs
+lūdzu runāt lēns
+jūs runāt ātrs
+jūs runāt lēns
+viņš ļoti ātrs runāt
+viņš maz runāt
+viņš daudz runāt
+viņš maz runāt
+viņš sacīt
+ko tu sacīt
+ko [NAME] sacīt
+sacīt lūdzu
+ko viņš teikt
+ko mans teikt
+ko mēs teikt
+mēs teikt tu
+es teikt
+viņš daudz teikt
+piemēram
+piemēram kā
+žēl es nevarēt
+žēl
+žēl
+mans ir jūs žēl
+es tu žēl
+negribēt žēl
+tas nekas
+nekas
+nekas slikts
+neko nevarēt darīt
+tu pats
+pats cilvēks
+viss labs
+paldies viss labs
+arlabunakti
+arlabunakti [NAME]
+paldies un uz_redzēšanos
+uz_redzēšanos 
+uz_redzēšanos [NAME]
+laimīgs
+laimīgs [NAME]
+atā
+atā [NAME]
+paldies un atā

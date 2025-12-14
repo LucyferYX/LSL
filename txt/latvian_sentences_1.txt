@@ -1,0 +1,241 @@
+Sveiks!
+Sveika!
+Sveiks, [NAME].
+Sveika, [NAME]!
+Labdien!
+Labdien, [NAME].
+Labvakar!
+Labvakar, [NAME].
+Labrīt!
+Labrīt, [NAME].
+Čau!
+Čau, [NAME]!
+Mans vārds ir [NAME].
+Mans uzvārds ir [NAME].
+Cilvēkiem ir dažādi vārdi un uzvārdi.
+Mani sauc [NAME].
+Kādā vārdā tevi saukt?
+Vai tevi saukt par [NAME]?
+Kā tevi sauc?
+Kā jūs sauc?
+Kāds ir jūsu vārds?
+Viņu sauc [NAME].
+Viņa vārds ir [NAME].
+Viņas vārds ir [NAME].
+Vai tavs vārds ir [NAME]?
+Šī cilvēka vārds ir [NAME].
+[NAME] ir šīs personas vārds.
+Personas personvārds.
+Persona [NAME].
+Personu uzvārds.
+Kāds ir tavs vārds?
+Kāds ir viņas uzvārds?
+Prieks tevi redzēt.
+Priecājos jūs redzēt.
+Es negribu tevi redzēt.
+Man bija prieks tevi redzēt.
+Ļoti patīkami!
+Man ir patīkami tevi redzēt.
+Man ir ļoti patīkami jūs redzēt.
+Prieks iepazīties!
+Priecājos ar Jums iepazīties!
+Man bija prieks ar jums iepazīties.
+Novēlu jums veiksmi.
+Novēlu Jums veiksmi.
+Jums taisnība.
+Visiem Jums ir taisnība.
+Diemžēl jums nav taisnība.
+Man ir prieks.
+Man nav prieks.
+Kā tev iet?
+Man iet labi.
+Man ir jāiet.
+Tev ir jāiet.
+Kur mums ir jāiet?
+Kur mēs ejam?
+Es eju.
+Kā jūties?
+Kā tu jūties?
+Ir labi.
+Ir slikti.
+Man iet labi.
+Man iet slikti.
+Es jūtos labi.
+Es jūtos slikti.
+Viss ir ok.
+Tas nekas, ir ok.
+Ok.
+Mums viss ir labi.
+Viss ir kārtībā.
+Viss nav kārtībā.
+Viss būs labi.
+Viss bija labi.
+Vai tev viss ir labi?
+Paldies!
+Paldies tev.
+Paldies, kā ir tev?
+Lūdzu!
+Lūdzu, [NAME]!
+Lūdzu, esat priecīgi.
+Atvainojiet!
+Lūdzu, atvainojiet!
+Lūdzu, piedodiet.
+Piedodiet man.
+Piedod man.
+Piedod man, [NAME].
+Es atvainojos.
+Tu atvainojies?
+Vai tu atvainosies?
+Viņa atvainojās.
+Es saprotu.
+Vai tu saproti?
+Es saprotu tevi.
+Es nevaru tevi saprast.
+Palīdzi man!
+Palīdzi [NAME].
+Vai tu vari palīdzēt?
+Tu nevari palīdzēt?
+Kā es varu palīdzēt?
+Es varu palīdzēt.
+Es nevaru palīdzēt.
+Vai palīdzēt ir labi?
+Vai palīdzēsi?
+Vai tev palīdzēt?
+Man tev bija jāpalīdz.
+Es gribu palīdzēt.
+Es negribu viņam palīdzēt.
+Es gribu viņai palīdzēt.
+Vai viņa ir priecīga?
+Vai viņš ir priecīgs?
+Es esmu labs.
+Es esmu slikts.
+Es esmu laimīgs.
+Es esmu laimīga.
+Man patīk [NAME].
+Man nepatīk [NAME].
+Man viņš nepatīk.
+Man viņa nepatīk.
+Es viņai patīku.
+Es viņam patīku.
+Es viņai nepatīku.
+Es viņam nepatīku.
+Kāds tu esi?
+Vai [NAME] ir labs?
+Vai [NAME] ir laba?
+Vai [NAME] ir slikts?
+Vai [NAME] ir slikta?
+[NAME] ir ļoti laba.
+[NAME] ir ļoti slikta.
+Es esmu priecīgs.
+Es esmu bēdīgs.
+Es neesmu priecīgs.
+Es neesmu ļoti priecīga.
+Es neesmu bēdīgs.
+Es neesmu ļoti bēdīga.
+Viņš nav laimīgs.
+Viņa nav laimīga.
+Vai tu esi bēdīgs?
+Vai jūs esat priecīgs?
+Kāpēc tu esi bēdīgs?
+Kāpēc jūs esat bēdīgi?
+[NAME] ir priecīga.
+[NAME] ir bēdīga.
+Viņš ir laimīgs.
+Viņa ir laimīga.
+Viņš nav ļoti laimīgs cilvēks.
+Man ir jābūt laimīgai.
+Man ir jābūt priecīgam.
+Es gribu būt laimīgs.
+Es gribu būt ļoti priecīgs.
+Mēs esam laimīgi.
+Mēs esam bēdīgi.
+Mēs esam priecīgi.
+Viņas ir priecīgas un laimīgas.
+Viņi ir laimīgi un priecīgi.
+Viņa nav bēdīga.
+Ko tu dari?
+Ko mēs daram?
+Ko viņš darīs?
+Jā!
+Jā, labi!
+Paldies, jā!
+Pateicos, jā!
+Piedod, jā!
+Jā, es gribu.
+Jā, es zinu.
+Vai tu esi [NAME]?
+Jā, es esmu [NAME].
+Nē!
+Nē, slikti!
+Paldies, nē!
+Piedod, nē!
+Pateicos, nē!
+Atvainojiet, piemēram, kā?
+Es atvainojos.
+Viņi atvainojās.
+Nē, es negribu.
+Nē, es nezinu.
+Nē, es nezinu [NAME].
+Nē, es neesmu [NAME].
+Man nav.
+Man ir.
+Kas tas ir?
+Kas tas varētu būt?
+Vai tas ir?
+Vai tu zini?
+Vai jūs zināt?
+Vai jūs daudz zināt?
+Es zinu.
+Es nezinu.
+Es zinu maz.
+Es daudz nezinu.
+Es nezinu, kas tas ir.
+Vai tu vari runāt?
+Vai jūs nevarat runāt?
+Viņa runā.
+Viņa runāja.
+Lūdzu, runājiet.
+Lūdzu, runā ātrāk.
+Lūdzu, runājiet lēnāk.
+Jūs runājat ātri.
+Jūs runājiet lēni.
+Viņš ļoti ātri runā.
+Viņa maz runā.
+Viņa daudz runā.
+Viņš maz runā.
+Viņš sacīja.
+Ko tu saki?
+Ko [NAME] saka?
+Sakiet, lūdzu.
+Ko viņš teica?
+Ko man teikt?
+Ko mums teikt?
+Mēs teicām tev.
+Es teicu.
+Viņa daudz teica.
+Piemēram?
+Piemēram kā?
+Diemžēl, es nevaru.
+Diemžēl...
+Žēl!
+Man ir jūs žēl.
+Es tevi žēloju.
+Negribu žēlot.
+Tas nekas!
+Nekas!
+Nekas slikts.
+Neko nevar darīt.
+Tu pats.
+Paši cilvēki.
+Visu labu!
+Paldies, visu labu!
+Arlabunakti!
+Arlabunakti, [NAME]!
+Paldies un uz redzēšanos!
+Uz redzēšanos!
+Uz redzēšanos, [NAME]!
+Laimīgi!
+Laimīgi, [NAME]!
+Atā!
+Atā, [NAME]!
+Paldies un atā!
