@@ -48,6 +48,7 @@ tas apavi mans ir par mazs
 tas apavi ir par liels
 kurš apavi izmērs tas ir
 mans ir 40 apavi izmērs
+apavi nav labs krāsa
 tu aizvest apavi uz serviss
 dažāds krāsa šalle
 vai jums ir rozā šalle
@@ -69,6 +70,8 @@ cepure šalle zeķe un cimds šūt pakalpojums
 mans ļoti patikt gleznot
 es esmu gleznot cilvēks
 latvija nav daudz gleznot cilvēks
+paņemt tas skaists glezna
+gleznot cilvēks gleznot glezna
 
 mans ir sports nodarboties
 kāds ir tavs mīļš sports veids

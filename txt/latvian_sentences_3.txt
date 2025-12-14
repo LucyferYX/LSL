@@ -70,6 +70,8 @@ Cepuru, šaļļu, zeķu un cimdu šūšanas pakalpojums.
 Man ļoti patīk gleznot.
 Es esmu gleznotājs.
 Latvijā nav daudz gleznotāju.
+Ņemiet šo skaisto gleznu!
+Gleznotājs glezno gleznu.
 
 Man ir sporta nodarbības.
 Kāds ir tavs mīļākais sporta veids?

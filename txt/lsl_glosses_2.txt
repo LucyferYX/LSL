@@ -11,6 +11,7 @@ māte atrasties māja
 tēvs atrasties dzīvoklis
 māte saukt [NAME]
 tēvs saukt [NAME]
+[NAME] ir īss bet [NAME] ir garš cilvēks
 sveiks māte
 sveiks tēvs
 sveiks māte

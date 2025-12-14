@@ -11,6 +11,7 @@ Mammas atrodas mājās.
 Tēti atrodas dzīvoklī.
 Māti sauc [NAME].
 Tēvu sauc [NAME].
+[NAME] ir īss, bet [NAME] ir garš cilvēks.
 Čau, mamm!
 Čau, tēt!
 Sveika, mamm.
