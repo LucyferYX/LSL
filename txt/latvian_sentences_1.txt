@@ -47,6 +47,7 @@ Visiem Jums ir taisnība.
 Diemžēl jums nav taisnība.
 Man ir prieks.
 Man nav prieks.
+
 Kā tev iet?
 Man iet labi.
 Man ir jāiet.
@@ -105,6 +106,7 @@ Man tev bija jāpalīdz.
 Es gribu palīdzēt.
 Es negribu viņam palīdzēt.
 Es gribu viņai palīdzēt.
+
 Vai viņa ir priecīga?
 Vai viņš ir priecīgs?
 Es esmu labs.

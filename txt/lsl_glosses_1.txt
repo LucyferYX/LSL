@@ -47,6 +47,7 @@ viss tavs ir taisnība
 diemžēl jums nav taisnība
 mans ir prieks
 mans nav prieks
+
 kā tu iet
 mans iet labs
 mans ir iet
@@ -105,6 +106,7 @@ mans tu bija palīdzēt
 vai viņš ir priecīgs
 vai viņš ir priecīgs
 es gribēt viņš palīdzēt
+
 vai viņš ir priecīgs
 vai viņš ir priecīgs
 es esmu labs
