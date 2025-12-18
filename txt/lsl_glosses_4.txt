@@ -1,0 +1,155 @@
+[NUM]
+[NUM] gads
+[NUM] gads
+kad tu esmu dzimt
+es esmu dzimt [NUM] gads
+viņš dzimt [NUM] gads
+
+pēc nedēļa
+pirms nedēļa
+pēc 2 mēnesis
+pirms mēnesis
+tikai 1 nedēļa
+pēc apmēram 90 diena
+pēc nedaudz gads
+pēc 20 gads
+
+vasara sezona
+tieši ziema sezona
+gads garš diena ir vasara
+gads īss diena ir ziema
+pavasaris augs lapa_koks
+rudens koks lapa_koks ir krāsa
+koks ir vairāk lapa_koks
+pavasaris vasara rudens un ziema ir gads laiks
+kurš ir tavs mīļš gads laiks
+4 gads laiks
+
+pirmdiena ir darbs
+es gaidīt pirmdiena rīts
+tas pirmdiena būt nedaudz saule
+uz pirmdiena
+vai tas notikt nākamais pirmdiena
+otrdiena rīts būt lietus
+tas otrdiena es bija darbs
+otrdiena pēcpusdiena
+otrdiena draugs
+nākamais otrdiena
+es šodien gatavoties otrdiena
+tikai trešdiena
+nākamais trešdiena
+trešdiena gaidīt silts laiks
+brālis gatavoties trešdiena ceļojums
+dažāds atlaide ir katrs trešdiena
+es gatavoties darbs dokuments trešdiena
+nākamais ceturtdiena
+šodien ir ceturtdiena
+katrs ceturtdiena
+dokuments varēt saņemt ceturtdiena
+ceturtdiena vakars gaidīt lietus
+ceturtdiena es parasts strādāt no māja
+piektdiena lietus
+no pirmdiena uz piektdiena
+piektdiena rīts būt saule
+piektdiena zābaks ir atlaide
+dokuments saņemt piektdiena
+tas bieži notikt piektdiena
+piektdiena
+vai [NAME] notikt sestdiena
+sestdiena ir mans draugs [NAME] mīļš nedēļa diena
+atlaide sestdiena ir viss labs
+mēs izvēlēties tieši sestdiena
+braukt sestdiena
+sestdiena
+no sestdiena uz svētdiena
+gaidīt tu svētdiena
+dokuments jā nodot līdz svētdiena
+svētdiena mans patikt viss labs
+vai veikals svētdiena strādāt
+nākamais svētdiena būt saulains
+priecīgs svētdiena
+
+šodien ir saulains silts laiks
+rīt ir gaidīt spēcīgs lietus
+vakar bija nedaudz lietus
+
+līdz rīts
+rīts
+šodien nav vakars
+ir vēls rīts
+šodien ir ļoti vēls
+agrs rīts
+agrs no rīts
+viņš aizvest agrs nakts
+par agrs
+vēls vakars
+skaists rīts
+rīt rīts
+9 rīts
+rīts un vakars
+3 pēcpusdiena
+pēcpusdiena
+es gaidīt pēcpusdiena
+8 vakars
+drīz būt vakars
+drīz būt nakts
+šodien ir ļoti vēls
+tikai 1 sekunde
+pēc apmēram 5 sekunde
+gads ir 12 mēnesis
+12 stunda
+1 diena ir vairāk stunda
+diennakts ir diena un nakts
+pilns diennakts
+1 stunda ir 60 minūte
+1 minūte ir 60 sekunde
+70 kilometrs stunda
+80 kilometrs stunda
+70 dažāds pakalpojums
+80 dažāds pasūtīt
+5 diena nedēļa no pulkstenis 8 līdz 17
+vēl 17 metrs
+1 metrs
+5 metrs sekunde
+apmēram 4 metrs sekunde
+6 stunda 7 minūte un 8 sekunde
+šodien ir jauks diena
+kāds ir laiks apstāklis
+šodien laiks apstāklis
+pulkstenis laiks ir 12
+diena ir īss
+nakts ir garš
+šodien rīt vai vakar
+vakar nav labs
+viņš vakar atbraukt uz rīga
+līdz rīga vēl apmēram 18 minūte
+līdz rīga vēl braukt apmēram 13 kilometrs
+
+1 minūte
+cik minūtes
+cik ir pulkstenis
+pulkstenis ir 5
+pulkstenis 6
+pulkstenis 7 vai 8
+pulkstenis atpalikt par 10 minūtes
+pulkstenis 9
+pulkstenis 5
+pulkstenis 5 rīts
+pulkstenis 2 nakts
+tas ir jauns lēts pulkstenis
+pirms 9 minūtes
+autobuss atbraukt pēc 15 minūtes
+tikai 15 sekunde
+mans pulkstenis šodien atpalikt
+
+varbūt apmēram 14 vai 16 minūte
+apmēram 6 stunda un 13 minūte
+apmēram 3 stunda
+apmēram 20 minūte
+5 minūte pāri 12
+15 minūte pāri 11
+20 minūte pāri 10
+30 minūte pāri 5
+40 minūte pāri 7
+40 5 minūte pāri 9
+50 6 minūte pāri 8

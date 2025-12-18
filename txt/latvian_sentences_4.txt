@@ -1,0 +1,155 @@
+[NUM]
+[NUM]. gads.
+[NUM]. gadā.
+Kad tu esi dzimis?
+Es esmu dzimusi [NUM] gadā.
+Viņš piedzima [NUM] gadā.
+
+Pēc nedēļas.
+Pirms divām nedēļām.
+Pēc diviem mēnešiem.
+Pirms mēneša.
+Tikai vienu nedēļu.
+Pēc apmēram deviņdesmit dienām.
+Pēc dažiem gadiem.
+Pēc divdesmit gadiem.
+
+Vasaras sezona.
+Tieši ziemas sezonā.
+Gada garākā diena ir vasarā.
+Gada īsākā diena ir ziemā.
+Pavasara augu lapas.
+Rudenī koku lapas ir krāsaini.
+Kokiem ir vairākas lapas.
+Pavasaris, vasara, rudens un ziema ir gadalaiks.
+Kurš ir Jūsu mīļākais gadalaiks?
+Četri gadalaiki.
+
+Pirmdien ir darbs.
+Es gaidu pirmdienas rītu.
+Šajā pirmdienā būs maz saules.
+Uz pirmdienu.
+Vai tas notiks nākoš pirmdien?
+Otrdien no rīta būs lietus.
+Šo otrdien es biju darbā.
+Otrdienas pēcpusdienā.
+Otrdienu draudzenes.
+Nākamajā otrdienā.
+Es šobrīd gatavojos otrdienai.
+Tikai trešdienās.
+Nākošajā trešdienā.
+Trešdien gaidāms silts laiks.
+Brālis gatavojas trešdienas ekskursijai.
+Dažādas atlaides ir katru trešdienu.
+Es sagatavoju darba dokumentus trešdienai.
+Nākam ceturtdien.
+Šodien ir ceturtdiena.
+Katru ceturtdienu.
+Dokumentus varēsi saņemt ceturtdien.
+Ceturtdienas vakarā gaidāms lietus.
+Ceturtdienā es parasti strādāju no mājām.
+Piektdienas lietus.
+No pirmdienas uz piektdienu.
+Piektdien no rīta būs saule.
+Piektdienā zābakiem ir atlaides.
+Dokumentus saņemsi piektdien.
+Tas bieži notiek piektdienās.
+Piektdienām.
+Vai [NAME] notiek sestdienā?
+Sestdiena ir mana drauga [NAME] mīļākā nedēļas diena.
+Atlaides sestdienās ir vislabākās.
+Mēs izvēlējāmies tieši sestdienu.
+Braucam sestdien?
+Sestdienām.
+No sestdienas uz svētdienu.
+Gaidīšu tevi svētdien!
+Dokumenti jānodod līdz svētdienai.
+Svētdiena man patīk vislabāk.
+Vai veikals svētdienā strādā?
+Nākamā svētdiena būs saulaina.
+Priecīgu svētdienu!
+
+Šodien ir saulains, silts laiks.
+Rītdien ir gaidāms spēcīgs lietus.
+Vakardien bija nedaudz lietus.
+
+Līdz rītam!
+No rīta.
+Tagad nav vakars.
+Ir vēls rīts.
+Tagad ir ļoti vēls.
+Agrs rīts.
+Agri no rīta.
+Viņu aizveda agri naktī.
+Par agru!
+Vēlu vakarā.
+Skaists rīts.
+Rīt no rīta.
+Deviņos no rīta.
+Rīti un vakari.
+Trijos pēcpusdienā.
+Pēcpusdiena.
+Es gaidu pēcpusdienu.
+Astoņos vakarā.
+Drīz būs vakars.
+Drīz būs nakts.
+Tagad ir ļoti vēls.
+Tikai viena sekunde.
+Pēc apmēram piecām sekundēm.
+Gadā ir divpadsmit mēneši.
+Divpadsmit stundas.
+Vienā dienā ir vairākas stundas.
+Diennaktī ir diena un nakts.
+Pilna diennakts.
+Vienā stundā ir sešdesmit minūtes.
+Vienā minūtē ir sešdesmit sekundes.
+Septiņdesmit kilometri stundā.
+Astoņdesmit kilometri stundā.
+Septiņdesmit dažādu pakalpojumu.
+Astoņdesmit dažādu pasūtījumu.
+Piecas dienas nedēļā no plkst. astoņiem līdz septiņpadsmitiem.
+Vēl septiņpadsmit metri.
+Viens metrs.
+Pieci metri sekundē.
+Apmēram četri metri sekundē.
+Sešas stundas, septiņas minūtes un astoņas sekundes.
+Šodien ir jauka diena.
+Kādi ir laika apstākļi?
+Tagadējie laikapstākļi.
+Pulksteņa laiks ir divpadsmit.
+Diena ir īsa.
+Nakts ir gara.
+Šodien, rītdien vai vakardien?
+Vakardiena nebija laba.
+Viņa vakar atbrauca uz Rīgu.
+Līdz Rīgai vēl aptuveni astoņpadsmit minūtes.
+Līdz Rīgai vēl jābrauc apmēram trīspadsmit km.
+
+Viena minūte.
+Cik minūtes?
+Cik ir pulkstenis?
+Pulkstenis ir pieci.
+Pulksten sešos.
+Pulksten septiņos vai astoņos.
+Pulkstenis atpaliek par desmit minūtēm.
+Pulksten deviņos.
+Pulksten piecos.
+Plkst. piecos no rīta.
+Plkst. divos naktī.
+Šis ir jauns, lēts pulkstenis.
+Pirms deviņām minūtēm.
+Autobuss atbrauks pēc piecpadsmit minūtēm.
+Tikai piecpadsmit sekundes!
+Mans pulkstenis tagad atpaliek.
+
+Varbūt aptuveni četrpadsmit vai sešpadsmit minūtes.
+Aptuveni sešas stundas un trīspadsmit minūtes.
+Aptuveni trīs stundas.
+Apmēram divdesmit minūtes.
+Piecas minūtes pāri divpadsmitiem.
+Piecpadsmit minūtes pāri vienpadsmitiem.
+Divdesmit minūtes pāri desmitiem.
+Trīsdesmit minūtes pāri pieciem.
+Četrdesmit minūtes pāri septiņiem.
+Četrdesmit piecas minūtes pāri deviņiem.
+Piecdesmit sešas minūtes pāri astoņiem.

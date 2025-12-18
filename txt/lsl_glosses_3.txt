@@ -3,7 +3,9 @@ kāds krāsa tu patikt
 [NAME] patikt zils krāsa
 mans nepatikt violets krāsa
 mans mīļš krāsa ir rozā
-viņš viss labs patikt zils krāsa
+viņi viss labs patikt zils krāsa
+viņi nepatikt sarkans krāsa
+oranžs nav skaists krāsa
 nē violets ir viss labs
 mans patikt piemēram sarkans un dzeltens zieds
 sarkans dzeltens zaļš luksofors krāsa
@@ -20,6 +22,8 @@ es pirkt balts puķe
 tas puķe ir dzeltens zieds
 aizvest viņš tavs zieds
 lūdzu 40 puķe
+es nodarboties ar puķe kopt
+puķe kopt veikals
 es esmu dārzs cilvēks
 dārzs cilvēks pirkt sēkla
 kāds veids sēkla
@@ -28,13 +32,29 @@ vairāk diena es strādāt dārzs
 pirms 4 gads mans bija ļoti liels dārzs
 augs ir vajadzēt labs brūns zeme
 zeme varēt pirkt dārzs kopt veikals
+[NAME] nodarboties ar dārzs kopt
+viņi nodarboties ar zeme kopt
+izmantot zeme
+auglīgs brūns zeme
+auglīgs darbs
+
+mežs kopt
+nāc mans līdzi uz mežs
+mežs ir daudz koks
+ceļojums uz [NAME] mežs
+zaļš mežs
+varbūt nāc ar mans uz tas mežs
 
 es bieži pirkt apģērbs veikals
+nevarēt izvēlēties ko pirkt
 [NAME] veikals ir vairāk_nekā 100 dažāds lielums krekls
 brūns krekls
+uz krekls ir traips
+[NAME] pirkt apmēram [NUM] krekls
 mans māja ir apmēram 30 krekls
 vai jums ir cits krekls
 mans ir vajadzēt krekls un zils bikses
+es parasts pirkt melns krekls un melns bikses
 džinsi bikses
 mans mīļš bikses ir džinsi
 vai tas ir džinsi
@@ -46,32 +66,59 @@ es pasūtīt sieviete apavi
 apavi nav labs krāsa
 tas apavi mans ir par mazs
 tas apavi ir par liels
+uz apavi ir vairāk traips
 kurš apavi izmērs tas ir
 mans ir 40 apavi izmērs
 apavi nav labs krāsa
+tas apavi ir 60 procents atlaide
 tu aizvest apavi uz serviss
+kur ir otrais zābaks
+kāds ir [NAME] zābaks cena
+tas zābaks mans ir pārāk mazs
+vai zābaks ir atlaide
+20 7 eiro jo viss zābaks šodien ir atlaide
 dažāds krāsa šalle
 vai jums ir rozā šalle
 krāsa šalle
+es vēlēties balts šalle
 tas šalle ir ļoti dārgs
 kāds tu cimds
+viņš negribēt oranžs cimds
+cimds ir 40 procents atlaide
 cimds ir dārgs bet cepure ir lēts
 mans patikt tas krāsa cepure
 vai es varēt pasūtīt šūt cepure
+cik maksāt tas cepure
+cepure maksāt 11 eiro un 19 cents
 vai tas apģērbs ir arī cits krāsa
 vai tas apģērbs veikals ir zeķe
-es meklēt mans zeķe
+es meklēt savs zeķe
+zeķe ir nedaudz traips
 es šūt dažāds apģērbs
+[NAME] vajadzēt tumšs brilles
 es gribēt pasūtīt brilles
 brilles cena ir augsts
+brilles vajadzēt būt liels bet cena mazs
+brilles ir melns traips
+mans ir vajadzēt mētelis jo drīz būt ziema
+es vēlēties tas melns mētelis
+mētelis tas veikals ir pārāk dārgs
+es gribēt pasūtīt nedaudz mētelis
+mētelis ar josta
+cik c m garš ir tas josta
 cepure šalle zeķe un cimds šūt pakalpojums
 šūt darbnīca
 
+liels glīts glezna
 mans ļoti patikt gleznot
 es esmu gleznot cilvēks
 latvija nav daudz gleznot cilvēks
 paņemt tas skaists glezna
 gleznot cilvēks gleznot glezna
+viņš parasts gleznot savs darbnīca
+mans glezna parasts ir lēts
+tas glezna ir ļoti dārgs
+es meklēt tas tumšs glezna gleznot cilvēks
 
 mans ir sports nodarboties
 kāds ir tavs mīļš sports veids
@@ -83,3 +130,7 @@ nav tikai 1 veids
 parasts ģimene patikt ceļot
 kur ceļot
 mēs ceļot 1 mēnesis
+ģimene sagatavot ceļojums
+sagatavot
+sagatavot savs bērns
+braukt ceļojums uz dažāds latvija pilsēta

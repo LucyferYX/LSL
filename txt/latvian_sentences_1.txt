@@ -48,6 +48,8 @@ Diemžēl jums nav taisnība.
 Man ir prieks.
 Man nav prieks.
 
+Nāc!
+Nāciet!
 Kā tev iet?
 Man iet labi.
 Man ir jāiet.
@@ -77,6 +79,8 @@ Paldies tev.
 Paldies, kā ir tev?
 Lūdzu!
 Lūdzu, [NAME]!
+Lūdzu, nāciet!
+Nāciet līdzi.
 Lūdzu, esat priecīgi.
 Atvainojiet!
 Lūdzu, atvainojiet!

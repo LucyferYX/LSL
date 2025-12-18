@@ -48,6 +48,8 @@ diemžēl jums nav taisnība
 mans ir prieks
 mans nav prieks
 
+nāc
+nāc
 kā tu iet
 mans iet labs
 mans ir iet
@@ -77,6 +79,8 @@ paldies tu
 paldies kā ir tu
 lūdzu
 lūdzu [NAME]
+lūdzu nāc
+nāc līdzi
 lūdzu esmu priecīgs
 piedot
 lūdzu piedot
@@ -189,7 +193,7 @@ vai jūs zināt
 vai jūs daudz zināt
 es zināt
 es nezināt
-es zināt maz
+es zināt nedaudz
 es daudz nezināt
 es nezināt kas tas ir
 vai tu varēt runāt
@@ -202,9 +206,9 @@ lūdzu runāt lēns
 jūs runāt ātrs
 jūs runāt lēns
 viņš ļoti ātrs runāt
-viņš maz runāt
+viņš nedaudz runāt
 viņš daudz runāt
-viņš maz runāt
+viņš nedaudz runāt
 viņš sacīt
 ko tu sacīt
 ko [NAME] sacīt
