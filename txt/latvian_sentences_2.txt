@@ -15,6 +15,9 @@ Tēvu sauc [NAME].
 Čau, tēt!
 Sveika, mamm.
 Sveiks, tēt.
+Šis ir mans vīrs [NAME].
+Šī ir mana sieva [NAME].
+Man nav vīra vai sievas.
 Es tevi mīlu!
 Vai tu mīli savu radus?
 Tie ir mani radi.
@@ -51,6 +54,9 @@ Tas ir viņas bērns.
 Bērnu sauc [NAME].
 Vai jums ir bērni?
 Man ir 2 bērni - dēls un meita.
+[NAME] pārnāk mājās.
+Vai bērni drīz pārnāks?
+Kad man atnākt?
 Cik gadu ir jūsu meitai?
 Vai šis ir jūsu dēls?
 Cik jums ir dēli?
@@ -98,6 +104,8 @@ Kur tu dzīvo?
 Mēs dzīvojam.
 Es dzīvoju.
 Es dzīvoju Rīgā.
+Vai tu dzīvo tālu no Rīgas?
+Vai tas ir tālu no šejienes?
 Es rīt būšu Rīgā.
 Kurš ir tavs mājas numurs?
 Manas mājas numurs ir divdesmit pieci.

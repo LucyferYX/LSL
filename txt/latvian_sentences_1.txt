@@ -32,6 +32,7 @@ Kāds ir tavs vārds?
 Kāds ir viņas uzvārds?
 Prieks tevi redzēt.
 Priecājos jūs redzēt.
+Priecājos Jūs redzēt.
 Es negribu tevi redzēt.
 Man bija prieks tevi redzēt.
 Ļoti patīkami!
@@ -142,6 +143,7 @@ Viņš nav laimīgs.
 Viņa nav laimīga.
 Vai tu esi bēdīgs?
 Vai jūs esat priecīgs?
+Kāpēc?
 Kāpēc tu esi bēdīgs?
 Kāpēc jūs esat bēdīgi?
 [NAME] ir priecīga.

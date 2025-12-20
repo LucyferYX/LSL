@@ -32,6 +32,7 @@ kāds ir tavs vārds
 kāds ir viņš vārds
 prieks tu redzēt
 prieks jūs redzēt
+prieks tu redzēt
 es negribēt tu redzēt
 mans bija prieks tu redzēt
 ļoti patikt
@@ -39,7 +40,7 @@ mans ir patikt tu redzēt
 mans ir ļoti patikt jūs redzēt
 prieks iepazīties
 prieks ar tavs iepazīties
-mans bija priecīgs ar jums iepazīties
+mans bija prieks ar jums iepazīties
 novēlēt jums veiksme
 novēlēt tavs veiksme
 jums taisnība
@@ -81,7 +82,7 @@ lūdzu
 lūdzu [NAME]
 lūdzu nāc
 nāc līdzi
-lūdzu esmu priecīgs
+lūdzu esmu prieks
 piedot
 lūdzu piedot
 lūdzu piedot
@@ -107,12 +108,12 @@ vai palīdzēt ir labs
 vai palīdzēt
 vai tu palīdzēt
 mans tu bija palīdzēt
-vai viņš ir priecīgs
-vai viņš ir priecīgs
+vai viņš ir prieks
+vai viņš ir prieks
 es gribēt viņš palīdzēt
 
-vai viņš ir priecīgs
-vai viņš ir priecīgs
+vai viņš ir prieks
+vai viņš ir prieks
 es esmu labs
 es esmu slikts
 es esmu laimīgs
@@ -132,32 +133,33 @@ vai [NAME] ir slikts
 vai [NAME] ir slikts
 [NAME] ir ļoti labs
 [NAME] ir ļoti slikts
-es esmu priecīgs
+es esmu prieks
 es esmu bēdīgs
-es neesmu priecīgs
-es neesmu ļoti priecīgs
+es neesmu prieks
+es neesmu ļoti prieks
 es neesmu bēdīgs
 es neesmu ļoti bēdīgs
 viņš nav laimīgs
 viņš nav laimīgs
 vai tu esmu bēdīgs
-vai jūs esmu priecīgs
+vai jūs esmu prieks
+kāpēc
 kāpēc tu esmu bēdīgs
 kāpēc jūs esmu bēdīgs
-[NAME] ir priecīgs
+[NAME] ir prieks
 [NAME] ir bēdīgs
 viņš ir laimīgs
 viņš ir laimīgs
 viņš nav ļoti laimīgs cilvēks
 mans ir būt laimīgs
-mans ir būt priecīgs
+mans ir būt prieks
 es gribēt būt laimīgs
-es gribēt būt ļoti priecīgs
+es gribēt būt ļoti prieks
 mēs esmu laimīgs
 mēs esmu bēdīgs
-mēs esmu priecīgs
-viņi ir priecīgs un laimīgs
-viņi ir laimīgs un priecīgs
+mēs esmu prieks
+viņi ir prieks un laimīgs
+viņi ir laimīgs un prieks
 viņš nav bēdīgs
 ko tu darīt
 ko mēs darīt

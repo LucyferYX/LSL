@@ -15,6 +15,9 @@ sveiks māte
 sveiks tēvs
 sveiks māte
 sveiks tēvs
+tas ir mans vīrs [NAME]
+tas ir mans vīrs [NAME]
+mans nav vīrs vai vīrs
 es tu mīlēt
 vai tu mīlēt savs radi
 tas ir mans radi
@@ -51,6 +54,9 @@ tas ir viņš bērns
 bērns saukt [NAME]
 vai jums ir bērns
 mans ir 2 bērns dēls un meita
+[NAME] atnākt māja
+vai bērns drīz atnākt
+kad mans atnākt
 cik gads ir tavs meita
 vai tas ir tavs dēls
 cik jums ir dēls
@@ -98,6 +104,8 @@ kur tu dzīvot
 mēs dzīvot
 es dzīvot
 es dzīvot rīga
+vai tu dzīvot tālu no rīga
+vai tas ir tālu no šeit
 es rīt būt rīga
 kurš ir tavs māja numurs
 mans māja numurs ir 20 5
@@ -220,7 +228,7 @@ viņš vēlēties pelnīt vairāk
 vidējs alga valsts
 es negribēt saņemt vidējs alga
 vai tu saņemt liels alga
-vai jūs esmu priecīgs par saņemt alga
+vai jūs esmu prieks par saņemt alga
 vai mans paņemt kredīts
 mans ir mazs alga varbūt mans vajadzēt kredīts no banka
 cik liels būt kredīts

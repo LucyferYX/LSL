@@ -5,6 +5,9 @@ kad tu esmu dzimt
 es esmu dzimt [NUM] gads
 viņš dzimt [NUM] gads
 
+drīz
+tūlīt
+nesen
 pēc nedēļa
 pirms nedēļa
 pēc 2 mēnesis
@@ -16,6 +19,7 @@ pēc 20 gads
 
 vasara sezona
 tieši ziema sezona
+rudens vai pavasaris sezona
 gads garš diena ir vasara
 gads īss diena ir ziema
 pavasaris augs lapa_koks
@@ -23,7 +27,16 @@ rudens koks lapa_koks ir krāsa
 koks ir vairāk lapa_koks
 pavasaris vasara rudens un ziema ir gads laiks
 kurš ir tavs mīļš gads laiks
+vasara parasts ir silts
+rudens atnākt ar vējš
+atnākt rudens gleznot latvija
+ziema sniegs
+debesis rudens bieži ir pelēks
+ziema šodien gads bija auksts
+pavasaris un rudens lietus
+pavasaris ir 1 no 4 gadalaiks
 4 gads laiks
+gadalaiks laiks apstāklis mainīt katrs gads
 
 pirmdiena ir darbs
 es gaidīt pirmdiena rīts
@@ -67,11 +80,77 @@ dokuments jā nodot līdz svētdiena
 svētdiena mans patikt viss labs
 vai veikals svētdiena strādāt
 nākamais svētdiena būt saulains
-priecīgs svētdiena
+prieks svētdiena
 
+diena laiks
 šodien ir saulains silts laiks
 rīt ir gaidīt spēcīgs lietus
 vakar bija nedaudz lietus
+debesis mākonis
+debesis bija pilns ar mākonis
+mākonis debesis
+debesis atrasties balts mākonis
+tumšs vai pelēks mākonis solīt lietus
+mākonis lēns kustība debesis
+pelēks mākonis varbūt būt lietus
+1 liels mākonis
+lietus jā lietot lietussargs un lietus mētelis
+sagatavot mēs viss lietus mētelis
+viss ģimene lietus lietot lietussargs
+kur ir [NAME] lietussargs
+tu esmu bez lietussargs
+debesis šodien rīts bija gaišs
+šodien rīts bija gaišs rīts
+šodien rīts bija spēcīgs lietus
+vājš lietus sākt rīts
+lietus bija vājš
+tūlīt būt stiprs lietus
+lietus viss diena
+bez vējš
+pūst stiprs vējš
+vilkt mētelis jo pūst vējš
+kad sākt pūst vējš
+pēc lietus saule
+spīdīgs saule
+saule spīdīgs rīt
+tikai nesen spīdīgs saule
+pilns mēness
+mēness spīdīgs nakts
+mēness atstarot saule gaisma
+atstarot gaisma
+mans mētelis atstarot gaisma
+es debesis redzēt mēness
+saule ir diena bet mēness nakts
+mēness nav spīdīgs
+ļoti spīdīgs saule
+saule nav redzēt
+debesis ir daudz zvaigznes
+zvaigznes nakts bija spīdīgs
+auksts ziema nakts spīdīgs zvaigznes
+vēss rudens rīts lietus
+starp zvaigznes
+sniegs uz ceļš
+nē ēst dzeltens sniegs
+biezs balts sniegs
+tikai šodien sniegs
+skaists sniegpārslas
+sniegpārslas ir auksts
+es tālu dzirdēt pērkons
+spīdīgs zibens
+starp mākonis [NAME] redzēt zibens
+pēc zibens es dzirdēt pērkons
+pērkons bija ļoti skaļš
+pērkons un zibens solīt vētra
+liels spēcīgs vētra
+vētrains apstāklis
+vētrains skaļš nakts
+mans ir vēss es vilkt mētelis
+vēss rīts
+
+sinoptiķis solīt silts saulains laiks
+šodien rīts sinoptiķis solīt spēcīgs vējš
+sinoptiķis solīt biezs sniegs
+vai tu esmu sinoptiķis
 
 līdz rīts
 rīts
@@ -93,6 +172,8 @@ es gaidīt pēcpusdiena
 8 vakars
 drīz būt vakars
 drīz būt nakts
+kluss nakts
+kluss zvaigznes nakts
 šodien ir ļoti vēls
 tikai 1 sekunde
 pēc apmēram 5 sekunde
@@ -115,7 +196,9 @@ apmēram 4 metrs sekunde
 6 stunda 7 minūte un 8 sekunde
 šodien ir jauks diena
 kāds ir laiks apstāklis
+slikts laiks apstāklis
 šodien laiks apstāklis
+laiks apstāklis mainīt ātrs
 pulkstenis laiks ir 12
 diena ir īss
 nakts ir garš

@@ -5,6 +5,9 @@ Kad tu esi dzimis?
 Es esmu dzimusi [NUM] gadā.
 Viņš piedzima [NUM] gadā.
 
+Drīz!
+Tūlīt!
+Nesen.
 Pēc nedēļas.
 Pirms divām nedēļām.
 Pēc diviem mēnešiem.
@@ -16,6 +19,7 @@ Pēc divdesmit gadiem.
 
 Vasaras sezona.
 Tieši ziemas sezonā.
+Rudens vai pavasara sezona?
 Gada garākā diena ir vasarā.
 Gada īsākā diena ir ziemā.
 Pavasara augu lapas.
@@ -23,7 +27,16 @@ Rudenī koku lapas ir krāsaini.
 Kokiem ir vairākas lapas.
 Pavasaris, vasara, rudens un ziema ir gadalaiks.
 Kurš ir Jūsu mīļākais gadalaiks?
+Vasara parasti ir silta.
+Rudens atnāk ar vēju.
+Nāk rudens apgleznot Latviju.
+Ziemā snieg sniegs.
+Debesis rudenī bieži ir pelēkas.
+Ziema šogad bija auksta.
+Pavasarī un rudenī līst lietus.
+Pavasaris ir viens no četriem gadalaikiem.
 Četri gadalaiki.
+Gadalaiku laikapstākļi mainās katru gadu.
 
 Pirmdien ir darbs.
 Es gaidu pirmdienas rītu.
@@ -69,9 +82,75 @@ Vai veikals svētdienā strādā?
 Nākamā svētdiena būs saulaina.
 Priecīgu svētdienu!
 
+Dienas laikā.
 Šodien ir saulains, silts laiks.
 Rītdien ir gaidāms spēcīgs lietus.
 Vakardien bija nedaudz lietus.
+Debesu mākoņi.
+Debesis bija pilnas ar mākoņiem.
+Mākoņainas debesis.
+Debesīs atrodas balti mākoņi.
+Tumši vai pelēki mākoņi sola lietu.
+Mākoņi lēni kustējās debesīs.
+Pelēki mākoņi, varbūt būs lietus.
+Viens liels mākonis.
+Lietū jālieto lietussargs un lietusmētelis.
+Sagatavo mums visiem lietusmēteļus.
+Visi ģimenē lietū lieto lietussargus.
+Kur ir [NAME] lietussargs?
+Tu esi bez lietussarga?
+Debesis šorīt bija gaišas.
+Šorīt bija gaišs rīts.
+Šorīt bija spēcīgi lieti.
+Vājais lietus sākās no rīta.
+Lietus bija vājš.
+Tūlīt būs stiprs lietus.
+Lietus lija visu dienu.
+Bezvējš.
+Pūš stiprs vējš.
+Vilku mēteli, jo pūta vējš.
+Kad sāka pūst vējš?
+Pēc lietus - saule.
+Spīd saule.
+Saule spīdēs rīt.
+Tikai nesen spīdēja saule.
+Pilns mēness.
+Mēness spīd naktī.
+Mēness atstaro saules gaismu.
+Atstarot gaismu.
+Mans mētelis atstaro gaismu.
+Es debesīs redzu mēnesi.
+Saule ir dienā, bet mēness - naktī.
+Mēness nav spožs.
+Ļoti spoža saule.
+Saule nebija redzama.
+Debesīs ir daudz zvaigžņu.
+Zvaigznes naktī bija spožas.
+Aukstā ziemas naktī spīdēja zvaigznes.
+Vēsā rudens rītā lija lietus.
+Starp zvaigznēm.
+Sniegs uz ceļiem.
+Neēst dzeltenu sniegu.
+Biezs, balts sniegs.
+Tikai šodien snigs sniegs.
+Skaistas sniegpārslas.
+Sniegpārsla ir auksta.
+Es tālumā dzirdu pērkonu.
+Spožs zibens.
+Starp mākoņiem [NAME] redzēja zibeni.
+Pēc zibeņa es dzirdēju pērkonu.
+Pērkons bija ļoti skaļš.
+Pērkons un zibens sola vētru.
+Liela, spēcīga vētra.
+Vētraini apstākļi.
+Vētraina, skaļa nakts.
+Man ir vēsi, es uzvilkšu mēteli.
+Vēsi rīti.
+
+Sinoptiķi sola siltu, saulainu laiku.
+Šorīt sinoptiķi solīja spēcīgu vēju.
+Sinoptiķi sola biezu sniegu.
+Vai tu esi sinoptiķis?
 
 Līdz rītam!
 No rīta.
@@ -93,6 +172,8 @@ Es gaidu pēcpusdienu.
 Astoņos vakarā.
 Drīz būs vakars.
 Drīz būs nakts.
+Klusa nakts.
+Klusa, zvaigžņota nakts.
 Tagad ir ļoti vēls.
 Tikai viena sekunde.
 Pēc apmēram piecām sekundēm.
@@ -115,7 +196,9 @@ Apmēram četri metri sekundē.
 Sešas stundas, septiņas minūtes un astoņas sekundes.
 Šodien ir jauka diena.
 Kādi ir laika apstākļi?
+Slikti laikapstākļi.
 Tagadējie laikapstākļi.
+Laikapstākļi mainās ātri.
 Pulksteņa laiks ir divpadsmit.
 Diena ir īsa.
 Nakts ir gara.

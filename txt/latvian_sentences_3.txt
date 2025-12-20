@@ -19,6 +19,13 @@ Skaistas ziedu krāsas.
 Puķēm ir vairāki ziedi.
 Ko mēs nopirksim.
 Es nopirkšu baltās puķes.
+Es nopirkšu šīs rozes manai sievai.
+Vīram ļoti patīk rozes.
+Viņa mīl rozes.
+Kuru rozi nopirkt?
+Saulespuķe.
+Cik maksā saulespuķes?
+Vai Jums ir saulespuķu sēklas?
 Šai puķei ir dzelteni ziedi.
 Aiznesīsim viņam tavus ziedus?
 Lūdzu, četrdesmit puķes!
@@ -126,6 +133,8 @@ Sportistam ir daudz enerģijas.
 Viena veida enerģija.
 Eksistē vairāki sporta veidi.
 Neeksistē tikai viens veids.
+Viņš kustās pārāk lēni.
+[NAME] kustējās ātri.
 
 Parasti ģimenēm patīk ceļot.
 Kur ceļosim?

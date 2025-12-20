@@ -19,6 +19,13 @@ skaists zieds krāsa
 puķe ir vairāk zieds
 ko mēs pirkt
 es pirkt balts puķe
+es pirkt tas roze mans vīrs
+vīrs ļoti patikt roze
+viņš mīlēt roze
+kurš roze pirkt
+saule puķe
+cik maksāt saule puķe
+vai tu ir saule puķe sēkla
 tas puķe ir dzeltens zieds
 aizvest viņš tavs zieds
 lūdzu 40 puķe
@@ -126,6 +133,8 @@ viņš ir daudz enerģija
 1 veids enerģija
 ir vairāk sports veids
 nav tikai 1 veids
+viņš kustība pārāk lēns
+[NAME] kustība ātrs
 
 parasts ģimene patikt ceļot
 kur ceļot
