@@ -111,6 +111,15 @@ mans tu bija palīdzēt
 vai viņš ir prieks
 vai viņš ir prieks
 es gribēt viņš palīdzēt
+protams
+jā protams
+protams nē
+piekrist
+jā es piekrist
+labs viņš piekrist
+nepiekrist
+nē nepiekrist
+viņi nepiekrist
 
 vai viņš ir prieks
 vai viņš ir prieks
@@ -223,6 +232,8 @@ es teikt
 viņš daudz teikt
 piemēram
 piemēram kā
+šausmas
+šausmas
 žēl es nevarēt
 žēl
 žēl

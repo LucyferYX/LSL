@@ -13,6 +13,8 @@ Braucam pie zaļās gaismas.
 Viņš aizbrauca pie sarkanās gaismas.
 Apstājamies pie sarkanās gaismas.
 Vai tev ir iemīļota nodarbošanās?
+Ko tu dari brīvajā laikā?
+Man brīvā laika gandrīz nav.
 
 Man patīk ziedi.
 Skaistas ziedu krāsas.
@@ -89,6 +91,7 @@ Vai jums ir rozā šalles?
 Krāsainām šallēm.
 Es vēlos balto šalli.
 Šī šalle ir ļoti dārga.
+Lūdzu, divus cimdus.
 Kādi tev cimdi?
 Viņa negrib oranžos cimdus.
 Cimdiem ir četrdesmit procentu atlaide!
@@ -98,6 +101,7 @@ Vai es varētu pasūtīt sašūtu cepuri?
 Cik maksā šīs cepures?
 Cepure maksā vienpadsmit eiro un deviņpadsmit centus.
 Vai šādi apģērbi ir arī citās krāsās?
+Divas zeķes.
 Vai šajā apģērbu veikalā ir zeķes?
 Es meklēju savu zeķi!
 Zeķēm ir daži traipi.

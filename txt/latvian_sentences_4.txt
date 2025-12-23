@@ -2,12 +2,18 @@
 [NUM]. gads.
 [NUM]. gadā.
 Kad tu esi dzimis?
-Es esmu dzimusi [NUM] gadā.
-Viņš piedzima [NUM] gadā.
+Es esmu dzimusi [NUM]. gadā.
+Viņš piedzima [NUM]. gadā.
+Piedzimis [NUM]. gadā.
+Dzimusi [NUM]. gada [NUM]. janvārī.
 
+Kad?
 Drīz!
 Tūlīt!
+Vēlāk.
 Nesen.
+Tuvu.
+Tālu.
 Pēc nedēļas.
 Pirms divām nedēļām.
 Pēc diviem mēnešiem.
@@ -25,6 +31,7 @@ Gada īsākā diena ir ziemā.
 Pavasara augu lapas.
 Rudenī koku lapas ir krāsaini.
 Kokiem ir vairākas lapas.
+Vasaras tuvums.
 Pavasaris, vasara, rudens un ziema ir gadalaiks.
 Kurš ir Jūsu mīļākais gadalaiks?
 Vasara parasti ir silta.
@@ -38,7 +45,99 @@ Pavasaris ir viens no četriem gadalaikiem.
 Četri gadalaiki.
 Gadalaiku laikapstākļi mainās katru gadu.
 
+Kalendārs.
+Kalendārās dienas.
+Kalendārie svētki.
+Četras kalendārās nedēļas.
+Kur var nopirkt kalendāru?
+Kāds šodien ir datums?
+Šodien ir [NUM]. datums.
+Šodien ir [NUM]. janvāris.
+Piektajā janvārī man ir darbs.
+Divdesmit ceturtajā janvārī man ir dzimšanas diena.
+Janvāra aukstais laiks.
+Šodien ir [NUM]. februāris.
+Februāris ir gada īsākais mēnesis.
+Februārī ir divdesmit astoņas dienas.
+Sākot no trešā februāra.
+Šodien ir [NUM]. marts.
+Martā māsai ir liela jubileja.
+Marts ir gada trešais mēnesis.
+Gaidu martu.
+Šodien ir [NUM]. aprīlis.
+Aprīlī ir trīsdesmit dienas.
+Pirmais aprīlis ir joku diena.
+Kurā aprīļa datumā tas notiek?
+Gaidi divdesmit septīto aprīli.
+Šodien ir [NUM]. maijs.
+Pirmais maijs ir darba svētki.
+Maijs ir silts pavasara mēnesis.
+Maijā zied dažādas krāsainas puķes.
+Maija otrā svētdiena ir mātes diena.
+Šodien ir [NUM]. jūnijs.
+Divdesmit trešais un divdesmit ceturtais jūnijs ir Latvijas svētku dienas.
+Jūnijā parasti ir silti vakari.
+Tiksimies jūnija beigās.
+Divdesmit sesto jūniju.
+Šodien ir [NUM]. jūlijs.
+Jūlijā naktis ir īsas.
+Jūlija prognozes.
+Karsts laiks ir gaidāms jūlija vidū.
+Astotajā jūlijā gaisa temperatūra sasniedza trīsdesmit divus grādus.
+Šodien ir [NUM]. augusts.
+Sākot no trešā augusta.
+Augusts ir gada astotais mēnesis.
+Trīsdesmit pirmais augusts tiek uzskatīts par vasaras beigām.
+Sestajā augustā Ventspilī ūdens temperatūra sasniedza plus deviņpadsmit grādus.
+Šodien ir [NUM]. septembris.
+Septembra ceturtā svētdiena ir nedzirdīgo diena.
+Piektajā septembrī bija pirmais skolas rīts.
+Divdesmit trešais septembris ir starptautiskā zīmju valodu diena.
+Trīsdesmitais septembris ir starptautiskā tulka diena.
+Šodien ir [NUM]. oktobris.
+Oktobrī laika apstākļi ir mainīgi.
+Oktobra pirmā pirmdiena ir starptautiskā ārsta diena.
+Oktobra beigās dienas ir tumšas.
+Koku lapas var sākt krist oktobrī.
+Šodien ir [NUM]. novembris.
+Novembrī bieži redzamas pelēkas debesis.
+Novembris ir rudens pēdējais mēnesis.
+Kopā gaidam novembra sākumu!
+Septiņpadsmitais novembris - starptautiskā studentu diena.
+Šodien ir [NUM]. decembris.
+Decembris ir pirmais ziemas mēnesis.
+Devītajā decembrī gaisa temperatūra naktī bija mīnuss vienpadsmit grādi.
+Decembrī bieži snieg.
+Decembra sākums!
+
+Nulle grādu.
+No nulles līdz mīnus četriem grādiem.
+[NUM]°C.
+Gaisa temperatūra sasniegs [NUM]°C.
+Kurzemē naktī gaidāma augsta gaisa temperatūra.
+Gaisa temperatūra svārstījās no mīnus trim līdz mīnus septiņiem grādiem.
+Ūdens temperatūra būs zema, tikai nulle grādi.
+Ūdens ir auksts, temperatūra ir ap plus četriem grādiem.
+
+Latvijā astoņpadsmitajā novembrī svin Latvijas Republikas proklamēšanas dienu.
+Šodien ir svētki!
+Visā pasaulē šodien ir svētki.
+Kurā datumā tev ir dzimšanas diena?
+Daudz laimes dzimšanas dienā!
+Mēs rītdien svinēsim [NAME] dzimšanas dienu.
+Nedēļas beigās manam brālim ir jubileja.
+Ziemassvētki.
+Šodien pasaulē svin Ziemassvētkus.
+Ziemassvētku eglīte.
+Trīsdesmit pirmā oktobra vakarā svin Halovīnu.
+Halovīns asociējas ar oranžo, violeto un melno krāsu.
+Halovīna laikā ir gada biedējošākā nakts.
+Vai jums ir saldumi Halovīnam?
+"Saldumus vai izjokosim!"
+Halovīnā dažreiz izjoko cilvēkus.
+
 Pirmdien ir darbs.
+Šī pirmdiena man ir brīvdiena.
 Es gaidu pirmdienas rītu.
 Šajā pirmdienā būs maz saules.
 Uz pirmdienu.
@@ -47,6 +146,7 @@ Otrdien no rīta būs lietus.
 Šo otrdien es biju darbā.
 Otrdienas pēcpusdienā.
 Otrdienu draudzenes.
+Otrdiena ir darbadiena.
 Nākamajā otrdienā.
 Es šobrīd gatavojos otrdienai.
 Tikai trešdienās.
@@ -83,17 +183,23 @@ Nākamā svētdiena būs saulaina.
 Priecīgu svētdienu!
 
 Dienas laikā.
+Laika prognoze.
+Es zinu rītdienas vakara laika prognozi.
+Viņa skatījās vakardienas laika prognozi.
 Šodien ir saulains, silts laiks.
 Rītdien ir gaidāms spēcīgs lietus.
 Vakardien bija nedaudz lietus.
 Debesu mākoņi.
 Debesis bija pilnas ar mākoņiem.
+Rītdiena būs mākoņaina.
 Mākoņainas debesis.
 Debesīs atrodas balti mākoņi.
 Tumši vai pelēki mākoņi sola lietu.
 Mākoņi lēni kustējās debesīs.
 Pelēki mākoņi, varbūt būs lietus.
 Viens liels mākonis.
+Mainīgs mākoņu daudzums.
+Liels daudzums.
 Lietū jālieto lietussargs un lietusmētelis.
 Sagatavo mums visiem lietusmēteļus.
 Visi ģimenē lietū lieto lietussargus.
@@ -110,6 +216,8 @@ Bezvējš.
 Pūš stiprs vējš.
 Vilku mēteli, jo pūta vējš.
 Kad sāka pūst vējš?
+Mainīga ātruma vējš.
+Vēja ātrums.
 Pēc lietus - saule.
 Spīd saule.
 Saule spīdēs rīt.
@@ -164,13 +272,20 @@ Par agru!
 Vēlu vakarā.
 Skaists rīts.
 Rīt no rīta.
+Piecos no rīta.
 Deviņos no rīta.
 Rīti un vakari.
+Vienos dienā.
 Trijos pēcpusdienā.
+Aptuveni četros pēcpusdienā.
 Pēcpusdiena.
 Es gaidu pēcpusdienu.
 Astoņos vakarā.
 Drīz būs vakars.
+Tūkstoš un viena nakts.
+Vienos naktī.
+Trijos naktī.
+Ļoti vēlu, divos naktī.
 Drīz būs nakts.
 Klusa nakts.
 Klusa, zvaigžņota nakts.
@@ -211,6 +326,29 @@ Līdz Rīgai vēl jābrauc apmēram trīspadsmit km.
 Viena minūte.
 Cik minūtes?
 Cik ir pulkstenis?
+Sakiet, lūdzu, cik ir pareizs laiks?
+Pusviens.
+Pusdivi.
+Apmēram pustrīs.
+Gandrīz pusčetri.
+Drīz būs puspieci.
+Tagad ir pusseši.
+Aptuveni pusseptiņi.
+Pusastoņi.
+Tiekamies pusastoņos.
+Vēl nav pusdeviņi.
+Vēlāk, varbūt pusdeviņos vai pusdesmitos.
+Šobrīd ir pusdesmit.
+Pusvienpadsmit.
+Pulksteņa laiks ir pusdivpadsmit.
+Nav pusvienpadsmitos, bet ir pusdivpadsmitos!
+
+Tas notiek četros dienā?
+Tiekamies sešos vai septiņos?
+Labāk tiekamies desmitos!
+Nē, labāk vienpadsmitos!
+Divpadsmitos.
+
 Pulkstenis ir pieci.
 Pulksten sešos.
 Pulksten septiņos vai astoņos.

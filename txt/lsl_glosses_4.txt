@@ -4,10 +4,16 @@
 kad tu esmu dzimt
 es esmu dzimt [NUM] gads
 viņš dzimt [NUM] gads
+dzimt [NUM] gads
+dzimt [NUM] gads [NUM] janvāris
 
+kad
 drīz
 tūlīt
+vēlāk
 nesen
+tuvs
+tāls
 pēc nedēļa
 pirms nedēļa
 pēc 2 mēnesis
@@ -25,6 +31,7 @@ gads īss diena ir ziema
 pavasaris augs lapa_koks
 rudens koks lapa_koks ir krāsa
 koks ir vairāk lapa_koks
+vasara tuvums
 pavasaris vasara rudens un ziema ir gads laiks
 kurš ir tavs mīļš gads laiks
 vasara parasts ir silts
@@ -38,7 +45,99 @@ pavasaris ir 1 no 4 gadalaiks
 4 gads laiks
 gadalaiks laiks apstāklis mainīt katrs gads
 
+kalendārs
+kalendārs diena
+kalendārs svētki
+4 kalendārs nedēļa
+kur varēt pirkt kalendārs
+kāds šodien ir datums
+šodien ir [NUM] datums
+šodien ir [NUM] janvāris
+piektais janvāris mans ir darbs
+20 ceturtais janvāris mans ir dzimšanas_diena
+janvāris auksts laiks
+šodien ir [NUM] februāris
+februāris ir gads īss mēnesis
+februāris ir 20 8 diena
+sākt no trešais februāris
+šodien ir [NUM] marts
+marts māsa ir liels jubileja
+marts ir gads trešais mēnesis
+gadīt marts
+šodien ir [NUM] aprīlis
+aprīlis ir 30 diena
+pirmais aprīlis ir joks diena
+kur aprīlis datums tas notikt
+gaidīt 20 septītais aprīlis
+šodien ir [NUM] maijs
+pirmais maijs ir darbs svētki
+maijs ir silts pavasaris mēnesis
+maijs zieds dažāds krāsa puķe
+maijs otrais svētdiena ir māte diena_kalendārs
+šodien ir [NUM] jūnijs
+20 trešais un 20 ceturtais jūnijs ir latvija svētki diena_kalendārs
+jūnijs parasts ir silts vakars
+tikties jūnijs beigas
+20 sestais jūnijs
+šodien ir [NUM] jūlijs
+jūlijs nakts ir īss
+jūlijs prognoze
+karsts laiks ir gaidīt jūlijs vidus
+astotais jūlijs gaiss temperatūra_daba sasniegt 30 2 grādi
+šodien ir [NUM] augusts
+sākt no trešais augusts
+augusts ir gads astotais mēnesis
+30 pirmais augusts ir uzskatāms par vasaras beigas
+sestais augusts ventspils ūdens temperatūra_daba sasniegt + 19 grādi
+šodien ir [NUM] septembris
+septembris ceturtais svētdiena ir nedzirdīgs diena_kalendārs
+piektais septembris bija pirmais skola rīts
+20 trešais septembris ir starp pasaule zīmju_valoda diena_kalendārs
+30 septembris ir starp pasaule tulks diena_kalendārs
+šodien ir [NUM] oktobris
+oktobris laiks apstāklis ir mainīgs
+oktobris pirmais pirmdiena ir starp pasaule ārsts diena_kalendārs
+oktobris beigas diena ir tumšs
+koks lapa_koks varēt sākt nokrist oktobris
+šodien ir [NUM] novembris
+novembris bieži redzēt pelēks debesis
+novembris ir rudens pēdējais mēnesis
+kopā gaidīt novembris sākums
+17 novembris starp pasaule students diena_kalendārs
+šodien ir [NUM] decembris
+decembris ir pirmais ziema mēnesis
+devītais decembris gaiss temperatūra_daba nakts bija - 11 grādi
+decembris bieži sniegs
+decembris sākums
+
+0 grādi
+no 0 līdz - 4 grādi
+[NUM] grādi
+gaiss temperatūra_daba sasniegt [NUM] grādi
+kurzeme nakts gaidīt augsts gaiss temperatūra_daba
+gaiss temperatūra_daba svārstīties no - 3 līdz - 7 grādi
+ūdens temperatūra_daba būt zems tikai 0 grādi
+ūdens ir auksts temperatūra_daba ir apmēram + 4 grādi
+
+latvija 18 novembris svētki latvija republika proklamācija diena_kalendārs
+šodien ir svētki
+viss pasaule šodien ir svētki
+kur datums tu ir dzimšanas_diena
+daudz laimīgs dzimšanas_diena
+mēs rīt svētki [NAME] dzimšanas_diena
+nedēļa beigas mans brālis ir jubileja
+ziema svētki
+šodien pasaule svētki ziema svētki
+ziema svētki egle
+30 pirmais oktobris vakars svētki halovīns
+halovīns asociācija ar oranžs violets un melns krāsa
+halovīns laiks ir gads šausmas nakts
+vai jums ir konfekte halovīns
+konfekte vai izjokot
+halovīns dažreiz izjokot cilvēks
+
 pirmdiena ir darbs
+tas pirmdiena mans ir brīvs diena_kalendārs
 es gaidīt pirmdiena rīts
 tas pirmdiena būt nedaudz saule
 uz pirmdiena
@@ -47,6 +146,7 @@ otrdiena rīts būt lietus
 tas otrdiena es bija darbs
 otrdiena pēcpusdiena
 otrdiena draugs
+otrdiena ir darbs diena_kalendārs
 nākamais otrdiena
 es šodien gatavoties otrdiena
 tikai trešdiena
@@ -83,17 +183,23 @@ nākamais svētdiena būt saulains
 prieks svētdiena
 
 diena laiks
+laiks prognoze
+es zināt rīt vakars laiks prognoze
+viņš skatīties vakar laiks prognoze
 šodien ir saulains silts laiks
 rīt ir gaidīt spēcīgs lietus
 vakar bija nedaudz lietus
 debesis mākonis
 debesis bija pilns ar mākonis
 mākonis debesis
+rīt būt mākonis
 debesis atrasties balts mākonis
 tumšs vai pelēks mākonis solīt lietus
 mākonis lēns kustība debesis
 pelēks mākonis varbūt būt lietus
 1 liels mākonis
+mainīgs mākonis daudzums
+liels daudzums
 lietus jā lietot lietussargs un lietus mētelis
 sagatavot mēs viss lietus mētelis
 viss ģimene lietus lietot lietussargs
@@ -110,6 +216,8 @@ bez vējš
 pūst stiprs vējš
 vilkt mētelis jo pūst vējš
 kad sākt pūst vējš
+mainīgs ātrums vējš
+vējš ātrums
 pēc lietus saule
 spīdīgs saule
 saule spīdīgs rīt
@@ -135,7 +243,7 @@ biezs balts sniegs
 tikai šodien sniegs
 skaists sniegpārslas
 sniegpārslas ir auksts
-es tālu dzirdēt pērkons
+es tāls dzirdēt pērkons
 spīdīgs zibens
 starp mākonis [NAME] redzēt zibens
 pēc zibens es dzirdēt pērkons
@@ -164,13 +272,20 @@ par agrs
 vēls vakars
 skaists rīts
 rīt rīts
-9 rīts
+piecos rīts
+deviņos rīts
 rīts un vakars
-3 pēcpusdiena
+vienos diena
+trijos pēcpusdiena
+apmēram četros pēcpusdiena
 pēcpusdiena
 es gaidīt pēcpusdiena
-8 vakars
+astoņos vakars
 drīz būt vakars
+1000 un 1 nakts
+vienos nakts
+trijos nakts
+ļoti vēls divos nakts
 drīz būt nakts
 kluss nakts
 kluss zvaigznes nakts
@@ -211,14 +326,37 @@ līdz rīga vēl braukt apmēram 13 kilometrs
 1 minūte
 cik minūtes
 cik ir pulkstenis
+sacīt lūdzu cik ir pareizs pulkstenis
+pus 1
+pus 2
+apmēram pus 3
+gandrīz pus 4
+drīz būt pus 5
+šodien ir pus 6
+apmēram pus 7
+pus 8
+tikties pus astoņos
+vēl nav pus 9
+vēlāk varbūt pus deviņos vai pus desmitos
+šodien ir pus 10
+pus 11
+pulkstenis ir pus 12
+nav pus vienpadsmitos ir pus divpadsmitos
+
+tas notikt četros diena
+tikties sešos vai septiņos
+labāk tikties desmitos
+nē labāk vienpadsmitos
+divpadsmitos
+
 pulkstenis ir 5
-pulkstenis 6
-pulkstenis 7 vai 8
+pulkstenis sešos
+pulkstenis septiņos vai astoņos
 pulkstenis atpalikt par 10 minūtes
-pulkstenis 9
-pulkstenis 5
-pulkstenis 5 rīts
-pulkstenis 2 nakts
+pulkstenis deviņos
+pulkstenis piecos
+pulkstenis piecos rīts
+pulkstenis divos nakts
 tas ir jauns lēts pulkstenis
 pirms 9 minūtes
 autobuss atbraukt pēc 15 minūtes

@@ -38,6 +38,7 @@ māja dzīvot mans māte un tēvs
 māte un tēvs ir kopā
 tēvs ir daudz nauda
 māte ir 1 dēls un 4 meita
+viņi ir tuvs
 mans ir brālis
 mans nav māsa
 viņš ir 3 brālis
@@ -78,6 +79,8 @@ viņi ir draugs
 es esmu pārāk vājš
 tas bija vājš
 [NAME] draugs ir ļoti gudrs viņš daudz strādāt
+māsa sveiks
+brālis sveiks
 
 cik tu esmu garš
 cik tu esmu garš
@@ -100,12 +103,26 @@ vecmāte ir 60 9 gads
 vectēvs ir 70 gads vecs
 vecāki ir daudz gads
 
+telefons
+telefons
+vieta telefons
+vieta zvanīt
+[NAME] izmantot telefons
+māja telefons numurs ir [NUM]
+zvanīt mans uz numurs [NUM]
+zvanīt 1 1 2
+zvanīt uz [NUM]
+tu ir jā zvanīt tas numurs
+viņš telefons
+telefons atlaide
+
 kur tu dzīvot
 mēs dzīvot
 es dzīvot
 es dzīvot rīga
-vai tu dzīvot tālu no rīga
-vai tas ir tālu no šeit
+vai tu dzīvot tāls no rīga
+vai tas ir tāls no šeit
+vai tas ir tuvs šeit
 es rīt būt rīga
 kurš ir tavs māja numurs
 mans māja numurs ir 20 5
@@ -121,6 +138,7 @@ viņš ļoti patikt latvija
 viņš nepatikt tas dzīvot
 es atrasties šeit rīga latvija
 kur tas ir
+vai viņš dzīvoklis ir tuvums
 viņi zināt kur tas ir
 viņi nezināt kur tas ir
 kur notikt
@@ -132,6 +150,7 @@ atslēga ir pie mans
 kad mans atnākt pie jums uz māja
 šodien atnākt [NAME] draugs [NAME]
 
+veikals [NAME]
 kur atrasties veikals
 kur ir tuvs veikals
 veikals ir tas
@@ -144,6 +163,8 @@ pilns veikals
 es braukt uz ēst veikals kase
 viņš atrasties pie kase
 viņš strādāt kase
+aptieka [NAME]
+kur tuvums ir aptieka
 kur atrasties aptieka
 viņi braukt uz aptieka
 aptieka ir mazs cilvēks
@@ -184,6 +205,7 @@ es vēlēties strādāt skola
 cik skola tu zināt
 rīga atrasties ļoti liels slimnīca es uz tas iet
 mans māte un tēvs strādāt slimnīca
+slimnīca [NAME]
 cik latvija ir slimnīca
 es šodien nebraukt uz slimnīca
 slimnīca strādāt 10 darbinieks
@@ -192,6 +214,11 @@ tirgus ir šeit
 tirgus ir ļoti pilns
 mans ģimene vakar bija tirgus
 iet uz tirgus kopā
+gads tirgus
+gads tirgus viss latvija
+tas gads otrais tirgus 
+gads tirgus notikt vēlāk
+[NAME] vakar bija gads tirgus
 ēst no tirgus vai no veikals
 veikals ir vairāk kase
 pirkums iegādāties veikals
@@ -213,13 +240,18 @@ rīga atrasties vairāk ēkas piemēram aptieka banka baznīca pasts poliklīnik
 ēkas atrasties vieta
 darbnīca atrasties vieta
 
-rīga ir mazs valsts
+latvija ir mazs valsts
+latvija ir apmēram 2 1000000 iedzīvotājs
+rīga ir mazs pilsēta
 es vēlēties saņemt nauda
 viņš atrasties šeit paņemt viņš nauda
 kāds ir darbs alga
 [NAME] alga ir [NUM] eiro mēnesis
 [NUM] eiro
 par strādāt darbs es nopelnīt 50 eiro
+1000 eiro.
+2000 eiro.
+3000 eiro.
 nauda pelnīt
 es gribēt pelnīt liels alga par [NUM] eiro mēnesis
 viņš vēlēties pelnīt vairāk
@@ -268,6 +300,7 @@ viņš ir nedaudz atpalikt
 es vakar iet uz kafejnīca
 kafejnīca atrasties tas
 kafejnīca ir tukšs
+kur tuvums ir kafejnīca
 [NAME] un [NAME] meklēt kafejnīca
 es maksāt daudz nauda tas kafejnīca
 mēs kafejnīca ēst
@@ -297,6 +330,8 @@ braukt nakts
 nebraukt vēls nakts
 varbūt skriet varbūt iet bet varbūt braukt
 braukt ar automašīna vai autobuss
+ceturtais autobuss
+ar otrais vai trešais autobuss
 autobuss bija tukšs
 vecāki braukt ar skaists automašīna
 automašīna ir glīts
@@ -325,6 +360,8 @@ lūdzu atvest es no rīga
 vai arī tu vajadzēt atvest
 automašīna atvest
 veikals atvest ēst produkts
+bez gals
+gals produkts
 produkts lielums
 gaidīt pie luksofors gaisma
 laimīgs ceļš

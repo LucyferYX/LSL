@@ -111,6 +111,15 @@ Man tev bija jāpalīdz.
 Es gribu palīdzēt.
 Es negribu viņam palīdzēt.
 Es gribu viņai palīdzēt.
+Protams!
+Jā, protams!
+Protams, ka nē!
+Piekrītu!
+Jā, es piekrītu.
+Labi, viņa piekrīt.
+Nepiekrītu!
+Nē, nepiekrītu!
+Viņi nepiekrita.
 
 Vai viņa ir priecīga?
 Vai viņš ir priecīgs?
@@ -223,6 +232,8 @@ Es teicu.
 Viņa daudz teica.
 Piemēram?
 Piemēram kā?
+Šausmas!
+Šausmīgi!
 Diemžēl, es nevaru.
 Diemžēl...
 Žēl!

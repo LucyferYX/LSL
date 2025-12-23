@@ -38,6 +38,7 @@ Mājās dzīvo mana māte un tēvs.
 Mamma un tētis ir kopā.
 Tētim ir daudz naudas.
 Mammai ir viens dēls un četras meitas.
+Viņi ir tuvi.
 Man ir brālis.
 Man nav māsa.
 Viņai ir trīs brāļi.
@@ -78,6 +79,8 @@ Viņas ir draudzenes.
 Es esmu pārāk vāja.
 Tas bija vāji...
 [NAME] draudzene ir ļoti gudra, viņa daudz strādā.
+Māsai sveiciens!
+Brālim sveiciens!
 
 Cik tu esi garš?
 Cik tu esi gara?
@@ -100,12 +103,26 @@ Vecmāmiņai ir sešdesmit deviņi gadi.
 Vectētiņš ir septiņdesmit gadus vecs.
 Vecākiem ir daudz gadu.
 
+Telefons.
+Mobilais telefons.
+Vietējais telefons.
+Vietējais zvans.
+[NAME] izmanto mobilo telefonu.
+Mājas telefona numurs ir [NUM].
+Piezvani man uz numuru [NUM].
+Zvani viens viens divi.
+Zvaniet uz [NUM].
+Tev ir jāzvana šim numuram.
+Viņas mobilais telefons.
+Mobilo telefonu atlaides.
+
 Kur tu dzīvo?
 Mēs dzīvojam.
 Es dzīvoju.
 Es dzīvoju Rīgā.
 Vai tu dzīvo tālu no Rīgas?
 Vai tas ir tālu no šejienes?
+Vai tas ir tuvu šeit?
 Es rīt būšu Rīgā.
 Kurš ir tavs mājas numurs?
 Manas mājas numurs ir divdesmit pieci.
@@ -121,6 +138,7 @@ Viņam ļoti patīk Latvija.
 Viņai nepatīk te dzīvot.
 Es atrodos šeit Rīgā, Latvijā.
 Kur tas ir?
+Vai viņas dzīvoklis ir tuvumā?
 Viņas zina, kur tas ir.
 Viņi nezina, kur tas ir.
 Kur notika?
@@ -132,6 +150,7 @@ Atslēga ir pie manis.
 Kad man atnākt pie jums uz mājām?
 Šodien atnāca [NAME] draudzene [NAME].
 
+Veikals "[NAME]".
 Kur atrodas veikals?
 Kur ir tuvākais veikals?
 Veikali ir tur.
@@ -144,6 +163,8 @@ Pilns veikals.
 Es dodos uz pārtikas veikala kasi.
 Viņa atrodas pie kases.
 Viņš strādā kasē.
+Aptieka "[NAME]".
+Kur tuvumā ir aptiekas?
 Kur atrodas aptieka?
 Viņas devās uz aptieku.
 Aptiekā ir maz cilvēku.
@@ -184,6 +205,7 @@ Es vēlos strādāt skolā.
 Cik skolas tu zini?
 Rīgā atrodas ļoti liela slimnīca, es uz to iešu.
 Mana māte un tēvs strādā slimnīcā.
+Slimnīca "[NAME]".
 Cik Latvijā ir slimnīcu?
 Es šodien nebraukšu uz slimnīcu.
 Slimnīcā strādā 10 darbinieki.
@@ -192,6 +214,11 @@ Tirgus ir šeit.
 Tirgus ir ļoti pilns.
 Mana ģimene vakar bija tirgū.
 Ejam uz tirgu kopā?
+Gadatirgus.
+Gadatirgi visā Latvijā.
+Šī gadatirga otrā diena.
+Gadatirgus notiks vēlāk.
+[NAME] vakardien bija gadatirgū.
 Pārtika no tirgus vai no veikala?
 Veikalā ir vairākas kases.
 Pirkumus iegādājas veikalos.
@@ -213,12 +240,17 @@ Rīgā atrodas vairākas ēkas, piemēram, aptiekas, bankas, baznīcas, pasti, p
 Ēku atrašanās vieta.
 Darbnīcu atrašanās vieta.
 
-Rīga ir maza valsts.
+Latvija ir maza valsts.
+Latvijā ir apmēram divi miljoni iedzīvotāju.
+Rīga ir maza pilsēta.
 Es vēlos saņemt naudu.
 Viņa atrodas šeit, lai paņemtu viņas naudu.
 Kāda ir darba alga?
 [NAME] alga ir [NUM] eiro mēnesī.
 [NUM] EUR.
+Tūkstotis eiro.
+Divi tūkstoši EUR.
+Trīs tūkstoši eiro.
 Par pastrādāto darbu es nopelnīju piecdesmit eiro.
 Naudas pelnīšana.
 Es gribētu pelnīt lielāku algu par [NUM] eiro mēnesī.
@@ -268,6 +300,7 @@ Viņš ir mazliet atpalicis.
 Es vakar aizgāju uz kafejnīcu.
 Kafejnīca atrodas tur.
 Kafejnīca ir tukša.
+Kur tuvumā ir kafejnīca
 [NAME] un [NAME] meklē kafejnīcas.
 Es iztērēju daudz naudas šajā kafejnīcā.
 Mēs kafejnīcā ēdam.
@@ -297,6 +330,8 @@ Brauksim pa nakti.
 Nebraucam vēlu naktī.
 Varbūt skriet, varbūt iet, bet varbūt braukt.
 Brauksim ar mašīnu vai autobusu?
+Ceturtais autobuss.
+Ar otro vai trešo autobusu?
 Autobuss bija tukšs.
 Vecāki brauc ar skaistu mašīnu.
 Mašīna ir glīta.
@@ -325,6 +360,8 @@ Lūdzu, atvediet mani no Rīgas!
 Vai arī tevi nepieciešams atvest?
 Automašīnas atvešana.
 Veikals atveda pārtikas produktus.
+Bezgalīgs.
+Gala produkts.
 Produkta lielums.
 Gaidi pie luksofora gaismas!
 Laimīgu ceļu!
