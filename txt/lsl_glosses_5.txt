@@ -1,37 +1,4 @@
-
-
-
-
-
-
-
-
-teksta_telefons izmantot nedzirdīgs cilvēks
-es izmantot teksta_telefons
-tikai ar teksta_telefons
-
-vesels
-es justies vesels
-pirms 2 nedēļa bija vesels
-ģimene viss ir vesels
-[NAME] nav vesels
-
-zems temperatūra_veselība
-tu ir augsts temperatūra_veselība
-mans ir auksts
-mans ir karsts
-
-vai tavs ir klepus un iesnas
-jā mans ir klepus
-nē mans nav iesnas
-
-mans sāpēt galva un kakls
-es nokrist un sasist galva
-galvassāpes
-galvassāpes veids un tas novērst
-novērst trūkums
-
-ātrā_palīdzība
-ātrā_palīdzība
-ātrā_palīdzība
-ātrs atbraukt ātrā_palīdzība
+labs suns
+100 1 suns
+kāds ir tavs suns suga
+pasaule ir vairāk_nekā 600 dažāds suns suga

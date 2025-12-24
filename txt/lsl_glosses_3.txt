@@ -26,11 +26,12 @@ vīrs ļoti patikt roze
 viņš mīlēt roze
 kurš roze pirkt
 saule puķe
-cik maksāt saule puķe
+cik cena saule puķe
 vai tu ir saule puķe sēkla
 tas puķe ir dzeltens zieds
 aizvest viņš tavs zieds
 lūdzu 40 puķe
+pasaule ir vairāk_nekā 400 1000 puķe suga
 es nodarboties ar puķe kopt
 puķe kopt veikals
 es esmu dārzs cilvēks
@@ -98,8 +99,8 @@ cimds ir 40 procents atlaide
 cimds ir dārgs bet cepure ir lēts
 mans patikt tas krāsa cepure
 vai es varēt pasūtīt šūt cepure
-cik maksāt tas cepure
-cepure maksāt 11 eiro un 19 cents
+cik cena tas cepure
+cepure cena 11 eiro un 19 cents
 vai tas apģērbs ir arī cits krāsa
 2 zeķe
 vai tas apģērbs veikals ir zeķe

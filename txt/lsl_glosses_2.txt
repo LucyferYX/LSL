@@ -242,16 +242,61 @@ darbnīca atrasties vieta
 
 latvija ir mazs valsts
 latvija ir apmēram 2 1000000 iedzīvotājs
-rīga ir mazs pilsēta
+kas ir latvija galvaspilsēta
+rīga latvija galvaspilsēta dzīvot daudz ģimene
+rīga ir latvija liels pilsēta
+rīga ir apmēram 600 1000 iedzīvotājs
+daugavpils ir otrais liels latvija pilsēta
+daugavpils ir apmēram 70 8 1000 iedzīvotājs
+liepāja ir latvija trešais liels pilsēta
+liepāja iedzīvotājs ir nedaudz mazāk_nekā daugavpils
+ventspils atrasties latvija kreiss mala
+ventspils iedzīvotājs skaits ir daudz mazāk_nekā liepāja
+rīga liepāja ventspils atrasties jūra krasts
+tas pilsēta dzīvot apmēram 3000 iedzīvotājs
+
 es vēlēties saņemt nauda
+[NAME] pārtraukt saruna par alga
 viņš atrasties šeit paņemt viņš nauda
 kāds ir darbs alga
 [NAME] alga ir [NUM] eiro mēnesis
 [NUM] eiro
+1 dolārs
+tikai 1 cents
+1000000 eiro
+vairāk 1000000 eiro
+1000000 dolārs vērts māja
 par strādāt darbs es nopelnīt 50 eiro
-1000 eiro.
-2000 eiro.
-3000 eiro.
+[NUM] dolārs
+10 cents monēta
+mazs cents monēta
+cena [NUM] eiro un [NUM] cents
+produkts cena ir [NUM] cents
+tev ir jā maksāt 400 60 eiro un 90 9 cents
+rīt tu varēt saņemt 300 dolārs
+mans ir 6 200 eiro banknot
+beigas cena ir 700 60 un 30 5 cents
+sākums cena ir 900 90 9 dolārs
+2000 19 gads pārtraukt ražošana 500 eiro banknote
+banka konts ir 2000 eiro
+skola bija 2000 skolēns
+2000 dolārs uzkrājums
+3000 eiro
+telefons cena vairāk_nekā 3000 dolāru
+pirms darbs es pelnīt 4000 eiro gads
+gandrīz 4000 eiro
+pēdējais alga bija apmēram 4000
+mans ir apmēram 5000 eiro uzkrājums
+gals izmaksa ir 5000 eiro bez atlaide
+automašīna [NAME] cena vismaz 6000 eiro
+es maksāt 6000 un 700 par dzīvoklis remonts
+mans ir jā saņemt vismaz 7000 eiro
+māja remonts cena 7000 500 50 eiro
+ar atlaide cena apmēram 8000
+tavs uzkrājums apmēram 8000 dolārs
+gads varēt nopelnīt 8000 - 9000 dolārs
+ar automašīna braukt 9000 400 kilometrs
+
 nauda pelnīt
 es gribēt pelnīt liels alga par [NUM] eiro mēnesis
 viņš vēlēties pelnīt vairāk
@@ -267,7 +312,7 @@ cik liels būt kredīts
 kredīts ir dažāds
 kredīts nav vajadzēt
 maksāt kredīts
-cik tas maksāt
+cik tas cena
 tavs i d
 i d karte
 kur ir tavs i d
@@ -276,7 +321,7 @@ saņemt tikai maksāt karte
 kur es varēt saņemt darbs alga
 es tu saņemt darbs
 saņemt cilvēks
-darbinieks maksāt alga tas varēt būt liels vidējs vai mazs
+darbinieks saņemt alga tas varēt būt liels vidējs vai mazs
 māte saņemt liels alga
 māte bieži strādāt par mazs alga
 tēvs šodien saņemt nedaudz nauda
@@ -333,6 +378,9 @@ braukt ar automašīna vai autobuss
 ceturtais autobuss
 ar otrais vai trešais autobuss
 autobuss bija tukšs
+kur ir pieejams taksometrs pakalpojums
+šausmas nekas paņemt taksometrs
+taksometrs parasts ir dzeltens
 vecāki braukt ar skaists automašīna
 automašīna ir glīts
 viņš justies neglīts

@@ -63,6 +63,7 @@ Sākot no trešā februāra.
 Šodien ir [NUM]. marts.
 Martā māsai ir liela jubileja.
 Marts ir gada trešais mēnesis.
+Pirmais marts ir uzskatāms par pavasara sākumu.
 Gaidu martu.
 Šodien ir [NUM]. aprīlis.
 Aprīlī ir trīsdesmit dienas.
@@ -114,7 +115,7 @@ Nulle grādu.
 No nulles līdz mīnus četriem grādiem.
 [NUM]°C.
 Gaisa temperatūra sasniegs [NUM]°C.
-Kurzemē naktī gaidāma augsta gaisa temperatūra.
+Daugavpilī naktī gaidāma augsta gaisa temperatūra.
 Gaisa temperatūra svārstījās no mīnus trim līdz mīnus septiņiem grādiem.
 Ūdens temperatūra būs zema, tikai nulle grādi.
 Ūdens ir auksts, temperatūra ir ap plus četriem grādiem.
@@ -138,6 +139,9 @@ Halovīnā dažreiz izjoko cilvēkus.
 
 Pirmdien ir darbs.
 Šī pirmdiena man ir brīvdiena.
+Nevaru sagaidīt brīvdienas!
+Brīvdienas parasti ir sestdien un svētdien.
+Diemžēl es nevaru, otrdiena ir darba diena.
 Es gaidu pirmdienas rītu.
 Šajā pirmdienā būs maz saules.
 Uz pirmdienu.

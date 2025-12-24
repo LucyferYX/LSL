@@ -242,16 +242,61 @@ Darbnīcu atrašanās vieta.
 
 Latvija ir maza valsts.
 Latvijā ir apmēram divi miljoni iedzīvotāju.
-Rīga ir maza pilsēta.
+Kas ir Latvijas galvaspilsēta?
+Rīgā, Latvijas galvaspilsētā, dzīvo daudz ģimeņu.
+Rīga ir Latvijas vislielākā pilsēta.
+Rīgā ir ap sešsimt tūkstoš iedzīvotāju.
+Daugavpils ir otra lielākā Latvijas pilsēta.
+Daugavpilī ir aptuveni septiņdesmit astoņi tūkstoši iedzīvotāju.
+Liepāja ir Latvijas trešā lielākā pilsēta.
+Liepājā iedzīvotāji ir mazliet mazāk nekā Daugavpilī.
+Ventspils atrodas Latvijas kreisajā malā.
+Ventspilī iedzīvotāju skaits ir daudz mazāks nekā Liepājā.
+Rīga, Liepāja, Ventspils atrodas jūras krastā.
+Šajā pilsētā dzīvo ap trīstūkstoš iedzīvotāju.
+
 Es vēlos saņemt naudu.
+[NAME] izbeidza sarunu par algām.
 Viņa atrodas šeit, lai paņemtu viņas naudu.
 Kāda ir darba alga?
 [NAME] alga ir [NUM] eiro mēnesī.
 [NUM] EUR.
-Tūkstotis eiro.
-Divi tūkstoši EUR.
-Trīs tūkstoši eiro.
+Viens dolārs.
+Tikai viens cents.
+Miljons eiro.
+Vairāki miljoni eiro.
+Miljoniem dolāru vērtas mājas.
 Par pastrādāto darbu es nopelnīju piecdesmit eiro.
+[NUM] dolāru.
+Desmit centu monēta.
+Maza eirocentu monēta.
+Cena: [NUM] eiro un [NUM] centi.
+Produkta cena ir [NUM] eirocenti.
+Jums ir jāmaksā četrsimt sešdesmit eiro un deviņdesmit deviņi eirocenti.
+Rītdien Jūs varēsiet saņemt trīssimt dolāru.
+Man ir sešas divsimt eiro banknotes.
+Beigu cena ir septiņsimt sešdesmit Eiro un trīsdesmit pieci eirocenti.
+Sākuma cena ir deviņsimt deviņdesmit deviņi dolāri.
+Divi tūkstoši deviņpadsmitajā gadā pārtrauca ražot piecsimt eiro banknoti.
+Bankas kontā ir divi tūkstoši EUR.
+Skolā bija divtūkstoš skolēnu.
+Divu tūkstošu dolāru uzkrājums.
+Trīs tūkstoši eiro.
+Telefons maksāja vairāk nekā trīstūkstoš dolāru.
+Iepriekšējā darbā es pelnīju četrtūkstoš eiro gadā.
+Gandrīz četri tūkstoši eiro.
+Pēdējā alga bija ap četriem tūkstošiem.
+Man ir ap pieciem tūkstošiem eiro uzkrājumos.
+Gala izmaksas ir piectūkstoš EUR bez atlaides.
+Automašīna "[NAME]" maksā vismaz seštūkstoš EUR.
+Es samaksāju sešus tūkstošus un septiņus simtus par dzīvokļa remontu.
+Man ir jāsaņem vismaz septiņi tūkstoši eiro.
+Mājas remonts maksā septiņtūkstoš piecsimt piecdesmit eiro.
+Ar atlaidi maksā ap astoņiem tūkstošiem.
+Tavs uzkrājums... apmēram astoņi tūkstoši dolāru. 
+Gadā var nopelnīt ap astoņtūkstoš - deviņtūkstoš dolāru.
+Ar mašīnu tika nobraukti deviņi tūkstoši četrsimt kilometru.
+
 Naudas pelnīšana.
 Es gribētu pelnīt lielāku algu par [NUM] eiro mēnesī.
 Viņa vēlētos pelnīt vairāk.
@@ -276,7 +321,7 @@ Pieņemam tikai maksājumu karti.
 Kur es varu saņemt darba algu?
 Es tevi pieņemu darbā.
 Pieņemt cilvēku.
-Darbiniekiem maksā algu, tā var būt liela, vidēja vai maza.
+Darbinieki saņem algu, tā var būt liela, vidēja vai maza.
 Māte saņēma lielu algu.
 Māmiņa bieži strādā par mazu algu.
 Tētuks šodien saņēma nedaudz naudas.
@@ -333,6 +378,9 @@ Brauksim ar mašīnu vai autobusu?
 Ceturtais autobuss.
 Ar otro vai trešo autobusu?
 Autobuss bija tukšs.
+Kur ir pieejami taksometra pakalpojumi?
+Nekas šausmīgs, paņemsim taksi.
+Taksometri parasti ir dzelteni.
 Vecāki brauc ar skaistu mašīnu.
 Mašīna ir glīta.
 Viņš jūtas neglīts.

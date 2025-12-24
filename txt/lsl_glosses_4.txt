@@ -63,7 +63,8 @@ sākt no trešais februāris
 šodien ir [NUM] marts
 marts māsa ir liels jubileja
 marts ir gads trešais mēnesis
-gadīt marts
+pirmais marts ir uzskatāms par pavasaris sākums
+gaidīt marts
 šodien ir [NUM] aprīlis
 aprīlis ir 30 diena
 pirmais aprīlis ir joks diena
@@ -87,7 +88,7 @@ astotais jūlijs gaiss temperatūra_daba sasniegt 30 2 grādi
 šodien ir [NUM] augusts
 sākt no trešais augusts
 augusts ir gads astotais mēnesis
-30 pirmais augusts ir uzskatāms par vasaras beigas
+30 pirmais augusts ir uzskatāms par vasara beigas
 sestais augusts ventspils ūdens temperatūra_daba sasniegt + 19 grādi
 šodien ir [NUM] septembris
 septembris ceturtais svētdiena ir nedzirdīgs diena_kalendārs
@@ -114,7 +115,7 @@ decembris sākums
 no 0 līdz - 4 grādi
 [NUM] grādi
 gaiss temperatūra_daba sasniegt [NUM] grādi
-kurzeme nakts gaidīt augsts gaiss temperatūra_daba
+daugavpils nakts gaidīt augsts gaiss temperatūra_daba
 gaiss temperatūra_daba svārstīties no - 3 līdz - 7 grādi
 ūdens temperatūra_daba būt zems tikai 0 grādi
 ūdens ir auksts temperatūra_daba ir apmēram + 4 grādi
@@ -138,6 +139,9 @@ halovīns dažreiz izjokot cilvēks
 
 pirmdiena ir darbs
 tas pirmdiena mans ir brīvs diena_kalendārs
+nevarēt gaidīt brīvs diena_kalendārs
+brīvs diena_kalendārs parasts ir sestdiena un svētdiena
+diemžēl nevarēt es otrdiena ir darbs diena_kalendārs
 es gaidīt pirmdiena rīts
 tas pirmdiena būt nedaudz saule
 uz pirmdiena

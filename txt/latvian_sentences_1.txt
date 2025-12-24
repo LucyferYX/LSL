@@ -14,12 +14,13 @@ Mans vārds ir [NAME].
 Mans uzvārds ir [NAME].
 Cilvēkiem ir dažādi vārdi un uzvārdi.
 Mani sauc [NAME].
+Mani sauc [NAME] [NAME] [NAME]!
 Kādā vārdā tevi saukt?
 Vai tevi saukt par [NAME]?
 Kā tevi sauc?
 Kā jūs sauc?
 Kāds ir jūsu vārds?
-Viņu sauc [NAME].
+Viņu sauc [NAME] [NAME].
 Viņa vārds ir [NAME].
 Viņas vārds ir [NAME].
 Vai tavs vārds ir [NAME]?
@@ -33,7 +34,7 @@ Kāds ir viņas uzvārds?
 Prieks tevi redzēt.
 Priecājos jūs redzēt.
 Priecājos Jūs redzēt.
-Es negribu tevi redzēt.
+Es negribu tevi redzēt...
 Man bija prieks tevi redzēt.
 Ļoti patīkami!
 Man ir patīkami tevi redzēt.
@@ -170,6 +171,9 @@ Mēs esam priecīgi.
 Viņas ir priecīgas un laimīgas.
 Viņi ir laimīgi un priecīgi.
 Viņa nav bēdīga.
+
+Uzgaidiet!
+Pagaidiet mani!
 Ko tu dari?
 Ko mēs daram?
 Ko viņš darīs?
@@ -234,8 +238,9 @@ Piemēram?
 Piemēram kā?
 Šausmas!
 Šausmīgi!
-Diemžēl, es nevaru.
-Diemžēl...
+Nekas briesmīgs.
+Diemžēl, es nevaru...
+Diemžēl.
 Žēl!
 Man ir jūs žēl.
 Es tevi žēloju.

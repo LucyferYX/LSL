@@ -14,12 +14,13 @@ mans vārds ir [NAME]
 mans vārds ir [NAME]
 cilvēks ir dažāds vārds un vārds
 mans saukt [NAME]
+mans saukt [NAME] [NAME] [NAME]
 kāds vārds tu saukt
 vai tu saukt par [NAME]
 kā tu saukt
 kā jūs saukt
 kāds ir tavs vārds
-viņš saukt [NAME]
+viņš saukt [NAME] [NAME]
 viņš vārds ir [NAME]
 viņš vārds ir [NAME]
 vai tavs vārds ir [NAME]
@@ -170,6 +171,9 @@ mēs esmu prieks
 viņi ir prieks un laimīgs
 viņi ir laimīgs un prieks
 viņš nav bēdīgs
+
+gaidīt
+gaidīt mans
 ko tu darīt
 ko mēs darīt
 ko viņš darīt
@@ -234,7 +238,8 @@ piemēram
 piemēram kā
 šausmas
 šausmas
-žēl es nevarēt
+šausmas nekas
+žēl nevarēt es
 žēl
 žēl
 mans ir jūs žēl
