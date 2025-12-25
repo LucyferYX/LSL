@@ -195,8 +195,9 @@ rīt ir gaidīt spēcīgs lietus
 vakar bija nedaudz lietus
 debesis mākonis
 debesis bija pilns ar mākonis
-mākonis debesis
 rīt būt mākonis
+mākonis debesis
+septītais debesis
 debesis atrasties balts mākonis
 tumšs vai pelēks mākonis solīt lietus
 mākonis lēns kustība debesis

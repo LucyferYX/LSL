@@ -1,3 +1,5 @@
+cik tu ir māja dzīvnieks
+
 labs suns
 100 1 suns
 kāds ir tavs suns suga

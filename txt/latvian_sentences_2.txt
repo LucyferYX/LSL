@@ -120,6 +120,7 @@ Kur tu dzīvo?
 Mēs dzīvojam.
 Es dzīvoju.
 Es dzīvoju Rīgā.
+Katram ir savi dzīves apstākļi.
 Vai tu dzīvo tālu no Rīgas?
 Vai tas ir tālu no šejienes?
 Vai tas ir tuvu šeit?
@@ -255,6 +256,7 @@ Ventspilī iedzīvotāju skaits ir daudz mazāks nekā Liepājā.
 Rīga, Liepāja, Ventspils atrodas jūras krastā.
 Šajā pilsētā dzīvo ap trīstūkstoš iedzīvotāju.
 
+Vai es jūsu bankā varu samainīt eiro pret dolāriem?
 Es vēlos saņemt naudu.
 [NAME] izbeidza sarunu par algām.
 Viņa atrodas šeit, lai paņemtu viņas naudu.

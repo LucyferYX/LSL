@@ -121,6 +121,12 @@ Labi, viņa piekrīt.
 Nepiekrītu!
 Nē, nepiekrītu!
 Viņi nepiekrita.
+Tas ir pareizi!
+Tas ir nepareizi!
+Pilnīgi pareizi!
+Pilnīgi nepareiza atbilde!
+Atbilde nav pareiza.
+Viņš nebija pareizs.
 
 Vai viņa ir priecīga?
 Vai viņš ir priecīgs?

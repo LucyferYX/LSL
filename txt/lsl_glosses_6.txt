@@ -10,21 +10,33 @@ teksta_telefons izmantot nedzirdīgs cilvēks
 es izmantot teksta_telefons
 tikai ar teksta_telefons
 
+vai jums ir medicīna produkts
+
 vesels
 es justies vesels
 pirms 2 nedēļa bija vesels
 ģimene viss ir vesels
 [NAME] nav vesels
+dzīvot cilvēks
 
 zems temperatūra_veselība
 tu ir augsts temperatūra_veselība
 mans ir auksts
 mans ir karsts
 
+reakcija uz stress
+emocionāls reakcija ir reti
+ātrs reakcija varēt glābt dzīvot
+alerģija reakcija varēt parādīt nedaudz minūte laiks
+vai tu ir kāds alerģija
+mans ir alerģija pret suns
+esmu alerģija pret savs māja dzīvnieks
+
 vai tavs ir klepus un iesnas
 jā mans ir klepus
 nē mans nav iesnas
 
+mans ir sauss seja āda
 mans sāpēt galva un kakls
 es nokrist un sasist galva
 galvassāpes
@@ -33,6 +45,7 @@ novērst trūkums
 
 gaidīt telpa
 
+pirmais palīdzība
 ātrā_palīdzība
 ātrā_palīdzība
 ātrā_palīdzība

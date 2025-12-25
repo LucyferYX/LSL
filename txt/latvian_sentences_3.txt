@@ -118,6 +118,9 @@ Mēteļi šajā veikalā ir pārāk dārgi.
 Es gribētu pasūtīt dažus mēteļus.
 Mētelis ar jostu.
 Cik centimetrus gara ir šī josta?
+Vai jums ir ādas jostas?
+Jā, mums ir dažādas jostas!
+Nē, pie mums nav.
 Cepuru, šaļļu, zeķu un cimdu šūšanas pakalpojums.
 Šūšanas darbnīca.
 

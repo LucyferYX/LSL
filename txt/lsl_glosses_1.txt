@@ -121,6 +121,12 @@ labs viņš piekrist
 nepiekrist
 nē nepiekrist
 viņi nepiekrist
+tas ir pareizs
+tas ir nepareizs
+pilns pareizs
+pilns nepareizs atbildēt
+atbildēt nav pareizs
+viņš nav pareizs
 
 vai viņš ir prieks
 vai viņš ir prieks

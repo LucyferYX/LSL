@@ -120,6 +120,7 @@ kur tu dzīvot
 mēs dzīvot
 es dzīvot
 es dzīvot rīga
+katrs ir savs dzīvot apstāklis
 vai tu dzīvot tāls no rīga
 vai tas ir tāls no šeit
 vai tas ir tuvs šeit
@@ -255,6 +256,7 @@ ventspils iedzīvotājs skaits ir daudz mazāk_nekā liepāja
 rīga liepāja ventspils atrasties jūra krasts
 tas pilsēta dzīvot apmēram 3000 iedzīvotājs
 
+vai es tavs banka varēt mainīt eiro pret dolārs
 es vēlēties saņemt nauda
 [NAME] pārtraukt saruna par alga
 viņš atrasties šeit paņemt viņš nauda
@@ -274,7 +276,7 @@ cena [NUM] eiro un [NUM] cents
 produkts cena ir [NUM] cents
 tev ir jā maksāt 400 60 eiro un 90 9 cents
 rīt tu varēt saņemt 300 dolārs
-mans ir 6 200 eiro banknot
+mans ir 6 200 eiro banknote
 beigas cena ir 700 60 un 30 5 cents
 sākums cena ir 900 90 9 dolārs
 2000 19 gads pārtraukt ražošana 500 eiro banknote
@@ -282,7 +284,7 @@ banka konts ir 2000 eiro
 skola bija 2000 skolēns
 2000 dolārs uzkrājums
 3000 eiro
-telefons cena vairāk_nekā 3000 dolāru
+telefons cena vairāk_nekā 3000 dolārs
 pirms darbs es pelnīt 4000 eiro gads
 gandrīz 4000 eiro
 pēdējais alga bija apmēram 4000

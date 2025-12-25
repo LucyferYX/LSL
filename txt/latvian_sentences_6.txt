@@ -10,21 +10,33 @@ Teksta telefonus izmanto nedzirdīgie cilvēki.
 Es izmantoju teksta telefonu.
 Tikai ar teksta telefonu.
 
+Vai jums ir medicīnas preces?
+
 Veselību!
 Es jūtos vesels.
 Pirms divām nedēļām biju vesels.
 Ģimenē visi ir veseli.
 [NAME] nav vesela.
+Dzīvs cilvēks.
 
 Zema temperatūra.
 Jums ir augsta temperatūra.
 Man ir auksti...
 Man ir karsti...
 
+Reakcija uz stresu.
+Emocionālā reakcija ir reta.
+Ātra reakcija var glābt dzīvību.
+Alerģiska reakcija var parādīties dažu minūšu laikā.
+Vai tev ir kāda alerģija?
+Man ir alerģija pret suņiem.
+Esmu alerģisks pret savu mājdzīvnieku.
+
 Vai Jums ir klepus un iesnas?
 Jā, man ir klepus.
 Nē, man nav iesnu.
 
+Man ir sausa sejas āda.
 Man sāp galva un kakls.
 Es nokritu un sasitu galvu.
 Galvas sāpes.
@@ -33,6 +45,7 @@ Novērst trūkumus.
 
 Uzgaidāmā telpa.
 
+Pirmā palīdzība.
 Ātrā palīdzība.
 Neatliekamā medicīniskā palīdzība.
 Ātrā medicīniskā palīdzība.
