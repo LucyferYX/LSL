@@ -45,17 +45,27 @@ Man bija prieks ar jums iepazīties.
 Novēlu jums veiksmi.
 Novēlu Jums veiksmi.
 Jums taisnība.
+Nē, tā nav taisnība.
+Jā, tā ir patiesība.
 Visiem Jums ir taisnība.
 Diemžēl jums nav taisnība.
 Man ir prieks.
 Man nav prieks.
+Patiess cilvēks.
 
 Nāc!
+Labi, nāc mums līdzi.
 Nāciet!
+Nāciet līdzi.
+Lūdzu, nāciet līdzi man!
+Sveika, kā tev šodien klājas?
 Kā tev iet?
+Kā tev klājas?
+Kā Jums klājas?
+Kā klājas [NAME]?
 Man iet labi.
-Man ir jāiet.
-Tev ir jāiet.
+Man ir jāiet uz turieni.
+Tev ir jāiet tur.
 Kur mums ir jāiet?
 Kur mēs ejam?
 Es eju.
@@ -79,10 +89,11 @@ Vai tev viss ir labi?
 Paldies!
 Paldies tev.
 Paldies, kā ir tev?
+Paldies par palīdzību!
+Paldies par palīdzēšanu!
 Lūdzu!
 Lūdzu, [NAME]!
 Lūdzu, nāciet!
-Nāciet līdzi.
 Lūdzu, esat priecīgi.
 Atvainojiet!
 Lūdzu, atvainojiet!
@@ -94,10 +105,7 @@ Es atvainojos.
 Tu atvainojies?
 Vai tu atvainosies?
 Viņa atvainojās.
-Es saprotu.
-Vai tu saproti?
-Es saprotu tevi.
-Es nevaru tevi saprast.
+Palīdziet man!
 Palīdzi man!
 Palīdzi [NAME].
 Vai tu vari palīdzēt?
@@ -112,6 +120,13 @@ Man tev bija jāpalīdz.
 Es gribu palīdzēt.
 Es negribu viņam palīdzēt.
 Es gribu viņai palīdzēt.
+
+Es saprotu.
+Vai tu saproti?
+Es saprotu tevi.
+Es nevaru tevi saprast.
+Atkārto vēlreiz?
+Ko tu vēlies vēl?
 Protams!
 Jā, protams!
 Protams, ka nē!

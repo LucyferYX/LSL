@@ -1,11 +1,13 @@
 [NUM]
 [NUM] gads
 [NUM] gads
+šodien ir [NUM] gads
 kad tu esmu dzimt
 es esmu dzimt [NUM] gads
 viņš dzimt [NUM] gads
 dzimt [NUM] gads
 dzimt [NUM] gads [NUM] janvāris
+es dzimt [NUM] gads [NUM] aprīlis
 
 kad
 drīz
@@ -20,8 +22,11 @@ pēc 2 mēnesis
 pirms mēnesis
 tikai 1 nedēļa
 pēc apmēram 90 diena
-pēc nedaudz gads
+pirms [NUM] gads
+pēc [NUM] gads
+pēc dažreiz gads
 pēc 20 gads
+neilgs pēc tas
 
 vasara sezona
 tieši ziema sezona

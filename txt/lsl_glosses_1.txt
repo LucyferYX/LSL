@@ -45,17 +45,27 @@ mans bija prieks ar jums iepazīties
 novēlēt jums veiksme
 novēlēt tavs veiksme
 jums taisnība
+nē tas nav taisnība
+jā tas ir taisnība
 viss tavs ir taisnība
 diemžēl jums nav taisnība
 mans ir prieks
 mans nav prieks
+taisnība cilvēks
 
 nāc
+labs nāc mēs līdzi
 nāc
-kā tu iet
+nāc līdzi
+lūdzu nāc līdzi mans
+sveiks kā šodien iet tu
+kā iet tu
+kā iet tu
+kā iet tu
+kā iet [NAME]
 mans iet labs
-mans ir iet
-tu ir iet
+mans ir jā iet uz tas
+tu ir jā iet tas
 kur mēs ir iet
 kur mēs iet
 es iet
@@ -79,10 +89,11 @@ vai tu viss ir labs
 paldies
 paldies tu
 paldies kā ir tu
+paldies par palīdzība
+paldies par palīdzība
 lūdzu
 lūdzu [NAME]
 lūdzu nāc
-nāc līdzi
 lūdzu esmu prieks
 piedot
 lūdzu piedot
@@ -94,24 +105,28 @@ es piedot
 tu piedot
 vai tu piedot
 viņš piedot
+palīdzība mans
+palīdzība mans
+palīdzība [NAME]
+vai tu varēt palīdzība
+tu varēt palīdzība
+kā es varēt palīdzība
+es varēt palīdzība
+es nevarēt palīdzība
+vai palīdzība ir labs
+vai palīdzība
+vai tu palīdzība
+mans tu bija jā palīdzība
+vai viņš ir prieks
+vai viņš ir prieks
+es gribēt viņš palīdzība
+
 es saprast
 vai tu saprast
 es saprast tu
 es nevarēt tu saprast
-palīdzēt mans
-palīdzēt [NAME]
-vai tu varēt palīdzēt
-tu varēt palīdzēt
-kā es varēt palīdzēt
-es varēt palīdzēt
-es nevarēt palīdzēt
-vai palīdzēt ir labs
-vai palīdzēt
-vai tu palīdzēt
-mans tu bija palīdzēt
-vai viņš ir prieks
-vai viņš ir prieks
-es gribēt viņš palīdzēt
+atkārtot vēl
+ko tu vēlēties vēl
 protams
 jā protams
 protams nē

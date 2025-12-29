@@ -54,6 +54,7 @@ mežs ir daudz koks
 ceļojums uz [NAME] mežs
 zaļš mežs
 varbūt nāc ar mans uz tas mežs
+ne lauzt koks zars
 
 es bieži pirkt apģērbs veikals
 nevarēt izvēlēties ko pirkt
@@ -105,7 +106,7 @@ vai tas apģērbs ir arī cits krāsa
 2 zeķe
 vai tas apģērbs veikals ir zeķe
 es meklēt savs zeķe
-zeķe ir nedaudz traips
+uz zeķe ir nedaudz traips
 es šūt dažāds apģērbs
 [NAME] vajadzēt tumšs brilles
 es gribēt pasūtīt brilles
@@ -115,7 +116,7 @@ brilles ir melns traips
 mans ir vajadzēt mētelis jo drīz būt ziema
 es vēlēties tas melns mētelis
 mētelis tas veikals ir pārāk dārgs
-es gribēt pasūtīt nedaudz mētelis
+es gribēt pasūtīt [NUM] mētelis
 mētelis ar josta
 cik c m garš ir tas josta
 vai jums ir āda josta

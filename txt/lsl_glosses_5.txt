@@ -1,5 +1,7 @@
 cik tu ir māja dzīvnieks
 
+mans māja ir [NUM] kaķis
+viņš ir [NUM] suns un [NUM] kaķis
 labs suns
 100 1 suns
 kāds ir tavs suns suga

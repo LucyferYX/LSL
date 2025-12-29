@@ -164,15 +164,9 @@ pilns veikals
 es braukt uz ēst veikals kase
 viņš atrasties pie kase
 viņš strādāt kase
-aptieka [NAME]
-kur tuvums ir aptieka
-kur atrasties aptieka
-viņi braukt uz aptieka
-aptieka ir mazs cilvēks
-tas darbinieks strādāt aptieka
-pie aptieka ar mums stāvēt nedaudz cilvēks
+
 mans ir nedaudz nauda šeit
-nedaudz cents lūdzu
+dažreiz cents lūdzu
 mans tēvs strādāt banka
 diemžēl viņš tēvs nav daudz nauda
 banka atrasties daudz cilvēks
@@ -190,26 +184,45 @@ kur saņemt paka
 pasūtīt vairāk paka
 aizvest paka uz pasts māja
 mēs ar tēvs iet uz pasts
+
+aptieka [NAME]
+kur tuvums ir aptieka
+kur atrasties aptieka
+viņi braukt uz aptieka
+aptieka ir mazs cilvēks
+tas darbs cilvēks strādāt aptieka
+pie aptieka ar mums stāvēt dažreiz cilvēks
 mans māte atrasties poliklīnika
 poliklīnika ir mazs
 tas poliklīnika nav liels
 rīt iet uz poliklīnika
-šodien poliklīnika nav daudz darbinieks
-mans draugs šodien iet uz skola
-tas ir mans skola
-rīga ir vairāk skola
-šodien skola ir ļoti nedaudz cilvēks
-mans tas skola ir daudz draugs
-skola ir labs
-iet kopā uz mans skola
-es vēlēties strādāt skola
-cik skola tu zināt
-rīga atrasties ļoti liels slimnīca es uz tas iet
+šodien poliklīnika nav daudz darbs cilvēks
+kā mans braukt līdz poliklīnika
+kur poliklīnika mans jā atbraukt
+daugavpils atrasties ļoti liels slimnīca es uz tas iet
 mans māte un tēvs strādāt slimnīca
 slimnīca [NAME]
 cik latvija ir slimnīca
 es šodien nebraukt uz slimnīca
-slimnīca strādāt 10 darbinieks
+slimnīca strādāt 10 darbs cilvēks
+
+mans draugs šodien iet uz skola
+tas ir mans skola
+rīga ir vairāk skola
+šodien skola ir ļoti nedaudz skolēns
+mans tas skola ir daudz draugs
+skola ir labs varēt daudz mācīties
+iet kopā uz mans skola
+es vēlēties strādāt skola
+cik skola tu zināt
+es nezināt tas skola
+vai šodien iet uz universitāte
+tas atrasties universitāte
+es mācīties latvija universitāte
+latvija ir vairāk_nekā 20 universitāte
+latvija universitāte 100 gads jubileja
+universitāte mācīties vairāk_nekā [NUM] students un strādāt [NUM] darbs cilvēks
+
 šeit ir tirgus
 tirgus ir šeit
 tirgus ir ļoti pilns
@@ -235,8 +248,8 @@ tas atrasties zems
 cilvēks ēst ēst 
 [NAME] [NAME] un [NAME] kopā iet uz tirgus
 kur vieta rīga atrasties labs un liels tirgus
-viesnīca ir nedaudz darbinieks un daudz cilvēks
-[NAME] ir tas viesnīca darbinieks
+viesnīca ir nedaudz darbs cilvēks un daudz cilvēks
+[NAME] ir tas viesnīca darbs cilvēks
 rīga atrasties vairāk ēkas piemēram aptieka banka baznīca pasts poliklīnika skola slimnīca tirgus veikals un viesnīca
 ēkas atrasties vieta
 darbnīca atrasties vieta
@@ -305,6 +318,7 @@ viņš vēlēties pelnīt vairāk
 [NUM] eiro gads
 [NUM] gads nopelnīt [NUM] eiro
 vidējs alga valsts
+ārsts vidējs mēnesis alga latvija ir 1000 līdz 3000 eiro
 es negribēt saņemt vidējs alga
 vai tu saņemt liels alga
 vai jūs esmu prieks par saņemt alga
@@ -323,7 +337,7 @@ saņemt tikai maksāt karte
 kur es varēt saņemt darbs alga
 es tu saņemt darbs
 saņemt cilvēks
-darbinieks saņemt alga tas varēt būt liels vidējs vai mazs
+darbs cilvēks saņemt alga tas varēt būt liels vidējs vai mazs
 māte saņemt liels alga
 māte bieži strādāt par mazs alga
 tēvs šodien saņemt nedaudz nauda
@@ -365,6 +379,9 @@ domāt viss kārtība
 domāt jā
 domāt nē
 
+sagatavot braukt
+uz kur braukt
+uz kur braukt
 es šodien braukt ar automašīna
 tēvs rīt braukt ar automašīna uz rīga
 automašīna saņemt rīt
@@ -377,6 +394,8 @@ braukt nakts
 nebraukt vēls nakts
 varbūt skriet varbūt iet bet varbūt braukt
 braukt ar automašīna vai autobuss
+pa ceļš braukt mikro autobuss
+mikro autobuss pakalpojums
 ceturtais autobuss
 ar otrais vai trešais autobuss
 autobuss bija tukšs
@@ -391,6 +410,7 @@ lūdzu darīt mans pakalpojums
 nē pats darīt
 ceļš ir garš
 braukt tas ceļš
+braukt galvenais ceļš
 uz ceļš notikt slikts apstāklis
 uz [NAME] ceļš notikt automašīna avārija
 radīt neglīts apstāklis

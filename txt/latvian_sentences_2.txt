@@ -164,13 +164,7 @@ Pilns veikals.
 Es dodos uz pārtikas veikala kasi.
 Viņa atrodas pie kases.
 Viņš strādā kasē.
-Aptieka "[NAME]".
-Kur tuvumā ir aptiekas?
-Kur atrodas aptieka?
-Viņas devās uz aptieku.
-Aptiekā ir maz cilvēku.
-Šie darbinieki strādā aptiekā.
-Pie aptiekas ar mums stāv daži cilvēki.
+
 Man ir mazliet naudas tepat.
 Dažus centus, lūdzu!
 Mans tētis strādā bankā.
@@ -190,26 +184,45 @@ Kur pieņem pakas?
 Pasūtu vairākas pakas.
 Aiznesu paku uz pasta ēku.
 Mēs ar tēti ejam uz pastu.
+
+Aptieka "[NAME]".
+Kur tuvumā ir aptiekas?
+Kur atrodas aptieka?
+Viņas devās uz aptieku.
+Aptiekā ir maz cilvēku.
+Šie darbinieki strādā aptiekā.
+Pie aptiekas ar mums stāv daži cilvēki.
 Mana mamma atrodas poliklīnikā.
 Poliklīnika ir maza.
 Šī poliklīnika nav liela.
 Rītdien iešu uz poliklīniku.
 Šobrīd poliklīnikā nav daudz darbinieku.
-Mans draugs šobrīd dodas uz skolu.
-Tā ir mana skola.
-Rīgā ir vairākas skolas.
-Šodien skolā ir ļoti maz cilvēku.
-Man šajā skolā ir daudz draugu.
-Skola ir laba.
-Iesim kopā uz manu skolu?
-Es vēlos strādāt skolā.
-Cik skolas tu zini?
-Rīgā atrodas ļoti liela slimnīca, es uz to iešu.
+Kā man nokļūt līdz poliklīnikai?
+Kurā poliklīnikā man jāgriežas?
+Daugavpilī atrodas ļoti liela slimnīca, es uz to iešu.
 Mana māte un tēvs strādā slimnīcā.
 Slimnīca "[NAME]".
 Cik Latvijā ir slimnīcu?
 Es šodien nebraukšu uz slimnīcu.
 Slimnīcā strādā 10 darbinieki.
+
+Mans draugs šobrīd dodas uz skolu.
+Tā ir mana skola.
+Rīgā ir vairākas skolas.
+Šodien skolā ir ļoti maz skolēnu.
+Man šajā skolā ir daudz draugu.
+Skola ir laba, var daudz iemācīties.
+Iesim kopā uz manu skolu?
+Es vēlos strādāt skolā.
+Cik skolas tu zini?
+Es nezinu to skolu.
+Vai tagad ej uz universitāti?
+Te atrodas universitāte.
+Es studēju Latvijas Universitātē.
+Latvijā ir vairāk nekā divdesmit universitāšu.
+Latvijas Universitātei – simts gadu jubileja.
+Universitātē studē vairāk nekā [NUM] studentu un strādā [NUM] darbinieku.
+
 Tepat ir tirgus.
 Tirgus ir šeit.
 Tirgus ir ļoti pilns.
@@ -305,6 +318,7 @@ Viņa vēlētos pelnīt vairāk.
 [NUM] eiro gadā.
 [NUM] gadā nopelnīju [NUM] EUR.
 Vidējā alga valstī.
+Ārstu vidējā mēneša alga Latvijā ir tūkstoš līdz trīstūkstoš eiro.
 Es negribu saņemt vidējo algu.
 Vai tu saņem lielu algu?
 Vai jūs esat priecīgi par saņemto algu?
@@ -365,6 +379,9 @@ Domāju, ka viss sakārtots.
 Domāju, ka jā!
 Domāju, ka nē!
 
+Gatavojamies doties!
+Uz kurieni doties?
+Uz kurieni braukt?
 Es šobrīd braucu ar mašīnu.
 Tēvs rīt brauks ar mašīnu uz Rīgu.
 Mašīna tiks saņemta rītdien.
@@ -380,6 +397,8 @@ Brauksim ar mašīnu vai autobusu?
 Ceturtais autobuss.
 Ar otro vai trešo autobusu?
 Autobuss bija tukšs.
+Pa ceļu brauc mikroautobuss.
+Mikroautobusa pakalpojumi.
 Kur ir pieejami taksometra pakalpojumi?
 Nekas šausmīgs, paņemsim taksi.
 Taksometri parasti ir dzelteni.
@@ -391,6 +410,7 @@ Lūdzu, izdariet man pakalpojumu!
 Nē, pats izdari.
 Ceļš ir garš.
 Brauc pa to ceļu.
+Brauc pa galveno ceļu.
 Uz ceļa notika slikta situācija.
 Uz [NAME] ceļa notika auto avārija. 
 Radīt neglītu situāciju.

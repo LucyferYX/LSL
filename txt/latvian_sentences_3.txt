@@ -54,6 +54,7 @@ Mežā ir daudz koku.
 Ekskursiju uz [NAME] mežu.
 Zaļš mežs.
 Varbūt nāc ar mani uz to mežu?
+Nelauziet koku zarus!
 
 Es bieži iepērkos apģērba veikalos.
 Nevaru izvēlēties, ko pirkt.
@@ -105,7 +106,7 @@ Vai šādi apģērbi ir arī citās krāsās?
 Divas zeķes.
 Vai šajā apģērbu veikalā ir zeķes?
 Es meklēju savu zeķi!
-Zeķēm ir daži traipi.
+Uz zeķēm ir nelieli traipi.
 Es šuvu dažādus apģērbus.
 [NAME] vajag tumšas brilles.
 Es gribētu pasūtīt brilles.
@@ -115,7 +116,7 @@ Brillēs ir melns traips.
 Man ir nepieciešams mētelis, jo drīz būs ziema.
 Es vēlos šo melno mēteli.
 Mēteļi šajā veikalā ir pārāk dārgi.
-Es gribētu pasūtīt dažus mēteļus.
+Es gribētu pasūtīt [NUM] mēteļus.
 Mētelis ar jostu.
 Cik centimetrus gara ir šī josta?
 Vai jums ir ādas jostas?

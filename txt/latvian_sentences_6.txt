@@ -6,6 +6,7 @@ Nedzirdīgie un vājdzirdīgie cilvēki.
 Latvijā ir divi tūkstoši nedzirdīgo un vairāk nekā ... vājdzirdīgo.
 
 Zīmju valodas tulki.
+Vai nepieciešams izsaukt zīmju valodas tulku?
 Teksta telefonus izmanto nedzirdīgie cilvēki.
 Es izmantoju teksta telefonu.
 Tikai ar teksta telefonu.
@@ -18,12 +19,28 @@ Pirms divām nedēļām biju vesels.
 Ģimenē visi ir veseli.
 [NAME] nav vesela.
 Dzīvs cilvēks.
+Man nav sūdzības, es jūtos labi.
+Vai Jums ir vēl kādas sūdzības?
 
+Vai temperatūra ir?
 Zema temperatūra.
 Jums ir augsta temperatūra.
 Man ir auksti...
 Man ir karsti...
+Man ir neliela temperatūra.
+Mana temperatūra ir [NUM].
+Šorīt temperatūra man bija [NUM].
+Šorīt bija trīsdesmit septiņi un divi.
+Man ir paaugstināts asinsspiediens.
 
+Cilvēki bija panikā!
+Kā palīdzēt personai, ja viņai ir panikas lēkme?
+Panikas lēkmes ir akūts izmisuma stāvoklis.
+Panikas lēkmes laikā asinsspiediens var īslaicīgi paaugstināties.
+Panikas lēkme var būt desmit līdz trīsdesmit minūtes ilga.
+Cik ilga ir trauksme?
+Trauksmes simptomi.
+Kas izraisa trauksmi?
 Reakcija uz stresu.
 Emocionālā reakcija ir reta.
 Ātra reakcija var glābt dzīvību.
@@ -32,19 +49,60 @@ Vai tev ir kāda alerģija?
 Man ir alerģija pret suņiem.
 Esmu alerģisks pret savu mājdzīvnieku.
 
+Vai tu esi stāvoklī?
+
+Es esmu slima...
+Es esmu slimnieks.
+Es esmu saslimusi!
+Es esmu saaukstējusies.
+Mans dēls ir saaukstējies.
+[NAME] [NAME] ir saslimis.
+Vai [NAME] ir nopietni saslimis?
+Vai tā ir nopietna saslimšana?
+Kādi ir saslimšanas simptomi?
+Es nejūtos vesela.
 Vai Jums ir klepus un iesnas?
 Jā, man ir klepus.
 Nē, man nav iesnu.
+Tikai neliels klepus, bet iesnu nav.
+Šī ir akūta saslimšana.
+Vai Jūs kādreiz esat slimojusi ar sirds vai plaušu slimībām?
+Pirms četriem gadiem man bija sirdslēkme.
+Dažiem cilvēkiem ir epilepsija.
+Ko darīt epilepsijas gadījumā?
+Epilepsijas lēkmes parasti ir īsas.
 
 Man ir sausa sejas āda.
 Man sāp galva un kakls.
 Es nokritu un sasitu galvu.
+Es paklupu un sasitu galvu...
 Galvas sāpes.
 Galvassāpju veidi un to novēršana.
+Reizēm jūtu sāpes krūtīs.
+Esmu sasitusi celi.
+Es laikam esmu salauzusi kāju.
 Novērst trūkumus.
 
-Uzgaidāmā telpa.
+Es tev izrakstīšu zāles pret saaukstēšanos.
+Kādas zāles tu lieto?
+Kā šīs zāles lietot?
+Kā tās jālieto?
+Pa [NUM] pilieniem trīsreiz dienā pēc ēšanas.
+Divreiz dienā pēc ēšanas.
 
+Uzgaidāmā telpa.
+Es vairākas nedēļas ārstējos slimnīcā.
+
+Kur ir ārsts?
+Kad atnāks galvenais ārsts.
+Ārsts ārstē apslimušo cilvēku.
+Meita vēlas pierakstīties pie ārsta.
+Vai tu esi medmāsa?
+Kurā kabinetā pieņem ķirurgs?
+Man ir nepieciešama medicīniskā palīdzība.
+Vai varētu izsaukt ārstu?
+Izsauciet, lūdzu, ārstu!
+Izsauciet, lūdzu, ātro palīdzību!
 Pirmā palīdzība.
 Ātrā palīdzība.
 Neatliekamā medicīniskā palīdzība.

@@ -6,6 +6,7 @@
 
 
 
+vai vajadzēt izsaukt ... tulks cilvēks
 teksta_telefons izmantot nedzirdīgs cilvēks
 es izmantot teksta_telefons
 tikai ar teksta_telefons
@@ -18,34 +19,91 @@ pirms 2 nedēļa bija vesels
 ģimene viss ir vesels
 [NAME] nav vesels
 dzīvot cilvēks
+mans nav sūdzība es justies labs
+vai tavs ir vēl kāds sūdzība
 
+vai temperatūra_veselība ir
 zems temperatūra_veselība
 tu ir augsts temperatūra_veselība
 mans ir auksts
 mans ir karsts
+mans ir nedaudz temperatūra_veselība
+mans temperatūra_veselība ir [NUM]
+šodien rīts temperatūra_veselība bija [NUM]
+šodien rīts bija 30 7 un 2
+mans ir augsts asinsspiediens
 
+cilvēks bija panika
+kā palīdzēt cilvēks ja viņš ir panika negadījums
+panika negadījums ir akūts izmisis situācija
+panika negadījums laiks asinsspiediens varēt īslaicīgs augsts
+panika negadījums varēt būt 10 līdz 30 minūte ilgs
+cik ilgs ir trauksme
+panika simptoms
+kas radīt trauksme
 reakcija uz stress
 emocionāls reakcija ir reti
 ātrs reakcija varēt glābt dzīvot
-alerģija reakcija varēt parādīt nedaudz minūte laiks
+alerģija reakcija varēt parādīt dažreiz minūte laiks
 vai tu ir kāds alerģija
 mans ir alerģija pret suns
 esmu alerģija pret savs māja dzīvnieks
 
+vai tu esmu stāvoklī
+
+es esmu slims
+es esmu slims cilvēks
+es esmu saslimšana
+es esmu saaukstēšanās
+mans dēls ir saaukstēšanās
+[NAME] [NAME] ir saslimšana
+vai [NAME] ir nopietns saslimšana
+vai tas ir nopietns saslimšana
+kāds ir saslimšana simptoms
+es nē justies vesels
 vai tavs ir klepus un iesnas
 jā mans ir klepus
 nē mans nav iesnas
+tikai nedaudz klepus bet iesnas nav
+tas ir akūts saslimšana
+vai tu kādreiz esmu slims ar sirds vai plaušas slims
+pirms 4 gads mans bija sirds negadījums
+dažreiz cilvēks ir epilepsija
+ko darīt epilepsija gadījums
+epilepsija negadījums parasts ir īss
 
 mans ir sauss seja āda
 mans sāpēt galva un kakls
 es nokrist un sasist galva
+es paklupt un sasist galva
 galvassāpes
 galvassāpes veids un tas novērst
+dažreiz justies sāpēt krūtis
+esmu sasist celis
+es varbūt esmu lauzt kāja
 novērst trūkums
 
-gaidīt telpa
+es tavs izrakstīt zāles pret saaukstēšanās
+kāds zāles tu lietot
+kā tas zāles lietot
+kā tas jā lietot
+pa [NUM] piliens 3 reize diena pēc ēst
+2 reize diena pēc ēst
 
-pirmais palīdzība
+gaidīt telpa
+es vairāk nedēļa ārstēt slimnīca
+
+kur ir ārsts
+kad atnākt galvenais ārsts
+ārsts ārstēt slims cilvēks
+meita vēlēties pieraksts pie ārsts
+vai tu esmu medicīna
+kur dzīvoklis saņemt ķirurgs
+mans ir vajadzēt medicīna palīdzēt
+vai varēt izsaukt ārsts
+izsaukt lūdzu ārsts
+izsaukt lūdzu ātrā_palīdzība
+pirmais palīdzēt
 ātrā_palīdzība
 ātrā_palīdzība
 ātrā_palīdzība
