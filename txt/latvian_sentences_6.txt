@@ -1,5 +1,7 @@
 Zīmju valoda.
 Latviešu zīmju valoda.
+Es mācos zīmju valodu.
+Es mazliet zinu zīmju valodu.
 Komunikācija latviešu zīmju valodā.
 Latvijas Nedzirdīgo Savienība.
 Nedzirdīgie un vājdzirdīgie cilvēki.
@@ -49,6 +51,8 @@ Vai tev ir kāda alerģija?
 Man ir alerģija pret suņiem.
 Esmu alerģisks pret savu mājdzīvnieku.
 
+Viņš ir tuvredzīgs.
+
 Vai tu esi stāvoklī?
 
 Es esmu slima...
@@ -71,9 +75,12 @@ Pirms četriem gadiem man bija sirdslēkme.
 Dažiem cilvēkiem ir epilepsija.
 Ko darīt epilepsijas gadījumā?
 Epilepsijas lēkmes parasti ir īsas.
+Parādi sasituma vietu.
+Kurā vietā sasities?
 
 Man ir sausa sejas āda.
 Man sāp galva un kakls.
+[NAME] ļoti sāpot galva.
 Es nokritu un sasitu galvu.
 Es paklupu un sasitu galvu...
 Galvas sāpes.
@@ -83,13 +90,22 @@ Esmu sasitusi celi.
 Es laikam esmu salauzusi kāju.
 Novērst trūkumus.
 
+Es ņemu!
+Es paņemšu šo zāles paciņu.
+Kuru zāļu iepakojumu man paņemt?
+Lūdzu, šo medikamentus.
 Es tev izrakstīšu zāles pret saaukstēšanos.
+Vai man ir jālieto šīs zāles?
+Tev jālieto [NAME] zāles.
 Kādas zāles tu lieto?
 Kā šīs zāles lietot?
 Kā tās jālieto?
 Pa [NUM] pilieniem trīsreiz dienā pēc ēšanas.
 Divreiz dienā pēc ēšanas.
+Zāles lieto ārīgi.
 
+Medmāsa jūs gaida [NUM]. kabinetā.
+Kurš ir pēdējais uz šo kabinetu?
 Uzgaidāmā telpa.
 Es vairākas nedēļas ārstējos slimnīcā.
 
@@ -98,6 +114,8 @@ Kad atnāks galvenais ārsts.
 Ārsts ārstē apslimušo cilvēku.
 Meita vēlas pierakstīties pie ārsta.
 Vai tu esi medmāsa?
+Kur ir medmāsas?
+Vai ārsts ir kabinetā?
 Kurā kabinetā pieņem ķirurgs?
 Man ir nepieciešama medicīniskā palīdzība.
 Vai varētu izsaukt ārstu?
@@ -108,3 +126,5 @@ Pirmā palīdzība.
 Neatliekamā medicīniskā palīdzība.
 Ātrā medicīniskā palīdzība.
 Ātri atbrauca ātrā palīdzība.
+
+Vismaz divreiz nedēļā ir labi pavingrot.

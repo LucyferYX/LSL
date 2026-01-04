@@ -17,12 +17,16 @@ Sveika, mamm.
 Sveiks, tēt.
 Šis ir mans vīrs [NAME].
 Šī ir mana sieva [NAME].
+Sievu sauc [NAME], bet meitu sauc [NAME].
 Man nav vīra vai sievas.
 Es tevi mīlu!
 Vai tu mīli savu radus?
+Viņš ir mans radinieks.
 Tie ir mani radi.
 Tā ir mīlestība.
 Mīlestības pilns cilvēks.
+Man ir randiņš!
+Vīrs svētdien uzaicināja uz randiņu.
 Tā ir mana ģimene.
 Sieviete un vīrietis.
 Kurš tev patīk vislabāk?
@@ -31,6 +35,8 @@ Viņa ir tik mīļa!
 Viņas ģimenei ir daudz nauda.
 Tajā ģimenē nav daudz bērnu.
 Šī ir tikai parasta ģimene.
+Nepilna ģimene — tikai viens vecāks.
+Es, vīrs un [NUM] bērni.
 Ģimenes ir lielas vai mazas.
 Ģimenē esmu tikai es.
 Ģimenē esmu es, mamma, tētis, māsa un brālis.
@@ -54,7 +60,7 @@ Es dzīvoju kopā ar savu divpadsmit gadu vecu brāli.
 Tas ir viņas bērns.
 Bērnu sauc [NAME].
 Vai jums ir bērni?
-Man ir 2 bērni - dēls un meita.
+Man ir 2 bērni — dēls un meita.
 [NAME] pārnāk mājās.
 Vai bērni drīz pārnāks?
 Kad man atnākt?
@@ -71,8 +77,11 @@ Tava ģimene ir liela.
 Man ir vectētiņš un vecmāmiņa.
 Vectēvam ir četri mazdēli.
 Vecmāte ir gudra sieviete.
-Vecmāmiņas mājas.
+Mīļās vecmāmiņas mājas.
 Vectēvs jūtas vājš.
+Man ir [NUM] māsīcas.
+Viņas aizbrauca kopā ar māsīcu un brālēnu.
+Viņi aizbrauca uz laukiem pie vectēva un vecmammas.
 Labs draugs [NAME].
 Viņi ir draugi.
 Viņas ir draudzenes.
@@ -81,6 +90,22 @@ Tas bija vāji...
 [NAME] draudzene ir ļoti gudra, viņa daudz strādā.
 Māsai sveiciens!
 Brālim sveiciens!
+
+Ko dara tava vīra vecāki?
+Vīratēvs nomira pirms [NUM] gadiem, bet vīramāte ir pensionāre.
+Viņa ļoti mīl savus mazbērnus.
+Vai tu izšķīries ar sievu?
+Es ar vīru izšķīros.
+Mēs izšķīrāmies.
+Dēlam drīz būs kāzas.
+Atceries mūsu kāzas?
+Mans līgavainis [NAME].
+Līgavai bija liela balta kāzu kleita.
+Laulības līgumu viņi noslēdza pēc kāzām.
+Laulību var slēgt baznīcā.
+Es atceros viņu kā mazu puisīti.
+Sieviete ar mazu meiteni.
+Dāvināt skaistus ziedus mūsu tuvajiem cilvēkiem.
 
 Cik tu esi garš?
 Cik tu esi gara?
@@ -94,6 +119,7 @@ Cik jūs kopā sverat?
 Es sveru apmēram astoņdesmit kilogramus.
 Draudzene [NAME] sver simt deviņpadsmit kilogramus.
 
+Man ir [NUM] gadi.
 Mana māsa ir desmit gadu veca.
 Mans brālis ir septiņus gadus vecs.
 Mazdēlam ir četrpadsmit gadi, bet mazmeitai ir septiņpadsmit.
@@ -120,6 +146,7 @@ Kur tu dzīvo?
 Mēs dzīvojam.
 Es dzīvoju.
 Es dzīvoju Rīgā.
+Tagad es ar dēlu dzīvoju kopā.
 Katram ir savi dzīves apstākļi.
 Vai tu dzīvo tālu no Rīgas?
 Vai tas ir tālu no šejienes?
@@ -141,7 +168,7 @@ Es atrodos šeit Rīgā, Latvijā.
 Kur tas ir?
 Vai viņas dzīvoklis ir tuvumā?
 Viņas zina, kur tas ir.
-Viņi nezina, kur tas ir.
+Viņi nezina, kur tas ir...
 Kur notika?
 Kad notiek nodošana?
 [NAME] nodos atslēgas līdz vakaram.
@@ -150,6 +177,12 @@ Dzīvokļa atslēgas.
 Atslēga ir pie manis.
 Kad man atnākt pie jums uz mājām?
 Šodien atnāca [NAME] draudzene [NAME].
+Pie [NAME] ciemojas draugs [NAME].
+Pie [NAME] [NAME] ciemos atnāca draudzene [NAME].
+[NAME] aizgāja ciemos pie [NAME] [NAME].
+Radinieki šodien brauc ciemos.
+Viņas nebija sen tikušās.
+Ilgus gadus viņi nebija tikušies.
 
 Veikals "[NAME]".
 Kur atrodas veikals?
@@ -197,6 +230,7 @@ Poliklīnika ir maza.
 Šī poliklīnika nav liela.
 Rītdien iešu uz poliklīniku.
 Šobrīd poliklīnikā nav daudz darbinieku.
+Dēls vairs nestrādā poliklīnikā.
 Kā man nokļūt līdz poliklīnikai?
 Kurā poliklīnikā man jāgriežas?
 Daugavpilī atrodas ļoti liela slimnīca, es uz to iešu.
@@ -216,11 +250,15 @@ Iesim kopā uz manu skolu?
 Es vēlos strādāt skolā.
 Cik skolas tu zini?
 Es nezinu to skolu.
+Mana mazā māsa ir skolniece.
+Skolā bija divtūkstoš skolēnu.
 Vai tagad ej uz universitāti?
 Te atrodas universitāte.
+[NAME] Universitātes mācību programma.
 Es studēju Latvijas Universitātē.
 Latvijā ir vairāk nekā divdesmit universitāšu.
 Latvijas Universitātei – simts gadu jubileja.
+Dēls [NAME] studē universitātē, meita [NAME] mācās skolā.
 Universitātē studē vairāk nekā [NUM] studentu un strādā [NUM] darbinieku.
 
 Tepat ir tirgus.
@@ -254,6 +292,7 @@ Rīgā atrodas vairākas ēkas, piemēram, aptiekas, bankas, baznīcas, pasti, p
 Ēku atrašanās vieta.
 Darbnīcu atrašanās vieta.
 
+Pasaulē ir astoņi miljardi iedzīvotāju.
 Latvija ir maza valsts.
 Latvijā ir apmēram divi miljoni iedzīvotāju.
 Kas ir Latvijas galvaspilsēta?
@@ -294,7 +333,6 @@ Beigu cena ir septiņsimt sešdesmit Eiro un trīsdesmit pieci eirocenti.
 Sākuma cena ir deviņsimt deviņdesmit deviņi dolāri.
 Divi tūkstoši deviņpadsmitajā gadā pārtrauca ražot piecsimt eiro banknoti.
 Bankas kontā ir divi tūkstoši EUR.
-Skolā bija divtūkstoš skolēnu.
 Divu tūkstošu dolāru uzkrājums.
 Trīs tūkstoši eiro.
 Telefons maksāja vairāk nekā trīstūkstoš dolāru.
@@ -345,6 +383,9 @@ Kur saņemt naudu?
 Darbs ir grūts.
 Darbs ir ļoti viegls.
 Tētim strādāt ir grūti, bet mammai viegli.
+
+Nepilngadīga persona.
+Nepilngadīgām personām ieeja aizliegta!
 Vidēja vecuma cilvēks.
 Māte nav veca.
 Vai tu šeit esi viena?
@@ -382,6 +423,7 @@ Domāju, ka nē!
 Gatavojamies doties!
 Uz kurieni doties?
 Uz kurieni braukt?
+Braucam ārpus Latvijas.
 Es šobrīd braucu ar mašīnu.
 Tēvs rīt brauks ar mašīnu uz Rīgu.
 Mašīna tiks saņemta rītdien.
@@ -415,6 +457,7 @@ Uz ceļa notika slikta situācija.
 Uz [NAME] ceļa notika auto avārija. 
 Radīt neglītu situāciju.
 Izraisīt avāriju.
+Viņi atvainojās par negadījuma izraisīšanu.
 Man ceļā bija avārija.
 Kur var salabot mašīnu.
 Lūdzu, salabojiet manu automašīnu.

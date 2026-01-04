@@ -2,23 +2,28 @@ sveiks
 sveiks
 sveiks [NAME]
 sveiks [NAME]
-labdien
-labdien [NAME]
-labvakar
-labvakar [NAME]
-labrīt
-labrīt [NAME]
+labs diena
+labs diena [NAME]
+labs vakars
+labs vakars [NAME]
+labs rīts
+labs rīts [NAME]
+labs rīts mans draugs
 sveiks
 sveiks [NAME]
 mans vārds ir [NAME]
+mans ir 2 vārds [NAME] un [NAME]
 mans vārds ir [NAME]
-cilvēks ir dažāds vārds un vārds
+cilvēki ir dažāds vārds un vārds
 mans saukt [NAME]
 mans saukt [NAME] [NAME] [NAME]
+pilns vārds ir [NAME] [NAME] [NAME]
+kā mans tu saukt
+kāds vārds mans tu saukt
 kāds vārds tu saukt
 vai tu saukt par [NAME]
 kā tu saukt
-kā jūs saukt
+kā jūs viss saukt
 kāds ir tavs vārds
 viņš saukt [NAME] [NAME]
 viņš vārds ir [NAME]
@@ -31,6 +36,8 @@ cilvēks [NAME]
 cilvēks vārds
 kāds ir tavs vārds
 kāds ir viņš vārds
+
+atļauja stāvēt priekša
 prieks tu redzēt
 prieks jūs redzēt
 prieks tu redzēt
@@ -39,36 +46,35 @@ mans bija prieks tu redzēt
 ļoti patikt
 mans ir patikt tu redzēt
 mans ir ļoti patikt jūs redzēt
+iepazīties
 prieks iepazīties
 prieks ar tavs iepazīties
 mans bija prieks ar jums iepazīties
 novēlēt jums veiksme
 novēlēt tavs veiksme
-jums taisnība
-nē tas nav taisnība
-jā tas ir taisnība
-viss tavs ir taisnība
-diemžēl jums nav taisnība
-mans ir prieks
-mans nav prieks
-taisnība cilvēks
+novēlēt viņš labs veiksme
+piedot mēs steigties
+mans arī jā iet
 
 nāc
+tad nāc
 labs nāc mēs līdzi
-nāc
+es aicināt jūs līdzi
 nāc līdzi
 lūdzu nāc līdzi mans
-sveiks kā šodien iet tu
-kā iet tu
-kā iet tu
-kā iet tu
+sveiks kā šodien iet
+kā tu iet
+kā tu iet
+bet kā iet tu
+kā tu iet
 kā iet [NAME]
+bet kā iet tavs draugs [NAME]
 mans iet labs
 mans ir jā iet uz tas
 tu ir jā iet tas
 kur mēs ir iet
 kur mēs iet
-es iet
+es jau iet
 kā justies
 kā tu justies
 ir labs
@@ -78,9 +84,14 @@ mans iet slikts
 es justies slikts
 es justies labs
 viss ir labs
-tas nekas ir ok
-ok
+tas nekas ir labs
+labs
 mums viss ir labs
+un tu
+un kā jums
+un kā ir tu
+paldies normāls
+iet normāls
 viss ir kārtība
 viss nav kārtība
 viss būt labs
@@ -111,38 +122,58 @@ palīdzība [NAME]
 vai tu varēt palīdzība
 tu varēt palīdzība
 kā es varēt palīdzība
-es varēt palīdzība
+es palīdzība
 es nevarēt palīdzība
 vai palīdzība ir labs
 vai palīdzība
 vai tu palīdzība
 mans tu bija jā palīdzība
-vai viņš ir prieks
-vai viņš ir prieks
+es gribēt palīdzība
+viņš negribēt viņš palīdzība
 es gribēt viņš palīdzība
 
 es saprast
 vai tu saprast
 es saprast tu
 es nevarēt tu saprast
+mans atkārtot
 atkārtot vēl
 ko tu vēlēties vēl
 protams
 jā protams
 protams nē
+precīzs tas nav
 piekrist
 jā es piekrist
 labs viņš piekrist
-nepiekrist
-nē nepiekrist
-viņi nepiekrist
-tas ir pareizs
+nē piekrist
+nē piekrist
+viņi nē piekrist
+es domāt ka tas tas nav
+tas ir precīzs pareizs
 tas ir nepareizs
 pilns pareizs
-pilns nepareizs atbildēt
-atbildēt nav pareizs
-viņš nav pareizs
+kāds ir tavs atbilde
+pilns nepareizs atbilde
+atbilde nav pareizs
+viņš nav pareizs tas apstāklis
+šodien drīz ir taisnība
+jums taisnība
+nē tas nav taisnība
+jā tas ir taisnība
+viss jums ir taisnība
+žēl tavs nav taisnība
+taisnība cilvēks
 
+būt pieklājība
+ilgs dzīve gads
+laimīgs
+uz veselība
+veselība
+novēlēt tavs labs veselība
+sasniegums darbs
+mans ir prieks
+mans žēl nav prieks
 vai viņš ir prieks
 vai viņš ir prieks
 es esmu labs
@@ -193,6 +224,12 @@ viņi ir prieks un laimīgs
 viņi ir laimīgs un prieks
 viņš nav bēdīgs
 
+vai jūs esmu satraukums
+vai tu esmu satraukums
+nē satraukums
+nē satraukums viss ir labs
+galvenais ir nē satraukums
+tikai nē satraukums
 gaidīt
 gaidīt mans
 ko tu darīt
@@ -200,6 +237,7 @@ ko mēs darīt
 ko viņš darīt
 jā
 jā labs
+es paldies tu
 paldies jā
 paldies jā
 piedot jā
@@ -214,7 +252,6 @@ piedot nē
 paldies nē
 piedot piemēram kā
 es piedot
-viņi piedot
 nē es negribēt
 nē es nezināt
 nē es nezināt [NAME]
@@ -266,21 +303,32 @@ piemēram kā
 mans ir jūs žēl
 es tu žēl
 negribēt žēl
+es tu žēl
+žēl mans
 tas nekas
 nekas
+tad jau nekas
 nekas slikts
 neko nevarēt darīt
 tu pats
-pats cilvēks
+pats cilvēki
 viss labs
 paldies viss labs
-arlabunakti
-arlabunakti [NAME]
+gulēt salds labs nakts
+salds miegs labs nakts
+paldies labs nakts
+labs nakts
+labs nakts [NAME]
 paldies un uz_redzēšanos
 uz_redzēšanos 
 uz_redzēšanos [NAME]
 laimīgs
 laimīgs [NAME]
-atā
+prieks tu tikties
+labs tad tikties vēlāk
+2 cilvēki tikties
+tikties atā
+atā tikties vēlāk
+labs atā
 atā [NAME]
 paldies un atā

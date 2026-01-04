@@ -4,5 +4,6 @@ mans māja ir [NUM] kaķis
 viņš ir [NUM] suns un [NUM] kaķis
 labs suns
 100 1 suns
+viss labs mans suns ir draugs
 kāds ir tavs suns suga
 pasaule ir vairāk_nekā 600 dažāds suns suga

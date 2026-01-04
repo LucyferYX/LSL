@@ -14,6 +14,7 @@ drīz
 tūlīt
 vēlāk
 nesen
+sen
 tuvs
 tāls
 pēc nedēļa
@@ -109,7 +110,7 @@ koks lapa_koks varēt sākt nokrist oktobris
 novembris bieži redzēt pelēks debesis
 novembris ir rudens pēdējais mēnesis
 kopā gaidīt novembris sākums
-17 novembris starp pasaule students diena_kalendārs
+17 novembris starp pasaule universitāte cilvēki diena_kalendārs
 šodien ir [NUM] decembris
 decembris ir pirmais ziema mēnesis
 devītais decembris gaiss temperatūra_daba nakts bija - 11 grādi
@@ -139,14 +140,29 @@ ziema svētki egle
 halovīns asociācija ar oranžs violets un melns krāsa
 halovīns laiks ir gads šausmas nakts
 vai jums ir konfekte halovīns
-konfekte vai izjokot
-halovīns dažreiz izjokot cilvēks
+konfekte vai izjokot "
+halovīns dažreiz izjokot cilvēki
+
+tuvs diena kad teikt paldies un mīļš vārds savs māte
+nav tikai māte bet arī vecs māte kristības māte vīrs māte vīrs māte un tante
+šodien gads māte diena_kalendārs svinēt [NUM] datums
+ir arī valsts kur māte diena_kalendārs svinēt cits laiks
+piemēram spānija un lietuva māte diena_kalendārs šodien gads astotais decembris kad kristības māja godināt jēzus_kristus māte
+francija māte diena_kalendārs svinēt maijs pēdējais svētdiena
+interesants ka latvija ģimene lokā māte diena_kalendārs sākt svinēt jau sen [NUM] gads bet oficiāls atzīmēt tikai no [NUM] gads
+viss bieži māte diena_kalendārs dāvināt zieds un nedaudz sirsnīgs dāvana bet galvenais ir atcerēties savs māte un teikt paldies par mīlēt un aprūpe
+kāds zieds dāvināt
+bieži dāvināt zieds kāds ir māte mīļš
+gads samainīt populārs dāvināt zieds mainīt
+piemēram no [NUM] līdz [NUM] gads ļoti populārs dāvināt bija [NAME] bet no [NUM] līdz [NUM] gads [NAME] bet no [NUM] līdz [NUM] gads [NAME]
+vēlāk dāvināt [NAME] [NAME] un [NAME]
+mūsu mīļš tulpe kļūt populārs no 2000 gads
 
 pirmdiena ir darbs
 tas pirmdiena mans ir brīvs diena_kalendārs
 nevarēt gaidīt brīvs diena_kalendārs
 brīvs diena_kalendārs parasts ir sestdiena un svētdiena
-diemžēl nevarēt es otrdiena ir darbs diena_kalendārs
+žēl nevarēt es otrdiena ir darbs diena_kalendārs
 es gaidīt pirmdiena rīts
 tas pirmdiena būt nedaudz saule
 uz pirmdiena
@@ -157,7 +173,7 @@ otrdiena pēcpusdiena
 otrdiena draugs
 otrdiena ir darbs diena_kalendārs
 nākamais otrdiena
-es šodien gatavoties otrdiena
+es šodien drīz gatavoties otrdiena
 tikai trešdiena
 nākamais trešdiena
 trešdiena gaidīt silts laiks
@@ -198,6 +214,7 @@ viņš skatīties vakar laiks prognoze
 šodien ir saulains silts laiks
 rīt ir gaidīt spēcīgs lietus
 vakar bija nedaudz lietus
+pēc drīz lietus
 debesis mākonis
 debesis bija pilns ar mākonis
 rīt būt mākonis
@@ -265,6 +282,8 @@ vētrains skaļš nakts
 mans ir vēss es vilkt mētelis
 vēss rīts
 
+rīts ziņas 900 sekunde "
+avīze vakars ziņas "
 sinoptiķis solīt silts saulains laiks
 šodien rīts sinoptiķis solīt spēcīgs vējš
 sinoptiķis solīt biezs sniegs
@@ -348,7 +367,7 @@ pus 8
 tikties pus astoņos
 vēl nav pus 9
 vēlāk varbūt pus deviņos vai pus desmitos
-šodien ir pus 10
+šodien drīz ir pus 10
 pus 11
 pulkstenis ir pus 12
 nav pus vienpadsmitos ir pus divpadsmitos

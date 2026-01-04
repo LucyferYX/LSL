@@ -19,7 +19,8 @@ Man brīvā laika gandrīz nav.
 Man patīk ziedi.
 Skaistas ziedu krāsas.
 Puķēm ir vairāki ziedi.
-Ko mēs nopirksim.
+Kādas puķes vislabāk dāvināt sievai?
+Ko mēs nopirksim?
 Es nopirkšu baltās puķes.
 Es nopirkšu šīs rozes manai sievai.
 Vīram ļoti patīk rozes.
@@ -58,6 +59,7 @@ Nelauziet koku zarus!
 
 Es bieži iepērkos apģērba veikalos.
 Nevaru izvēlēties, ko pirkt.
+Vai jums ir treniņtērps vai vingrošanas tērps?
 [NAME] veikalā ir vairāk nekā simts dažāda lieluma kreklu.
 Brūns krekls.
 Uz krekla ir traips.

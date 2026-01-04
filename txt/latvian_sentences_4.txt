@@ -14,6 +14,7 @@ Drīz!
 Tūlīt!
 Vēlāk.
 Nesen.
+Sen.
 Tuvu.
 Tālu.
 Pēc nedēļas.
@@ -142,6 +143,21 @@ Vai jums ir saldumi Halovīnam?
 "Saldumus vai izjokosim!"
 Halovīnā dažreiz izjoko cilvēkus.
 
+Tuvojas diena, kad teiksim pateicības un mīļus vārdus savām mammām.
+Ne tikai mammām, bet arī vecmāmiņām, krustmātēm, vīramātēm, sievasmātēm un tantēm.
+Šogad Mātes dienu svin [NUM]. datumā.
+Ir arī valstis, kurās Mātes dienu svin citā laikā.
+Piemēram, Spānijā un Lietuvā Mātes dienu šogad svin astotajā decembrī, kad baznīca godina Jēzus Kristus māti.
+Francijā Mātes dienu svin maija pēdējā svētdienā.
+Interesanti, ka Latvijā ģimenes lokā Mātes dienu sāka svinēt jau [NUM]. gadā, bet oficiāli atzīmē tikai no [NUM]. gada.
+Visbiežāk Māmiņdienā dāvina ziedus un nelielas, sirsnīgas dāvanas, bet galvenais ir atcerēties savu mammu un pateikt paldies par mīlestību un rūpēm.
+Kādus ziedus dāvināt?
+Bieži dāvina ziedus, kādi ir mammas mīļākie.
+Gadu gaitā populārākie dāvinātie ziedi mainās.
+Piemēram, no [NUM]. līdz [NUM]. gadam ļoti populāras dāvināt bija [NAME], bet no [NUM]. līdz [NUM]. gadam — [NAME], bet no [NUM]. līdz [NUM]. gadam — [NAME].
+Vēlāk dāvināja [NAME], [NAME] un [NAME].
+Mūsu iemīļotās tulpes kļuvušas populāras no divtūkstošā gada.
+
 Pirmdien ir darbs.
 Šī pirmdiena man ir brīvdiena.
 Nevaru sagaidīt brīvdienas!
@@ -198,6 +214,7 @@ Viņa skatījās vakardienas laika prognozi.
 Šodien ir saulains, silts laiks.
 Rītdien ir gaidāms spēcīgs lietus.
 Vakardien bija nedaudz lietus.
+Pēc brīža līs lietus.
 Debesu mākoņi.
 Debesis bija pilnas ar mākoņiem.
 Rītdiena būs mākoņaina.
@@ -265,6 +282,8 @@ Vētraina, skaļa nakts.
 Man ir vēsi, es uzvilkšu mēteli.
 Vēsi rīti.
 
+Rīta ziņas "deviņsimt sekundes".
+Laikraksts "Vakara ziņas".
 Sinoptiķi sola siltu, saulainu laiku.
 Šorīt sinoptiķi solīja spēcīgu vēju.
 Sinoptiķi sola biezu sniegu.

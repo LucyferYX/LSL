@@ -4,10 +4,12 @@
 
 
 
+cilvēki
+
 
 
 vai vajadzēt izsaukt ... tulks cilvēks
-teksta_telefons izmantot nedzirdīgs cilvēks
+teksta_telefons izmantot nedzirdīgs cilvēki
 es izmantot teksta_telefons
 tikai ar teksta_telefons
 
@@ -33,9 +35,9 @@ mans temperatūra_veselība ir [NUM]
 šodien rīts bija 30 7 un 2
 mans ir augsts asinsspiediens
 
-cilvēks bija panika
-kā palīdzēt cilvēks ja viņš ir panika negadījums
-panika negadījums ir akūts izmisis situācija
+cilvēki bija panika
+kā palīdzība cilvēks ja viņš ir panika negadījums
+panika negadījums ir akūts izmisis apstāklis
 panika negadījums laiks asinsspiediens varēt īslaicīgs augsts
 panika negadījums varēt būt 10 līdz 30 minūte ilgs
 cik ilgs ir trauksme
@@ -48,6 +50,8 @@ alerģija reakcija varēt parādīt dažreiz minūte laiks
 vai tu ir kāds alerģija
 mans ir alerģija pret suns
 esmu alerģija pret savs māja dzīvnieks
+
+viņš ir tuvs redzēt
 
 vai tu esmu stāvoklī
 
@@ -68,12 +72,15 @@ tikai nedaudz klepus bet iesnas nav
 tas ir akūts saslimšana
 vai tu kādreiz esmu slims ar sirds vai plaušas slims
 pirms 4 gads mans bija sirds negadījums
-dažreiz cilvēks ir epilepsija
+dažreiz cilvēki ir epilepsija
 ko darīt epilepsija gadījums
 epilepsija negadījums parasts ir īss
+rādīt sasist vieta
+kur vieta sasist
 
 mans ir sauss seja āda
 mans sāpēt galva un kakls
+[NAME] ļoti sāpēt galva
 es nokrist un sasist galva
 es paklupt un sasist galva
 galvassāpes
@@ -83,13 +90,22 @@ esmu sasist celis
 es varbūt esmu lauzt kāja
 novērst trūkums
 
+es paņemt
+es paņemt tas zāles pakete
+kurš zāles pakete mans paņemt
+lūdzu tas medicīna
 es tavs izrakstīt zāles pret saaukstēšanās
+vai mans ir jā lietot tas zāles
+tavs jā lietot [NAME] zāles
 kāds zāles tu lietot
 kā tas zāles lietot
 kā tas jā lietot
 pa [NUM] piliens 3 reize diena pēc ēst
 2 reize diena pēc ēst
+zāles lietot ārpus
 
+medicīna cilvēks jūs gaidīt [NUM] telpa
+kurš ir pēdējais uz tas telpa
 gaidīt telpa
 es vairāk nedēļa ārstēt slimnīca
 
@@ -97,14 +113,18 @@ kur ir ārsts
 kad atnākt galvenais ārsts
 ārsts ārstēt slims cilvēks
 meita vēlēties pieraksts pie ārsts
-vai tu esmu medicīna
-kur dzīvoklis saņemt ķirurgs
-mans ir vajadzēt medicīna palīdzēt
+vai tu esmu medicīna cilvēks
+kur ir medicīna cilvēki
+vai ārsts ir telpa
+kur telpa saņemt ķirurgs
+mans ir vajadzēt medicīna palīdzība
 vai varēt izsaukt ārsts
 izsaukt lūdzu ārsts
 izsaukt lūdzu ātrā_palīdzība
-pirmais palīdzēt
+pirmais palīdzība
 ātrā_palīdzība
 ātrā_palīdzība
 ātrā_palīdzība
 ātrs atbraukt ātrā_palīdzība
+
+vismaz 2 reize nedēļa ir labs vingrot

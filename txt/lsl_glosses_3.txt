@@ -19,6 +19,7 @@ mans brīvs laiks gandrīz nav
 mans patikt zieds
 skaists zieds krāsa
 puķe ir vairāk zieds
+kāds puķe viss labs dāvināt vīrs
 ko mēs pirkt
 es pirkt balts puķe
 es pirkt tas roze mans vīrs
@@ -35,7 +36,7 @@ pasaule ir vairāk_nekā 400 1000 puķe suga
 es nodarboties ar puķe kopt
 puķe kopt veikals
 es esmu dārzs cilvēks
-dārzs cilvēks pirkt sēkla
+dārzs cilvēki pirkt sēkla
 kāds veids sēkla
 mans dārzs ir vairāk_nekā 100 dažāds augs
 vairāk diena es strādāt dārzs
@@ -58,6 +59,7 @@ ne lauzt koks zars
 
 es bieži pirkt apģērbs veikals
 nevarēt izvēlēties ko pirkt
+vai jums ir treniņš tērps vai vingrot tērps
 [NAME] veikals ir vairāk_nekā 100 dažāds lielums krekls
 brūns krekls
 uz krekls ir traips
@@ -128,7 +130,7 @@ cepure šalle zeķe un cimds šūt pakalpojums
 liels glīts glezna
 mans ļoti patikt gleznot
 es esmu gleznot cilvēks
-latvija nav daudz gleznot cilvēks
+latvija nav daudz gleznot cilvēki
 paņemt tas skaists glezna
 gleznot cilvēks gleznot glezna
 viņš parasts gleznot savs darbnīca
@@ -150,5 +152,5 @@ kur ceļot
 mēs ceļot 1 mēnesis
 ģimene sagatavot ceļojums
 sagatavot
-sagatavot savs bērns
+sagatavot savs bērni
 braukt ceļojums uz dažāds latvija pilsēta

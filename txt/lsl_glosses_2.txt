@@ -8,7 +8,7 @@ mans māja ir rīga
 māja ir liels
 māja ir mazs
 māte atrasties māja
-tēvs atrasties dzīvoklis
+tēvs atrasties telpa
 māte saukt [NAME]
 tēvs saukt [NAME]
 sveiks māte
@@ -17,20 +17,26 @@ sveiks māte
 sveiks tēvs
 tas ir mans vīrs [NAME]
 tas ir mans vīrs [NAME]
+vīrs saukt [NAME] bet meita saukt [NAME]
 mans nav vīrs vai vīrs
 es tu mīlēt
 vai tu mīlēt savs radi
+viņš ir mans radi cilvēks
 tas ir mans radi
 tas ir mīlēt
 mīlēt pilns cilvēks
+mans ir tikties
+vīrs svētdiena aicināt uz tikties
 tas ir mans ģimene
 sieviete un vīrietis
 kurš tu patikt viss labs
 viņš ir mīlēt cilvēks
 viņš ir mīlēt
 viņš ģimene ir daudz nauda
-tas ģimene nav daudz bērns
+tas ģimene nav daudz bērni
 tas ir tikai parasts ģimene
+nav pilns ģimene tikai 1 vecs cilvēks
+es vīrs un [NUM] bērni
 ģimene ir liels vai mazs
 ģimene esmu tikai es
 ģimene esmu es māte tēvs māsa un brālis
@@ -47,14 +53,14 @@ māja dzīvot vairāk brālis un māsa
 brālis ir daudz draugs
 māsa nav daudz draugs
 mans brālis [NAME] ir spēcīgs
-mans ir jauns mazdēls
-[NAME] ir jauks mazmeita
-vecs cilvēks vecs radi
+mans ir jauns mazs dēls
+[NAME] ir jauks mazs meita
+vecs cilvēki vecs radi
 es dzīvot kopā ar savs 12 gads vecs brālis
 tas ir viņš bērns
 bērns saukt [NAME]
-vai jums ir bērns
-mans ir 2 bērns dēls un meita
+vai jums ir bērni
+mans ir 2 bērni dēls un meita
 [NAME] atnākt māja
 vai bērns drīz atnākt
 kad mans atnākt
@@ -68,11 +74,14 @@ mēs būt draugs
 kur būt tavs draugs
 mans ģimene būt mazs
 tavs ģimene būt liels
-mans ir vectēvs un vecmāte
-vectēvs ir 4 mazdēls
-vecmāte ir gudrs sieviete
-vecmāte māja
-vectēvs justies vājš
+mans ir vecs tēvs un vecs māte
+vecs tēvs ir 4 mazs dēls
+vecs māte ir gudrs sieviete
+mīļš vecs māte māja
+vecs tēvs justies vājš
+mans ir [NUM] māsīca
+viņi braukt kopā ar māsīca un brālēns
+viņi braukt uz lauki pie vecs tēvs un vecs māte
 labs draugs [NAME]
 viņi ir draugs
 viņi ir draugs
@@ -82,11 +91,27 @@ tas bija vājš
 māsa sveiks
 brālis sveiks
 
+ko darīt tavs vīrs vecs cilvēki
+vīrs tēvs mirt pirms [NUM] gads bet vīrs māte ir pensionārs cilvēks
+viņš ļoti mīlēt savs mazs bērni
+vai tu izšķirties ar vīrs
+es ar vīrs izšķirties
+mēs izšķirties
+dēls drīz būt kāzas
+atcerēties mūsu kāzas
+mans līgavainis [NAME]
+līgavainis bija liels balts kāzas kleita
+laulība līgums viņi slēgt pēc kāzas
+laulība varēt slēgt baznīca
+es atcerēties viņš mazs zēns
+sieviete ar mazs meitene
+dāvināt skaists zieds mūsu tuvs cilvēki
+
 cik tu esmu garš
 cik tu esmu garš
 abi brālis ir 100 70 5 c m garš
 es esmu 100 90 3 c m garš
-mazmeita ir 100 18 c m garš
+mazs meita ir 100 18 c m garš
 [NAME] ir īss bet [NAME] ir garš cilvēks
 
 cik tu svērt
@@ -94,14 +119,15 @@ cik jūs kopā svērt
 es svērt apmēram 80 kilograms
 draugs [NAME] svērt 100 19 kilograms
 
+mans ir [NUM] gadi
 mans māsa ir 10 gads vecs
 mans brālis ir 7 gads vecs
-mazdēls ir 14 gads bet mazmeita ir 17
-vecāki iet pirms 16 minūte
-mans abi vecāki ir 30 6 gads vecs
-vecmāte ir 60 9 gads
-vectēvs ir 70 gads vecs
-vecāki ir daudz gads
+mazs dēls ir 14 gads bet mazs meita ir 17
+vecs cilvēki iet pirms 16 minūte
+mans abi vecs cilvēki ir 30 6 gads vecs
+vecs māte ir 60 9 gads
+vecs tēvs ir 70 gads vecs
+vecs cilvēki ir daudz gads
 
 telefons
 telefons
@@ -120,6 +146,7 @@ kur tu dzīvot
 mēs dzīvot
 es dzīvot
 es dzīvot rīga
+šodien es ar dēls dzīvot kopā
 katrs ir savs dzīvot apstāklis
 vai tu dzīvot tāls no rīga
 vai tas ir tāls no šeit
@@ -128,10 +155,10 @@ es rīt būt rīga
 kurš ir tavs māja numurs
 mans māja numurs ir 20 5
 viņš māja numurs ir [NUM]
-rīga dzīvot [NUM] cilvēks
-viņš dzīvoklis atrasties rīga
-dzīvoklis atrasties vieta
-es dzīvot dzīvoklis
+rīga dzīvot [NUM] cilvēki
+viņš telpa atrasties rīga
+telpa atrasties vieta
+es dzīvot telpa
 latvija ir daudz pilsēta
 rīga ir pilsēta latvija
 viņš dzīvot latvija
@@ -139,19 +166,25 @@ viņš ļoti patikt latvija
 viņš nepatikt tas dzīvot
 es atrasties šeit rīga latvija
 kur tas ir
-vai viņš dzīvoklis ir tuvums
+vai viņš telpa ir tuvums
 viņi zināt kur tas ir
 viņi nezināt kur tas ir
 kur notikt
 kad notikt nodot
 [NAME] nodot atslēga līdz vakars
 es meklēt māja atslēga
-dzīvoklis atslēga
+telpa atslēga
 atslēga ir pie mans
 kad mans atnākt pie jums uz māja
 šodien atnākt [NAME] draugs [NAME]
+pie [NAME] ciemos draugs [NAME]
+pie [NAME] [NAME] ciemos draugs [NAME]
+[NAME] ciemos pie [NAME] [NAME]
+radi cilvēki šodien ciemos
+viņi nav sen tikties
+ilgs gads viņi nav tikties
 
-veikals [NAME]
+veikals [NAME] "
 kur atrasties veikals
 kur ir tuvs veikals
 veikals ir tas
@@ -168,8 +201,8 @@ viņš strādāt kase
 mans ir nedaudz nauda šeit
 dažreiz cents lūdzu
 mans tēvs strādāt banka
-diemžēl viņš tēvs nav daudz nauda
-banka atrasties daudz cilvēks
+žēl viņš tēvs nav daudz nauda
+banka atrasties daudz cilvēki
 latvija banka atrasties rīga
 es šodien braukt uz baznīca
 baznīca ir liels
@@ -185,43 +218,48 @@ pasūtīt vairāk paka
 aizvest paka uz pasts māja
 mēs ar tēvs iet uz pasts
 
-aptieka [NAME]
+aptieka [NAME] "
 kur tuvums ir aptieka
 kur atrasties aptieka
 viņi braukt uz aptieka
-aptieka ir mazs cilvēks
-tas darbs cilvēks strādāt aptieka
-pie aptieka ar mums stāvēt dažreiz cilvēks
+aptieka ir mazs cilvēki
+tas darbs cilvēki strādāt aptieka
+pie aptieka ar mums stāvēt dažreiz cilvēki
 mans māte atrasties poliklīnika
 poliklīnika ir mazs
 tas poliklīnika nav liels
 rīt iet uz poliklīnika
-šodien poliklīnika nav daudz darbs cilvēks
+šodien drīz poliklīnika nav daudz darbs cilvēki
+dēls vairs nē strādāt poliklīnika
 kā mans braukt līdz poliklīnika
 kur poliklīnika mans jā atbraukt
 daugavpils atrasties ļoti liels slimnīca es uz tas iet
 mans māte un tēvs strādāt slimnīca
-slimnīca [NAME]
+slimnīca [NAME] "
 cik latvija ir slimnīca
 es šodien nebraukt uz slimnīca
-slimnīca strādāt 10 darbs cilvēks
+slimnīca strādāt 10 darbs cilvēki
 
-mans draugs šodien iet uz skola
+mans draugs šodien drīz iet uz skola
 tas ir mans skola
 rīga ir vairāk skola
-šodien skola ir ļoti nedaudz skolēns
+šodien skola ir ļoti nedaudz skolēns cilvēki
 mans tas skola ir daudz draugs
 skola ir labs varēt daudz mācīties
 iet kopā uz mans skola
 es vēlēties strādāt skola
 cik skola tu zināt
 es nezināt tas skola
+mans mazs māsa ir skolēns
+skola bija 2000 skolēns cilvēki
 vai šodien iet uz universitāte
 tas atrasties universitāte
+[NAME] universitāte mācīties programma
 es mācīties latvija universitāte
 latvija ir vairāk_nekā 20 universitāte
 latvija universitāte 100 gads jubileja
-universitāte mācīties vairāk_nekā [NUM] students un strādāt [NUM] darbs cilvēks
+dēls [NAME] mācīties universitāte meita [NAME] mācīties skola
+universitāte mācīties vairāk_nekā [NUM] universitāte cilvēki un strādāt [NUM] darbs cilvēki
 
 šeit ir tirgus
 tirgus ir šeit
@@ -248,26 +286,27 @@ tas atrasties zems
 cilvēks ēst ēst 
 [NAME] [NAME] un [NAME] kopā iet uz tirgus
 kur vieta rīga atrasties labs un liels tirgus
-viesnīca ir nedaudz darbs cilvēks un daudz cilvēks
+viesnīca ir nedaudz darbs cilvēki un daudz cilvēki
 [NAME] ir tas viesnīca darbs cilvēks
 rīga atrasties vairāk ēkas piemēram aptieka banka baznīca pasts poliklīnika skola slimnīca tirgus veikals un viesnīca
 ēkas atrasties vieta
 darbnīca atrasties vieta
 
+pasaule ir 8 1000000000 dzīvot cilvēki
 latvija ir mazs valsts
-latvija ir apmēram 2 1000000 iedzīvotājs
+latvija ir apmēram 2 1000000 dzīvot cilvēki
 kas ir latvija galvaspilsēta
 rīga latvija galvaspilsēta dzīvot daudz ģimene
 rīga ir latvija liels pilsēta
-rīga ir apmēram 600 1000 iedzīvotājs
+rīga ir apmēram 600 1000 dzīvot cilvēki
 daugavpils ir otrais liels latvija pilsēta
-daugavpils ir apmēram 70 8 1000 iedzīvotājs
+daugavpils ir apmēram 70 8 1000 dzīvot cilvēki
 liepāja ir latvija trešais liels pilsēta
-liepāja iedzīvotājs ir nedaudz mazāk_nekā daugavpils
+liepāja dzīvot cilvēki ir nedaudz mazāk_nekā daugavpils
 ventspils atrasties latvija kreiss mala
-ventspils iedzīvotājs skaits ir daudz mazāk_nekā liepāja
+ventspils dzīvot cilvēki skaits ir daudz mazāk_nekā liepāja
 rīga liepāja ventspils atrasties jūra krasts
-tas pilsēta dzīvot apmēram 3000 iedzīvotājs
+tas pilsēta dzīvot apmēram 3000 dzīvot cilvēki
 
 vai es tavs banka varēt mainīt eiro pret dolārs
 es vēlēties saņemt nauda
@@ -294,7 +333,6 @@ beigas cena ir 700 60 un 30 5 cents
 sākums cena ir 900 90 9 dolārs
 2000 19 gads pārtraukt ražošana 500 eiro banknote
 banka konts ir 2000 eiro
-skola bija 2000 skolēns
 2000 dolārs uzkrājums
 3000 eiro
 telefons cena vairāk_nekā 3000 dolārs
@@ -303,8 +341,8 @@ gandrīz 4000 eiro
 pēdējais alga bija apmēram 4000
 mans ir apmēram 5000 eiro uzkrājums
 gals izmaksa ir 5000 eiro bez atlaide
-automašīna [NAME] cena vismaz 6000 eiro
-es maksāt 6000 un 700 par dzīvoklis remonts
+automašīna [NAME] " cena vismaz 6000 eiro
+es maksāt 6000 un 700 par telpa remonts
 mans ir jā saņemt vismaz 7000 eiro
 māja remonts cena 7000 500 50 eiro
 ar atlaide cena apmēram 8000
@@ -337,7 +375,7 @@ saņemt tikai maksāt karte
 kur es varēt saņemt darbs alga
 es tu saņemt darbs
 saņemt cilvēks
-darbs cilvēks saņemt alga tas varēt būt liels vidējs vai mazs
+darbs cilvēki saņemt alga tas varēt būt liels vidējs vai mazs
 māte saņemt liels alga
 māte bieži strādāt par mazs alga
 tēvs šodien saņemt nedaudz nauda
@@ -345,6 +383,9 @@ kur saņemt nauda
 darbs ir grūts
 darbs ir ļoti viegls
 tēvs strādāt ir grūts bet māte viegls
+
+nav pilns gads cilvēks
+nav pilns gads cilvēki ieeja aizliegts
 vidējs vecs cilvēks
 māte nav vecs
 vai tu šeit esmu 1
@@ -352,7 +393,7 @@ viņš ir tikai 2
 abi 2
 viņš dzīvot nav grūts bet viņš ir
 iet kopā
-diemžēl es nevarēt
+žēl es nevarēt
 domāt jā
 es bieži domāt
 domāt par māte un tēvs
@@ -382,7 +423,8 @@ domāt nē
 sagatavot braukt
 uz kur braukt
 uz kur braukt
-es šodien braukt ar automašīna
+braukt ārpus latvija
+es šodien drīz braukt ar automašīna
 tēvs rīt braukt ar automašīna uz rīga
 automašīna saņemt rīt
 automašīna ir dažāds
@@ -391,7 +433,7 @@ automašīna maksāt daudz nauda
 skriet līdz automašīna
 mans ir skaists automašīna
 braukt nakts
-nebraukt vēls nakts
+nē braukt vēls nakts
 varbūt skriet varbūt iet bet varbūt braukt
 braukt ar automašīna vai autobuss
 pa ceļš braukt mikro autobuss
@@ -402,10 +444,10 @@ autobuss bija tukšs
 kur ir pieejams taksometrs pakalpojums
 šausmas nekas paņemt taksometrs
 taksometrs parasts ir dzeltens
-vecāki braukt ar skaists automašīna
+vecs cilvēki braukt ar skaists automašīna
 automašīna ir glīts
 viņš justies neglīts
-neglīts cilvēks
+neglīts cilvēki
 lūdzu darīt mans pakalpojums
 nē pats darīt
 ceļš ir garš
@@ -415,6 +457,7 @@ uz ceļš notikt slikts apstāklis
 uz [NAME] ceļš notikt automašīna avārija
 radīt neglīts apstāklis
 radīt avārija
+viņi piedot par negadījums radīt
 mans ceļš bija avārija
 kur varēt salabot automašīna
 lūdzu salabot mans automašīna

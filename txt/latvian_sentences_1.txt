@@ -8,17 +8,22 @@ Labvakar!
 Labvakar, [NAME].
 Labrīt!
 Labrīt, [NAME].
+Labrīt, mani draugi!
 Čau!
 Čau, [NAME]!
 Mans vārds ir [NAME].
+Man ir divi vārdi — [NAME] un [NAME].
 Mans uzvārds ir [NAME].
 Cilvēkiem ir dažādi vārdi un uzvārdi.
 Mani sauc [NAME].
 Mani sauc [NAME] [NAME] [NAME]!
+Pilnais vārds ir [NAME] [NAME] [NAME].
+Kā man tevi saukt?
+Kādā vārdā man tevi saukt?
 Kādā vārdā tevi saukt?
 Vai tevi saukt par [NAME]?
 Kā tevi sauc?
-Kā jūs sauc?
+Kā jūs visus sauc?
 Kāds ir jūsu vārds?
 Viņu sauc [NAME] [NAME].
 Viņa vārds ir [NAME].
@@ -28,9 +33,11 @@ Vai tavs vārds ir [NAME]?
 [NAME] ir šīs personas vārds.
 Personas personvārds.
 Persona [NAME].
-Personu uzvārds.
+Personas uzvārds.
 Kāds ir tavs vārds?
 Kāds ir viņas uzvārds?
+
+Atļaujiet stādīties priekšā.
 Prieks tevi redzēt.
 Priecājos jūs redzēt.
 Priecājos Jūs redzēt.
@@ -39,36 +46,35 @@ Man bija prieks tevi redzēt.
 Ļoti patīkami!
 Man ir patīkami tevi redzēt.
 Man ir ļoti patīkami jūs redzēt.
+Iepazīsimies!
 Prieks iepazīties!
 Priecājos ar Jums iepazīties!
 Man bija prieks ar jums iepazīties.
-Novēlu jums veiksmi.
-Novēlu Jums veiksmi.
-Jums taisnība.
-Nē, tā nav taisnība.
-Jā, tā ir patiesība.
-Visiem Jums ir taisnība.
-Diemžēl jums nav taisnība.
-Man ir prieks.
-Man nav prieks.
-Patiess cilvēks.
+Novēlu jums veiksmi!
+Novēlam Jums veiksmi!
+Novēlē viņam labu veiksmi.
+Atvainojiet, mēs steidzamies.
+Man arī jāiet.
 
 Nāc!
+Tad nāciet!
 Labi, nāc mums līdzi.
-Nāciet!
+Es aicinu jūs līdzi.
 Nāciet līdzi.
 Lūdzu, nāciet līdzi man!
-Sveika, kā tev šodien klājas?
+Sveika, kā šodien klājas?
 Kā tev iet?
 Kā tev klājas?
+Bet kā klājas tev?
 Kā Jums klājas?
 Kā klājas [NAME]?
+Bet kā klājas tavam draugam [NAME]?
 Man iet labi.
 Man ir jāiet uz turieni.
 Tev ir jāiet tur.
 Kur mums ir jāiet?
 Kur mēs ejam?
-Es eju.
+Es jau eju!
 Kā jūties?
 Kā tu jūties?
 Ir labi.
@@ -79,8 +85,13 @@ Es jūtos labi.
 Es jūtos slikti.
 Viss ir ok.
 Tas nekas, ir ok.
-Ok.
+Labs!
 Mums viss ir labi.
+Un Jums?
+Un kā jums?
+Un kā ir tev?
+Paldies, normāli.
+Iet normāli.
 Viss ir kārtībā.
 Viss nav kārtībā.
 Viss būs labi.
@@ -111,38 +122,58 @@ Palīdzi [NAME].
 Vai tu vari palīdzēt?
 Tu nevari palīdzēt?
 Kā es varu palīdzēt?
-Es varu palīdzēt.
+Es palīdzēšu!
 Es nevaru palīdzēt.
 Vai palīdzēt ir labi?
 Vai palīdzēsi?
 Vai tev palīdzēt?
 Man tev bija jāpalīdz.
 Es gribu palīdzēt.
-Es negribu viņam palīdzēt.
+Viņa negrib viņam palīdzēt.
 Es gribu viņai palīdzēt.
 
 Es saprotu.
 Vai tu saproti?
 Es saprotu tevi.
 Es nevaru tevi saprast.
+Man atkārtot?
 Atkārto vēlreiz?
 Ko tu vēlies vēl?
 Protams!
 Jā, protams!
 Protams, ka nē!
+Noteikti tā nav.
 Piekrītu!
 Jā, es piekrītu.
 Labi, viņa piekrīt.
 Nepiekrītu!
 Nē, nepiekrītu!
 Viņi nepiekrita.
-Tas ir pareizi!
+Es domāju, ka tas tā nav.
+Tas ir precīzi pareizi!
 Tas ir nepareizi!
 Pilnīgi pareizi!
+Kāda ir tava atbilde?
 Pilnīgi nepareiza atbilde!
-Atbilde nav pareiza.
-Viņš nebija pareizs.
+Atbildes nav pareizas.
+Viņš nebija pareizs šajā situācijā.
+Šis brīdis ir patiesībai.
+Jums taisnība.
+Nē, tā nav taisnība.
+Jā, tā ir patiesība.
+Visiem jums ir taisnība.
+Diemžēl Jums nav taisnība.
+Patiess cilvēks.
 
+Būsim pieklājīgi!
+Ilgus dzīves gadus!
+Laimi!
+Uz veselību!
+Veselību!
+Novēlu Jums labu veselību!
+Panākumus darbā!
+Man ir prieks.
+Man, diemžēl, nav prieks.
 Vai viņa ir priecīga?
 Vai viņš ir priecīgs?
 Es esmu labs.
@@ -193,6 +224,12 @@ Viņas ir priecīgas un laimīgas.
 Viņi ir laimīgi un priecīgi.
 Viņa nav bēdīga.
 
+Vai jūs esat satraukti?
+Vai Jūs esat satraukts?
+Neuztraucieties!
+Neuztraucies, viss ir labi.
+Galvenais ir nesatraukties.
+Tikai neuztraucaties.
 Uzgaidiet!
 Pagaidiet mani!
 Ko tu dari?
@@ -200,6 +237,7 @@ Ko mēs daram?
 Ko viņš darīs?
 Jā!
 Jā, labi!
+Es pateicos tev!
 Paldies, jā!
 Pateicos, jā!
 Piedod, jā!
@@ -214,7 +252,6 @@ Piedod, nē!
 Pateicos, nē!
 Atvainojiet, piemēram, kā?
 Es atvainojos.
-Viņi atvainojās.
 Nē, es negribu.
 Nē, es nezinu.
 Nē, es nezinu [NAME].
@@ -266,21 +303,32 @@ Diemžēl.
 Man ir jūs žēl.
 Es tevi žēloju.
 Negribu žēlot.
+Es tevi pažēlošu.
+Apžēlo mani!
 Tas nekas!
 Nekas!
+Tad jau nekas.
 Nekas slikts.
-Neko nevar darīt.
+Neko nevar darīt...
 Tu pats.
 Paši cilvēki.
 Visu labu!
 Paldies, visu labu!
-Arlabunakti!
+Dusi saldi, ar labunakti.
+Saldu miegu, arlabunakti!
+Paldies, arlabunakti!
+Ar labunakti!
 Arlabunakti, [NAME]!
 Paldies un uz redzēšanos!
 Uz redzēšanos!
 Uz redzēšanos, [NAME]!
 Laimīgi!
 Laimīgi, [NAME]!
-Atā!
+Prieks tevi satikt.
+Labi, tad satiksimies vēlāk.
+Divu cilvēku satikšanās.
+Uz tikšanos, atā!
+Atā, tiksimies vēlāk.
+Ok, atā!
 Atā, [NAME]!
 Paldies un atā!
