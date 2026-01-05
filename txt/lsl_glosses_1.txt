@@ -13,8 +13,8 @@ sveiks
 sveiks [NAME]
 mans vārds ir [NAME]
 mans ir 2 vārds [NAME] un [NAME]
-mans vārds ir [NAME]
-cilvēki ir dažāds vārds un vārds
+mans uzvārds ir [NAME]
+cilvēki ir dažāds vārds un uzvārds
 mans saukt [NAME]
 mans saukt [NAME] [NAME] [NAME]
 pilns vārds ir [NAME] [NAME] [NAME]
@@ -33,9 +33,9 @@ tas cilvēks vārds ir [NAME]
 [NAME] ir tas cilvēks vārds
 cilvēks vārds
 cilvēks [NAME]
-cilvēks vārds
+cilvēks uzvārds
 kāds ir tavs vārds
-kāds ir viņš vārds
+kāds ir viņš uzvārds
 
 atļauja stāvēt priekša
 prieks tu redzēt
@@ -294,6 +294,7 @@ es teikt
 viņš daudz teikt
 piemēram
 piemēram kā
+uzmanība
 šausmas
 šausmas
 šausmas nekas

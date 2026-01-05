@@ -143,6 +143,11 @@ Vai jums ir saldumi Halovīnam?
 "Saldumus vai izjokosim!"
 Halovīnā dažreiz izjoko cilvēkus.
 
+Jau šo svētdien svinēsim, atzīmēsim Mātes dienu.
+Tu mīļā, mīļā māmiņa, Es mīlu tevi kā nevienu, Tu esi manim dārgāka Par saulīti un baltu dienu.
+Tā latviešu dzejnieks [NAME] raksta par māmiņām.
+Siltā saulīte, zilās debesis un puķes jau sveicina mūs pavasarī!
+Pavasarī mums ir prieks dāvāt ziedus un skaistus vārdus mūsu tuvajiem cilvēkiem.
 Tuvojas diena, kad teiksim pateicības un mīļus vārdus savām mammām.
 Ne tikai mammām, bet arī vecmāmiņām, krustmātēm, vīramātēm, sievasmātēm un tantēm.
 Šogad Mātes dienu svin [NUM]. datumā.
@@ -157,6 +162,12 @@ Gadu gaitā populārākie dāvinātie ziedi mainās.
 Piemēram, no [NUM]. līdz [NUM]. gadam ļoti populāras dāvināt bija [NAME], bet no [NUM]. līdz [NUM]. gadam — [NAME], bet no [NUM]. līdz [NUM]. gadam — [NAME].
 Vēlāk dāvināja [NAME], [NAME] un [NAME].
 Mūsu iemīļotās tulpes kļuvušas populāras no divtūkstošā gada.
+Vēl viena skaista mātes dienas tradīcija ir tētim kopā ar bērniem pagatavot skaistu apsveikuma kartiņu un izcept kūku vai pagatavot brokastis mammai.
+Mātes dienā var doties kopīgā ģimenes pastaigā vai atpūtā.
+Piecpadsmitajā maijā atzīmējama Starptautiskā ģimenes diena.
+Rīgā un citviet Latvijā notiks Mātes dienai un Starptautiskajai ģimenes dienai veltīti koncerti un svētku pasākumi.
+Informāciju par pasākumiem meklējiet pašvaldību tīmekļvietnēs.
+Galvenais — atceries apsveikt savas māmiņas!
 
 Pirmdien ir darbs.
 Šī pirmdiena man ir brīvdiena.
@@ -378,6 +389,7 @@ Labāk tiekamies desmitos!
 Nē, labāk vienpadsmitos!
 Divpadsmitos.
 
+Vai Jūs varat pateikt man cik pulkstens?
 Pulkstenis ir pieci.
 Pulksten sešos.
 Pulksten septiņos vai astoņos.

@@ -115,6 +115,7 @@ Kad atnāks galvenais ārsts.
 Meita vēlas pierakstīties pie ārsta.
 Vai tu esi medmāsa?
 Kur ir medmāsas?
+Šodien sāku strādāt par medmāsu.
 Vai ārsts ir kabinetā?
 Kurā kabinetā pieņem ķirurgs?
 Man ir nepieciešama medicīniskā palīdzība.

@@ -99,16 +99,49 @@ Es ar vīru izšķīros.
 Mēs izšķīrāmies.
 Dēlam drīz būs kāzas.
 Atceries mūsu kāzas?
+Es vēlos viņu precēt.
 Mans līgavainis [NAME].
 Līgavai bija liela balta kāzu kleita.
+Laulības līgums jāparaksta abiem laulātajiem.
 Laulības līgumu viņi noslēdza pēc kāzām.
+Nodod laulības līgumu.
 Laulību var slēgt baznīcā.
 Es atceros viņu kā mazu puisīti.
 Sieviete ar mazu meiteni.
-Dāvināt skaistus ziedus mūsu tuvajiem cilvēkiem.
+Uzdāvini skaistas tulpes savām tuvajām draudzenēm.
+
+Reizēm gadās, ka cilvēki apprecoties grib palikt katrs savā uzvārdā, piemēram, [NAME] [NAME] un [NAME] [NAME].
+Tas ir iespējams.
+Bet ir arī gadījumi, kad piedzimst bērns un vecāki bērnam grib dot abus uzvārdus — dubultuzvārdu, piemēram, [NAME]-[NAME].
+Vai tas ir iespējams?
+Nē, tas nav iespējams, likums to aizliedz.
+Ja vecākiem ir dažādi uzvārdi, bērnam dod tēva vai mātes uzvārdu.
+Vecākiem jāvienojas, kuru uzvārdu bērnam dot.
+Uzmanību, gadījumā, ja vecāki savā starpā nevar vienoties par bērna uzvārdu, tad jāiet uz bāriņtiesu.
+Bāriņtiesa izlems, kura vecāka uzvārds būs bērnam.
+Cits gadījums.
+Vienam no vecākiem ir dubultuzvārds, piemēram, [NAME]-[NAME].
+Tad arī bērnam var dot šo dubultuzvārdu, ja otrs vecāks piekrīt.
+Starp uzvārdiem jāliek svītriņa.
+Abi vecāki precoties var pieņemt otra uzvārdu — izveidot dubultuzvārdu, piemēram, [NAME]-[NAME].
+Tad arī bērna uzvārds būs tāds pats.
+Bet, piemēram, ja tētim ir dubultuzvārds, tad apprecoties vīram un sievai nav iespējams izveidot dubultuzvārdu no abu uzvārdiem.
+Tas ir neiespējami!
+Uzvārdā nedrīkst būt trīs vai vairāk vārdi.
+Var dot bērnam vārdu, kādu vecāki vēlas.
+Vecāki var paši izdomāt vārdu bērnam.
+Vārda došanā likums paredz tikai divus ierobežojumus.
+Bērnam var būt tikai divi vārdi bez svītriņas, piemēram, [NAME] [NAME].
+Nedrīkst būt trīs vai vairāk vārdu.
+Bērna vārdam jāatbilst Latviešu valodas likumiem.
+Vārdā drīkst būt tikai latviešu burti.
+Nevar dot, piemēram, vārdu [NAME], tas jāpārveido latviski.
+Arī nelieto citu valodu aizgūtās skaņas, piemēram, [NAME], [NAME], [NAME], [NAME], [NAME], [NAME].
+Dosim bērniem latviešu vārdus.
 
 Cik tu esi garš?
 Cik tu esi gara?
+Esmu gandrīz divsimt centimetrus gara.
 Abi brāļi ir simt septiņdesmit piecu centimetru gari.
 Es esmu simt deviņdesmit trīs centimetru garš.
 Mazmeita ir simt astoņpadsmit centimetru gara.
@@ -310,7 +343,7 @@ Rīga, Liepāja, Ventspils atrodas jūras krastā.
 
 Vai es jūsu bankā varu samainīt eiro pret dolāriem?
 Es vēlos saņemt naudu.
-[NAME] izbeidza sarunu par algām.
+[NAME] izbeidza runāšanu par algām.
 Viņa atrodas šeit, lai paņemtu viņas naudu.
 Kāda ir darba alga?
 [NAME] alga ir [NUM] eiro mēnesī.
@@ -371,7 +404,7 @@ Jūsu ID.
 ID karte.
 Kur ir tavs ID?
 Maksājumu karte.
-Pieņemam tikai maksājumu karti.
+Diemžēl, šeit pieņemam tikai maksājumu karti.
 Kur es varu saņemt darba algu?
 Es tevi pieņemu darbā.
 Pieņemt cilvēku.
@@ -471,6 +504,7 @@ Pilsētas autobusam ir nepieciešams remonts.
 Lūdzu, aizvediet mani uz Rīgu!
 Lūdzu, atvediet mani no Rīgas!
 Vai arī tevi nepieciešams atvest?
+Viņi tika nogādāti Liepājā.
 Automašīnas atvešana.
 Veikals atveda pārtikas produktus.
 Bezgalīgs.

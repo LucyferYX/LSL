@@ -115,6 +115,7 @@ kad atnākt galvenais ārsts
 meita vēlēties pieraksts pie ārsts
 vai tu esmu medicīna cilvēks
 kur ir medicīna cilvēki
+šodien sākt strādāt par medicīna cilvēks
 vai ārsts ir telpa
 kur telpa saņemt ķirurgs
 mans ir vajadzēt medicīna palīdzība

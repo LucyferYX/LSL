@@ -143,6 +143,11 @@ vai jums ir konfekte halovīns
 konfekte vai izjokot "
 halovīns dažreiz izjokot cilvēki
 
+jau šodien svētdiena svinēt atzīmēt māte diena_kalendārs
+tu mīļš mīļš māte es mīlēt tu kā neviens tu esmu mans dārgs par saule un balts diena
+tas latvija dzeja cilvēks [NAME] rakstīt par māte
+silts saule zils debesis un puķe jau sveiks mēs pavasaris
+pavasaris mēs ir prieks dāvināt zieds un skaists vārds mūsu tuvs cilvēki
 tuvs diena kad teikt paldies un mīļš vārds savs māte
 nav tikai māte bet arī vecs māte kristības māte vīrs māte vīrs māte un tante
 šodien gads māte diena_kalendārs svinēt [NUM] datums
@@ -157,6 +162,12 @@ gads samainīt populārs dāvināt zieds mainīt
 piemēram no [NUM] līdz [NUM] gads ļoti populārs dāvināt bija [NAME] bet no [NUM] līdz [NUM] gads [NAME] bet no [NUM] līdz [NUM] gads [NAME]
 vēlāk dāvināt [NAME] [NAME] un [NAME]
 mūsu mīļš tulpe kļūt populārs no 2000 gads
+vēl 1 skaists māte diena_kalendārs tradīcija ir tēvs kopā ar bērni izgatavot skaists kartīte un cept kūka vai izgatavot rīts ēst pasniegt māte
+māte diena_kalendārs varēt braukt kopējs ģimene pastaiga vai atpūta
+15 maijs atzīmēt starp pasaule ģimene diena_kalendārs
+rīga un cits vieta latvija notikt māte diena_kalendārs un starp pasaule ģimene diena_kalendārs dāvināt koncerts un svētki pasākums
+informācija par pasākums meklēt valdība un tīmekļa_vietne
+galvenais atcerēties sveiks savs māte
 
 pirmdiena ir darbs
 tas pirmdiena mans ir brīvs diena_kalendārs
@@ -228,7 +239,7 @@ pelēks mākonis varbūt būt lietus
 mainīgs mākonis daudzums
 liels daudzums
 lietus jā lietot lietussargs un lietus mētelis
-sagatavot mēs viss lietus mētelis
+gatavoties mēs viss lietus mētelis
 viss ģimene lietus lietot lietussargs
 kur ir [NAME] lietussargs
 tu esmu bez lietussargs
@@ -378,6 +389,7 @@ labāk tikties desmitos
 nē labāk vienpadsmitos
 divpadsmitos
 
+vai tu varēt teikt mans cik pulkstenis
 pulkstenis ir 5
 pulkstenis sešos
 pulkstenis septiņos vai astoņos

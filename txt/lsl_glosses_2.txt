@@ -97,18 +97,51 @@ viņš ļoti mīlēt savs mazs bērni
 vai tu izšķirties ar vīrs
 es ar vīrs izšķirties
 mēs izšķirties
-dēls drīz būt kāzas
-atcerēties mūsu kāzas
+dēls drīz būt precības
+atcerēties mūsu precības
+es vēlēties viņš precības
 mans līgavainis [NAME]
-līgavainis bija liels balts kāzas kleita
-laulība līgums viņi slēgt pēc kāzas
+līgavainis bija liels balts precības kleita
+laulība līgums jā paraksts abi laulība cilvēki
+laulība līgums viņi slēgt pēc precības
+dot laulība līgums
 laulība varēt slēgt baznīca
 es atcerēties viņš mazs zēns
 sieviete ar mazs meitene
-dāvināt skaists zieds mūsu tuvs cilvēki
+dāvināt skaists tulpe savs tuvs draugs
+
+dažreiz gadījums ka cilvēki precības gribēt palikt katrs savs uzvārds piemēram [NAME] [NAME] un [NAME] [NAME]
+tas ir iespējams
+bet ir arī gadījums kad dzimt bērns un vecs cilvēki gribēt bērns dot abi uzvārds dubults uzvārds piemēram [NAME] - [NAME]
+vai tas ir iespējams
+nē tas neiespējams likums tas aizliegts
+ja vecs cilvēki ir dažāds uzvārds bērns dot tēvs vai māte uzvārds
+vecs cilvēki jā sarunāt kurš uzvārds bērns dot
+uzmanība gadījums ja vecs cilvēki savs starp nevarēt sarunāt par bērns uzvārds tad jā iet uz bērns tiesa
+bērns tiesa lemt kur vecs cilvēks uzvārds būt bērns
+cits gadījums
+1 no vecs cilvēks ir dubults uzvārds piemēram [NAME] - [NAME]
+tad arī bērns varēt dot tas dubults uzvārds ja otrais vecs cilvēks piekrist
+starp uzvārds jā likt -
+abi vecs cilvēki precības varēt saņemt otrais uzvārds radīt dubults uzvārds piemēram [NAME] - [NAME]
+tad arī bērns uzvārds būt tāds pats
+bet ja tēvs ir dubults uzvārds tad precības vīrs un vīrs neiespējams radīt dubults uzvārds no abi uzvārds
+tas ir neiespējams
+uzvārds nedrīkst būt 3 vai vairāk vārds
+varēt dot bērns vārds kāds vecs cilvēki vēlēties
+vecs cilvēki varēt pats izdomāt vārds bērns
+vārds dot likums paredzēt tikai 2 ierobežojums
+bērns varēt būt tikai 2 vārds bez - piemēram [NAME] [NAME]
+nedrīkst būt 3 vai vairāk vārds
+bērns vārds jā atbilst latvija valoda likums
+vārds drīkst būt tikai latvija burti
+nevarēt dot piemēram vārds [NAME] tas apmainīt latvija
+arī nē lietot cits valoda paņemt skaņa piemēram [NAME] [NAME] [NAME] [NAME] [NAME] [NAME]
+dot bērni latvija vārds
 
 cik tu esmu garš
 cik tu esmu garš
+esmu gandrīz 200 c m garš
 abi brālis ir 100 70 5 c m garš
 es esmu 100 90 3 c m garš
 mazs meita ir 100 18 c m garš
@@ -310,7 +343,7 @@ tas pilsēta dzīvot apmēram 3000 dzīvot cilvēki
 
 vai es tavs banka varēt mainīt eiro pret dolārs
 es vēlēties saņemt nauda
-[NAME] pārtraukt saruna par alga
+[NAME] pārtraukt runāt par alga
 viņš atrasties šeit paņemt viņš nauda
 kāds ir darbs alga
 [NAME] alga ir [NUM] eiro mēnesis
@@ -368,10 +401,10 @@ kredīts nav vajadzēt
 maksāt kredīts
 cik tas cena
 tavs i d
-i d karte
+i d kartīte
 kur ir tavs i d
-maksāt karte
-saņemt tikai maksāt karte
+maksāt kartīte
+žēl šeit saņemt tikai maksāt kartīti
 kur es varēt saņemt darbs alga
 es tu saņemt darbs
 saņemt cilvēks
@@ -420,7 +453,7 @@ domāt viss kārtība
 domāt jā
 domāt nē
 
-sagatavot braukt
+gatavoties braukt
 uz kur braukt
 uz kur braukt
 braukt ārpus latvija
@@ -471,6 +504,7 @@ pilsēta autobuss ir vajadzēt serviss
 lūdzu aizvest es uz rīga
 lūdzu atvest es no rīga
 vai arī tu vajadzēt atvest
+viņi bija aizvest liepāja
 automašīna atvest
 veikals atvest ēst produkts
 bez gals
