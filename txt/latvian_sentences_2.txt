@@ -45,6 +45,7 @@ Mamma un tētis ir kopā.
 Tētim ir daudz naudas.
 Mammai ir viens dēls un četras meitas.
 Viņi ir tuvi.
+Vai jums ir brāļi vai māsas?
 Man ir brālis.
 Man nav māsa.
 Viņai ir trīs brāļi.
@@ -72,8 +73,11 @@ Dēliem un meitām.
 Meitu un dēlu draugi ir jauki.
 Mēs esam draugi.
 Kur ir tavi draugi?
+Vai Jums ir ģimene?
+Kāds ir tavs ģimenes stāvoklis?
 Mana ģimene ir maza.
 Tava ģimene ir liela.
+Manā ģimenē ir mana mamma, tētis, tante un vectēvs.
 Man ir vectētiņš un vecmāmiņa.
 Vectēvam ir četri mazdēli.
 Vecmāte ir gudra sieviete.
@@ -82,6 +86,8 @@ Vectēvs jūtas vājš.
 Man ir [NUM] māsīcas.
 Viņas aizbrauca kopā ar māsīcu un brālēnu.
 Viņi aizbrauca uz laukiem pie vectēva un vecmammas.
+Liepājā dzīvo sievasmāte un sievastēvs, bet Ventspilī — mani radi.
+Vīramāte un vīratēvs brauc ciemos.
 Labs draugs [NAME].
 Viņi ir draugi.
 Viņas ir draudzenes.
@@ -96,10 +102,15 @@ Vīratēvs nomira pirms [NUM] gadiem, bet vīramāte ir pensionāre.
 Viņa ļoti mīl savus mazbērnus.
 Vai tu izšķīries ar sievu?
 Es ar vīru izšķīros.
+Vai vēlaties šķirt laulību?
 Mēs izšķīrāmies.
+Mēs vairs neesam precējušies, esam šķirti.
 Dēlam drīz būs kāzas.
 Atceries mūsu kāzas?
+Esmu atraitne.
+Pēc sievas nāves es kļuvu par atraitni.
 Es vēlos viņu precēt.
+Es esmu precējusies ar vīru [NAME].
 Mans līgavainis [NAME].
 Līgavai bija liela balta kāzu kleita.
 Laulības līgums jāparaksta abiem laulātajiem.
@@ -161,6 +172,25 @@ Mani abi vecāki ir trīsdesmit sešu gadu veci.
 Vecmāmiņai ir sešdesmit deviņi gadi.
 Vectētiņš ir septiņdesmit gadus vecs.
 Vecākiem ir daudz gadu.
+Atvainojiet, ka es uzdodu Jums personiskas dabas jautājumu.
+Cik gadu ir jūsu meitai?
+Viņai ir vienpadsmit gadu.
+Viņš ir gandrīz trīspadsmit gadus vecs.
+Cik Jums gadu?
+Kad jūs esiet dzimuši?
+Es esmu dzimusi [NUM]. gadā.
+Kur tu esi dzimis?
+Kāds ir tavs vecums?
+[NUM]
+[NUM]. gads.
+[NUM]. gadā.
+Tagad ir [NUM]. gads.
+Kad tu esi dzimis?
+Es esmu dzimusi [NUM]. gadā.
+Viņš piedzima [NUM]. gadā.
+Piedzimis [NUM]. gadā.
+Dzimusi [NUM]. gada [NUM]. janvārī.
+Es piedzimu [NUM]. gada [NUM]. aprīlī.
 
 Telefons.
 Mobilais telefons.

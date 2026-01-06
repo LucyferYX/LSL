@@ -1,14 +1,3 @@
-[NUM]
-[NUM]. gads.
-[NUM]. gadā.
-Tagad ir [NUM]. gads.
-Kad tu esi dzimis?
-Es esmu dzimusi [NUM]. gadā.
-Viņš piedzima [NUM]. gadā.
-Piedzimis [NUM]. gadā.
-Dzimusi [NUM]. gada [NUM]. janvārī.
-Es piedzimu [NUM]. gada [NUM]. aprīlī.
-
 Kad?
 Drīz!
 Tūlīt!

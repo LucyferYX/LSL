@@ -1,5 +1,7 @@
 sveiks
 sveiks
+sveiks
+sveiks
 sveiks [NAME]
 sveiks [NAME]
 labs diena
@@ -65,6 +67,7 @@ lūdzu nāc līdzi mans
 sveiks kā šodien iet
 kā tu iet
 kā tu iet
+labs rīts kā iet tu
 bet kā iet tu
 kā tu iet
 kā iet [NAME]
@@ -87,7 +90,7 @@ viss ir labs
 tas nekas ir labs
 labs
 mums viss ir labs
-un tu
+un tavs
 un kā jums
 un kā ir tu
 paldies normāls
@@ -137,7 +140,8 @@ vai tu saprast
 es saprast tu
 es nevarēt tu saprast
 mans atkārtot
-atkārtot vēl
+atkārtot vēl [NUM] reize
+lūdzu atkārtot vēl 1 reize
 ko tu vēlēties vēl
 protams
 jā protams
@@ -158,7 +162,7 @@ pilns nepareizs atbilde
 atbilde nav pareizs
 viņš nav pareizs tas apstāklis
 šodien drīz ir taisnība
-jums taisnība
+tavs taisnība
 nē tas nav taisnība
 jā tas ir taisnība
 viss jums ir taisnība

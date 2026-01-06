@@ -26,7 +26,7 @@ vai tavs ir vēl kāds sūdzība
 
 vai temperatūra_veselība ir
 zems temperatūra_veselība
-tu ir augsts temperatūra_veselība
+tavs ir augsts temperatūra_veselība
 mans ir auksts
 mans ir karsts
 mans ir nedaudz temperatūra_veselība

@@ -45,6 +45,7 @@ māte un tēvs ir kopā
 tēvs ir daudz nauda
 māte ir 1 dēls un 4 meita
 viņi ir tuvs
+vai jums ir brālis vai māsa
 mans ir brālis
 mans nav māsa
 viņš ir 3 brālis
@@ -72,8 +73,11 @@ dēls un meita
 dēls un meita draugs ir jauks
 mēs būt draugs
 kur būt tavs draugs
+vai tavs ir ģimene
+kāds ir tavs ģimene apstāklis
 mans ģimene būt mazs
 tavs ģimene būt liels
+mans ģimene ir mans māte tēvs tante un vecs tēvs
 mans ir vecs tēvs un vecs māte
 vecs tēvs ir 4 mazs dēls
 vecs māte ir gudrs sieviete
@@ -82,6 +86,8 @@ vecs tēvs justies vājš
 mans ir [NUM] māsīca
 viņi braukt kopā ar māsīca un brālēns
 viņi braukt uz lauki pie vecs tēvs un vecs māte
+liepāja dzīvot vīrs māte un vīrs tēvs bet ventspils mans radi
+vīrs māte un vīrs tēvs ciemos
 labs draugs [NAME]
 viņi ir draugs
 viņi ir draugs
@@ -94,12 +100,17 @@ brālis sveiks
 ko darīt tavs vīrs vecs cilvēki
 vīrs tēvs mirt pirms [NUM] gads bet vīrs māte ir pensionārs cilvēks
 viņš ļoti mīlēt savs mazs bērni
-vai tu izšķirties ar vīrs
-es ar vīrs izšķirties
-mēs izšķirties
+vai tu šķirties ar vīrs
+es ar vīrs šķirties
+vai vēlēties šķirties laulība
+mēs šķirties
+mēs vairs nē esmu precības esmu šķirties
 dēls drīz būt precības
 atcerēties mūsu precības
+esmu atraitnis
+pēc vīrs mirt es kļuva par atraitnis
 es vēlēties viņš precības
+es esmu precības ar vīrs [NAME]
 mans līgavainis [NAME]
 līgavainis bija liels balts precības kleita
 laulība līgums jā paraksts abi laulība cilvēki
@@ -152,7 +163,7 @@ cik jūs kopā svērt
 es svērt apmēram 80 kilograms
 draugs [NAME] svērt 100 19 kilograms
 
-mans ir [NUM] gadi
+mans ir [NUM] gads
 mans māsa ir 10 gads vecs
 mans brālis ir 7 gads vecs
 mazs dēls ir 14 gads bet mazs meita ir 17
@@ -161,6 +172,25 @@ mans abi vecs cilvēki ir 30 6 gads vecs
 vecs māte ir 60 9 gads
 vecs tēvs ir 70 gads vecs
 vecs cilvēki ir daudz gads
+piedot es uzdot tavs personisks daba jautājums
+cik gads ir tavs meita
+viņš ir 11 gads
+viņš ir gandrīz 13 gads vecs
+cik tavs gads
+kad jūs esmu dzimt
+es esmu dzimt [NUM] gads
+kur tu esmu dzimt
+kāds ir tavs vecs
+[NUM]
+[NUM] gads
+[NUM] gads
+šodien ir [NUM] gads
+kad tu esmu dzimt
+es esmu dzimt [NUM] gads
+viņš dzimt [NUM] gads
+dzimt [NUM] gads
+dzimt [NUM] gads [NUM] janvāris
+es dzimt [NUM] gads [NUM] aprīlis
 
 telefons
 telefons
@@ -359,7 +389,7 @@ par strādāt darbs es nopelnīt 50 eiro
 mazs cents monēta
 cena [NUM] eiro un [NUM] cents
 produkts cena ir [NUM] cents
-tev ir jā maksāt 400 60 eiro un 90 9 cents
+tavs ir jā maksāt 400 60 eiro un 90 9 cents
 rīt tu varēt saņemt 300 dolārs
 mans ir 6 200 eiro banknote
 beigas cena ir 700 60 un 30 5 cents

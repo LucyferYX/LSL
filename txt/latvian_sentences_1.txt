@@ -1,3 +1,5 @@
+Sveicināti!
+Sveiciens!
 Sveiks!
 Sveika!
 Sveiks, [NAME].
@@ -65,6 +67,7 @@ Lūdzu, nāciet līdzi man!
 Sveika, kā šodien klājas?
 Kā tev iet?
 Kā tev klājas?
+Labrīt, kā iet tev?
 Bet kā klājas tev?
 Kā Jums klājas?
 Kā klājas [NAME]?
@@ -137,7 +140,8 @@ Vai tu saproti?
 Es saprotu tevi.
 Es nevaru tevi saprast.
 Man atkārtot?
-Atkārto vēlreiz?
+Atkārto vēl [NUM] reizi...
+Lūdzu, atkārto vēl vienu reizi.
 Ko tu vēlies vēl?
 Protams!
 Jā, protams!
