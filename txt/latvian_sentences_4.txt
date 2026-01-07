@@ -372,11 +372,13 @@ Pusvienpadsmit.
 Pulksteņa laiks ir pusdivpadsmit.
 Nav pusvienpadsmitos, bet ir pusdivpadsmitos!
 
+Cikos?
+Bet cikos tas sāksies?
 Tas notiek četros dienā?
 Tiekamies sešos vai septiņos?
-Labāk tiekamies desmitos!
+Labāk tiekamies desmitos vakarā!
 Nē, labāk vienpadsmitos!
-Divpadsmitos.
+Tiekamies rītdien divpadsmitos.
 
 Vai Jūs varat pateikt man cik pulkstens?
 Pulkstenis ir pieci.

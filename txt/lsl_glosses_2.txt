@@ -146,7 +146,7 @@ bērns varēt būt tikai 2 vārds bez - piemēram [NAME] [NAME]
 nedrīkst būt 3 vai vairāk vārds
 bērns vārds jā atbilst latvija valoda likums
 vārds drīkst būt tikai latvija burti
-nevarēt dot piemēram vārds [NAME] tas apmainīt latvija
+nevarēt dot piemēram vārds [NAME] tas mainīt latvija
 arī nē lietot cits valoda paņemt skaņa piemēram [NAME] [NAME] [NAME] [NAME] [NAME] [NAME]
 dot bērni latvija vārds
 
@@ -191,6 +191,20 @@ viņš dzimt [NUM] gads
 dzimt [NUM] gads
 dzimt [NUM] gads [NUM] janvāris
 es dzimt [NUM] gads [NUM] aprīlis
+nav pilns gads cilvēks
+nav pilns gads cilvēki ieeja aizliegts
+vidējs vecs cilvēks
+māte nav vecs
+vai tu šeit esmu 1
+viņš ir tikai 2
+abi 2
+viņš dzīvot nav grūts bet viņš ir
+iet kopā
+žēl es nevarēt
+domāt jā
+es bieži domāt
+domāt par māte un tēvs
+viņš ir nedaudz atpalikt
 
 telefons
 telefons
@@ -261,10 +275,6 @@ es braukt uz ēst veikals kase
 viņš atrasties pie kase
 viņš strādāt kase
 
-mans ir nedaudz nauda šeit
-dažreiz cents lūdzu
-mans tēvs strādāt banka
-žēl viņš tēvs nav daudz nauda
 banka atrasties daudz cilvēki
 latvija banka atrasties rīga
 es šodien braukt uz baznīca
@@ -302,27 +312,6 @@ slimnīca [NAME] "
 cik latvija ir slimnīca
 es šodien nebraukt uz slimnīca
 slimnīca strādāt 10 darbs cilvēki
-
-mans draugs šodien drīz iet uz skola
-tas ir mans skola
-rīga ir vairāk skola
-šodien skola ir ļoti nedaudz skolēns cilvēki
-mans tas skola ir daudz draugs
-skola ir labs varēt daudz mācīties
-iet kopā uz mans skola
-es vēlēties strādāt skola
-cik skola tu zināt
-es nezināt tas skola
-mans mazs māsa ir skolēns
-skola bija 2000 skolēns cilvēki
-vai šodien iet uz universitāte
-tas atrasties universitāte
-[NAME] universitāte mācīties programma
-es mācīties latvija universitāte
-latvija ir vairāk_nekā 20 universitāte
-latvija universitāte 100 gads jubileja
-dēls [NAME] mācīties universitāte meita [NAME] mācīties skola
-universitāte mācīties vairāk_nekā [NUM] universitāte cilvēki un strādāt [NUM] darbs cilvēki
 
 šeit ir tirgus
 tirgus ir šeit
@@ -370,97 +359,6 @@ ventspils atrasties latvija kreiss mala
 ventspils dzīvot cilvēki skaits ir daudz mazāk_nekā liepāja
 rīga liepāja ventspils atrasties jūra krasts
 tas pilsēta dzīvot apmēram 3000 dzīvot cilvēki
-
-vai es tavs banka varēt mainīt eiro pret dolārs
-es vēlēties saņemt nauda
-[NAME] pārtraukt runāt par alga
-viņš atrasties šeit paņemt viņš nauda
-kāds ir darbs alga
-[NAME] alga ir [NUM] eiro mēnesis
-[NUM] eiro
-1 dolārs
-tikai 1 cents
-1000000 eiro
-vairāk 1000000 eiro
-1000000 dolārs vērts māja
-par strādāt darbs es nopelnīt 50 eiro
-[NUM] dolārs
-10 cents monēta
-mazs cents monēta
-cena [NUM] eiro un [NUM] cents
-produkts cena ir [NUM] cents
-tavs ir jā maksāt 400 60 eiro un 90 9 cents
-rīt tu varēt saņemt 300 dolārs
-mans ir 6 200 eiro banknote
-beigas cena ir 700 60 un 30 5 cents
-sākums cena ir 900 90 9 dolārs
-2000 19 gads pārtraukt ražošana 500 eiro banknote
-banka konts ir 2000 eiro
-2000 dolārs uzkrājums
-3000 eiro
-telefons cena vairāk_nekā 3000 dolārs
-pirms darbs es pelnīt 4000 eiro gads
-gandrīz 4000 eiro
-pēdējais alga bija apmēram 4000
-mans ir apmēram 5000 eiro uzkrājums
-gals izmaksa ir 5000 eiro bez atlaide
-automašīna [NAME] " cena vismaz 6000 eiro
-es maksāt 6000 un 700 par telpa remonts
-mans ir jā saņemt vismaz 7000 eiro
-māja remonts cena 7000 500 50 eiro
-ar atlaide cena apmēram 8000
-tavs uzkrājums apmēram 8000 dolārs
-gads varēt nopelnīt 8000 - 9000 dolārs
-ar automašīna braukt 9000 400 kilometrs
-
-nauda pelnīt
-es gribēt pelnīt liels alga par [NUM] eiro mēnesis
-viņš vēlēties pelnīt vairāk
-[NUM] eiro gads
-[NUM] gads nopelnīt [NUM] eiro
-vidējs alga valsts
-ārsts vidējs mēnesis alga latvija ir 1000 līdz 3000 eiro
-es negribēt saņemt vidējs alga
-vai tu saņemt liels alga
-vai jūs esmu prieks par saņemt alga
-vai mans paņemt kredīts
-mans ir mazs alga varbūt mans vajadzēt kredīts no banka
-cik liels būt kredīts
-kredīts ir dažāds
-kredīts nav vajadzēt
-maksāt kredīts
-cik tas cena
-tavs i d
-i d kartīte
-kur ir tavs i d
-maksāt kartīte
-žēl šeit saņemt tikai maksāt kartīti
-kur es varēt saņemt darbs alga
-es tu saņemt darbs
-saņemt cilvēks
-darbs cilvēki saņemt alga tas varēt būt liels vidējs vai mazs
-māte saņemt liels alga
-māte bieži strādāt par mazs alga
-tēvs šodien saņemt nedaudz nauda
-kur saņemt nauda
-darbs ir grūts
-darbs ir ļoti viegls
-tēvs strādāt ir grūts bet māte viegls
-
-nav pilns gads cilvēks
-nav pilns gads cilvēki ieeja aizliegts
-vidējs vecs cilvēks
-māte nav vecs
-vai tu šeit esmu 1
-viņš ir tikai 2
-abi 2
-viņš dzīvot nav grūts bet viņš ir
-iet kopā
-žēl es nevarēt
-domāt jā
-es bieži domāt
-domāt par māte un tēvs
-viņš ir nedaudz atpalikt
 
 es vakar iet uz kafejnīca
 kafejnīca atrasties tas

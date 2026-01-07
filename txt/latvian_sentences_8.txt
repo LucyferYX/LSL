@@ -1,0 +1,9 @@
+Cik tev ir mājdzīvnieku?
+
+Man mājās ir [NUM] kaķu.
+Viņam ir [NUM] suņu un [NUM] kaķu.
+Labs suns!
+Simtu viens suns.
+Viss labi, mans suņuks ir draudzīgs.
+Kāda ir tava suņa šķirne?
+Pasaulē ir vairāk nekā seši simti dažādu suņu šķirņu.

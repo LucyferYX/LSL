@@ -139,6 +139,8 @@ es saprast
 vai tu saprast
 es saprast tu
 es nevarēt tu saprast
+piedot nesaprast
+viņš neko nesaprast
 mans atkārtot
 atkārtot vēl [NUM] reize
 lūdzu atkārtot vēl 1 reize
@@ -175,7 +177,7 @@ laimīgs
 uz veselība
 veselība
 novēlēt tavs labs veselība
-sasniegums darbs
+sasniegt darbs
 mans ir prieks
 mans žēl nav prieks
 vai viņš ir prieks

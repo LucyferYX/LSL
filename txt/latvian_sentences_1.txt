@@ -139,6 +139,8 @@ Es saprotu.
 Vai tu saproti?
 Es saprotu tevi.
 Es nevaru tevi saprast.
+Atvainojos, nesaprotu.
+Viņš neko nesaprot.
 Man atkārtot?
 Atkārto vēl [NUM] reizi...
 Lūdzu, atkārto vēl vienu reizi.

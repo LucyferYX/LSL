@@ -1,9 +1,149 @@
-Cik tev ir mājdzīvnieku?
+[NUM] EUR.
+Viens dolārs.
+Tikai viens cents.
+Miljons eiro.
+Vairāki miljoni eiro.
+Miljoniem dolāru vērtas mājas.
+Par pastrādāto darbu es nopelnīju piecdesmit eiro.
+[NUM] dolāru.
+Desmit centu monēta.
+Maza eirocentu monēta.
+Vai es jūsu bankā varu samainīt eiro pret dolāriem?
+Es vēlos saņemt naudu.
+[NAME] izbeidza runāšanu par algām.
+Viņa atrodas šeit, lai paņemtu viņas naudu.
+Kāda ir darba alga?
+[NAME] alga ir [NUM] eiro mēnesī.
+Cena: [NUM] eiro un [NUM] centi.
+Produkta cena ir [NUM] eirocenti.
+Jums ir jāmaksā četrsimt sešdesmit eiro un deviņdesmit deviņi eirocenti.
+Rītdien Jūs varēsiet saņemt trīssimt dolāru.
+Man ir sešas divsimt eiro banknotes.
+Beigu cena ir septiņsimt sešdesmit Eiro un trīsdesmit pieci eirocenti.
+Sākuma cena ir deviņsimt deviņdesmit deviņi dolāri.
+Divi tūkstoši deviņpadsmitajā gadā pārtrauca ražot piecsimt eiro banknoti.
+Bankas kontā ir divi tūkstoši EUR.
+Divu tūkstošu dolāru uzkrājums.
+Trīs tūkstoši eiro.
+Telefons maksāja vairāk nekā trīstūkstoš dolāru.
+Iepriekšējā darbā es pelnīju četrtūkstoš eiro gadā.
+Gandrīz četri tūkstoši eiro.
+Pēdējā alga bija ap četriem tūkstošiem.
+Man ir ap pieciem tūkstošiem eiro uzkrājumos.
+Gala izmaksas ir piectūkstoš EUR bez atlaides.
+Automašīna "[NAME]" maksā vismaz seštūkstoš EUR.
+Es samaksāju sešus tūkstošus un septiņus simtus par dzīvokļa remontu.
+Man ir jāsaņem vismaz septiņi tūkstoši eiro.
+Mājas remonts maksā septiņtūkstoš piecsimt piecdesmit eiro.
+Ar atlaidi maksā ap astoņiem tūkstošiem.
+Tavs uzkrājums... apmēram astoņi tūkstoši dolāru. 
+Gadā var nopelnīt ap astoņtūkstoš - deviņtūkstoš dolāru.
+Ar mašīnu tika nobraukti deviņi tūkstoši četrsimt kilometru.
 
-Man mājās ir [NUM] kaķu.
-Viņam ir [NUM] suņu un [NUM] kaķu.
-Labs suns!
-Simtu viens suns.
-Viss labi, mans suņuks ir draudzīgs.
-Kāda ir tava suņa šķirne?
-Pasaulē ir vairāk nekā seši simti dažādu suņu šķirņu.
+Naudas pelnīšana.
+Es gribētu pelnīt lielāku algu par [NUM] eiro mēnesī.
+Viņa vēlētos pelnīt vairāk.
+[NUM] eiro gadā.
+[NUM] gadā nopelnīju [NUM] EUR.
+Vidējā alga valstī.
+Ārstu vidējā mēneša alga Latvijā ir tūkstoš līdz trīstūkstoš eiro.
+Es negribu saņemt vidējo algu.
+Vai tu saņem lielu algu?
+Vai jūs esat priecīgi par saņemto algu?
+Vai man paņemt kredītu?
+Man ir neliela alga, varbūt man vajag kredītu no bankas?
+Cik liels būs kredīts?
+Kredīti ir dažādi.
+Kredīts nav nepieciešams.
+Samaksā kredītu.
+Jūsu ID.
+ID karte.
+Kur ir tavs ID?
+Maksājumu karte.
+Diemžēl, šeit pieņemam tikai maksājumu karti.
+Kur es varu saņemt darba algu?
+Darbinieki saņem algu, tā var būt liela, vidēja vai maza.
+Māte saņēma lielu algu.
+Māmiņa bieži strādā par mazu algu.
+Tētuks šodien saņēma nedaudz naudas.
+Kur saņemt naudu?
+Darbs ir grūts.
+Darbs ir ļoti viegls.
+Tētim strādāt ir grūti, bet mammai viegli.
+Cik lielas naudas prēmijas?
+Man ir mazliet naudas tepat.
+Dažus centus, lūdzu!
+Mans tētis strādā bankā.
+Diemžēl viņa tēvam nav daudz naudas.
+
+Atbrīvot no darba.
+Darba devējs mani atbrīvoja no darba [NUM]. gada novembrī.
+Bez darba nav maizes.
+Ierasties darbā.
+Vai esi jau ieradies darbā?
+Darbā jāierodas astoņos no rīta.
+Kavēt darbu.
+Tikai atkal nenokavē darbu!
+Tu jau ceturto reizi kavē darbu!
+Mainīsim darbu.
+Kā gudri nomainīt darbu?
+Ir pienācis laiks mainīt darbu.
+Meklēt darbu.
+Vai tu esi darba meklējumos?
+Piedāvāt darbu.
+Darba piedāvājumu saraksts.
+Mēs Jūs pieņemam darbā.
+Es tevi pieņemu darbā.
+Pieņem šo cilvēku.
+Pieteikties darbā.
+Piesakies darbā vairākas reizes.
+
+Profesijas un personas.
+Viņš ir īsts profesionālis.
+
+Labdien, es meklēju darbu.
+Kāda ir Jūsu profesija?
+Es esmu pavāre.
+Žēl, bet pavāre mums nav vajadzīga.
+Varu strādāt arī par grāmatvedi.
+Kāda ir Jūsu izglītība?
+Vidējā speciālā, esmu beigusi arī grāmatvežu kursus, es protu strādāt ar datoru.
+Iepazīstieties ar grāmatveža amata aprakstu.
+Izlasīju, šos darba pienākumus es varēšu veikt.
+Kāds ir darbalaiks?
+Darbalaiks ir piecas dienas nedēļā no pulksten astoņiem līdz septiņpadsmitiem.
+Kāda ir alga?
+Deviņsimt četrdesmit eiro mēnesī, ir arī prēmijas.
+Labi, piekrītu!
+Tad rakstiet iesniegumu par pieņemšanu darbā!
+Kādi dokumenti vēl ir nepieciešami?
+Pase, dokuments par izglītību un nodokļu grāmatiņa.
+
+Mans draugs šobrīd dodas uz skolu.
+Tā ir mana skola.
+Rīgā ir vairākas skolas.
+Šodien skolā ir ļoti maz skolēnu.
+Man šajā skolā ir daudz draugu.
+Skola ir laba, var daudz iemācīties.
+Iesim kopā uz manu skolu?
+Es vēlos strādāt skolā.
+Cik skolas tu zini?
+Es nezinu to skolu.
+Mana mazā māsa ir skolniece.
+Skolā bija divtūkstoš skolēnu.
+Vai tagad ej uz universitāti?
+Te atrodas universitāte.
+[NAME] Universitātes mācību programma.
+Es studēju Latvijas Universitātē.
+Latvijā ir vairāk nekā divdesmit universitāšu.
+Latvijas Universitātei – simts gadu jubileja.
+Dēls [NAME] studē universitātē, meita [NAME] mācās skolā.
+Universitātē studē vairāk nekā [NUM] studentu un strādā [NUM] darbinieku.
+
+Arodizglītība.
+Augstākā izglītība.
+Tava izglītība ir augstākā vai aroda?
+Manai jaunākajai māsai ir pamatizglītība.
+Vecākais brālis [NAME] drīz iegūs vidējo izglītību.
+Viņa izvēlējās vidējo speciālo izglītību ekonomiķa amatam.
+Pēc devītās klases es izvēlējos vidējo speciālo izglītību.

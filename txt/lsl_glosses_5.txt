@@ -1,9 +1,149 @@
-cik tu ir māja dzīvnieks
+[NUM] eiro
+1 dolārs
+tikai 1 cents
+1000000 eiro
+vairāk 1000000 eiro
+1000000 dolārs vērts māja
+par strādāt darbs es nopelnīt 50 eiro
+[NUM] dolārs
+10 cents monēta
+mazs cents monēta
+vai es tavs banka varēt samainīt eiro pret dolārs
+es vēlēties saņemt nauda
+[NAME] pārtraukt runāt par alga
+viņš atrasties šeit lai paņemt viņš nauda
+kāds ir darbs alga
+[NAME] alga ir [NUM] eiro mēnesis
+cena [NUM] eiro un [NUM] cents
+produkts cena ir [NUM] cents
+tavs ir jā maksāt 400 60 eiro un 90 9 cents
+rīt tu varēt saņemt 300 dolārs
+mans ir 6 200 eiro banknote
+beigas cena ir 700 60 un 30 5 cents
+sākums cena ir 900 90 9 dolārs
+2000 19 gads pārtraukt ražošana 500 eiro banknote
+banka konts ir 2000 eiro
+2000 dolārs uzkrājums
+3000 eiro
+telefons cena vairāk_nekā 3000 dolārs
+pirms darbs es pelnīt 4000 eiro gads
+gandrīz 4000 eiro
+pēdējais alga bija apmēram 4000
+mans ir apmēram 5000 eiro uzkrājums
+gals izmaksa ir 5000 eiro bez atlaide
+automašīna [NAME] " cena vismaz 6000 eiro
+es maksāt 6000 un 700 par telpa remonts
+mans ir jā saņemt vismaz 7000 eiro
+māja remonts cena 7000 500 50 eiro
+ar atlaide cena apmēram 8000
+tavs uzkrājums apmēram 8000 dolārs
+gads varēt nopelnīt 8000 - 9000 dolārs
+ar automašīna braukt 9000 400 kilometrs
 
-mans māja ir [NUM] kaķis
-viņš ir [NUM] suns un [NUM] kaķis
-labs suns
-100 1 suns
-viss labs mans suns ir draugs
-kāds ir tavs suns suga
-pasaule ir vairāk_nekā 600 dažāds suns suga
+nauda pelnīt
+es gribēt pelnīt liels alga par [NUM] eiro mēnesis
+viņš vēlēties pelnīt vairāk
+[NUM] eiro gads
+[NUM] gads nopelnīt [NUM] eiro
+vidējs alga valsts
+ārsts vidējs mēnesis alga latvija ir 1000 līdz 3000 eiro
+es negribēt saņemt vidējs alga
+vai tu saņemt liels alga
+vai jūs esmu prieks par saņemt alga
+vai mans paņemt kredīts
+mans ir mazs alga varbūt mans vajadzēt kredīts no banka
+cik liels būt kredīts
+kredīts ir dažāds
+kredīts nav vajadzēt
+maksāt kredīts
+tavs i d
+i d kartīte
+kur ir tavs i d
+maksāt kartīte
+žēl šeit saņemt tikai maksāt kartīti
+kur es varēt saņemt darbs alga
+darbs cilvēki saņemt alga tas varēt būt liels vidējs vai mazs
+māte saņemt liels alga
+māte bieži strādāt par mazs alga
+tēvs šodien saņemt nedaudz nauda
+kur saņemt nauda
+darbs ir grūts
+darbs ir ļoti viegls
+tēvs strādāt ir grūts bet māte viegls
+cik liels nauda prēmija
+mans ir nedaudz nauda šeit
+dažreiz cents lūdzu
+mans tēvs strādāt banka
+žēl viņš tēvs nav daudz nauda
+
+atbrīvot no darbs
+darbs dot cilvēks mans atbrīvot no darbs [NUM] gads novembris
+bez darbs nav maize
+atbraukt darbs
+vai esmu jau atbraukt darbs
+darbs jā atbraukt astoņos rīts
+kavēt darbs
+tikai atkal nē kavēt darbs
+tu jau ceturtais reize kavēt darbs
+mainīt darbs
+kā gudrs mainīt darbs
+ir pienākt laiks mainīt darbs
+meklēt darbs
+vai tu esmu darbs meklēt
+piedāvāt darbs
+darbs piedāvāt programma
+mēs tavs saņemt darbs
+es tu saņemt darbs
+saņemt tas cilvēks
+pieteikties darbs
+pieteikties darbs vairāk reize
+
+profesija un cilvēki
+viņš ir taisnība profesija
+
+labs diena es meklēt darbs
+kāds ir tavs profesija
+es esmu virtuve cilvēks
+žēl bet virtuve cilvēks mums nav vajadzēt
+varēt strādāt arī par grāmatvedība cilvēks
+kāds ir tavs gudrs
+vidējs speciāls esmu beigas arī grāmatvedība mācīties es protams strādāt ar dators
+iepazīties ar grāmatvedība cilvēks profesija apraksts
+lasīt tas darbs pienākums es varēt veikt
+kāds ir darbs laiks pulkstenis
+darbs laiks pulkstenis ir 5 diena nedēļa no pulkstenis astoņos līdz 17
+kāds ir alga
+900 40 eiro mēnesis ir arī prēmija
+labs piekrist
+tad rakstīt iesniegt par saņemt darbs
+kāds dokuments vēl ir vajadzēt
+pase dokuments par gudrs un nodoklis grāmata
+
+mans draugs šodien drīz iet uz skola
+tas ir mans skola
+rīga ir vairāk skola
+šodien skola ir ļoti nedaudz skolēns cilvēki
+mans tas skola ir daudz draugs
+skola ir labs varēt daudz mācīties
+iet kopā uz mans skola
+es vēlēties strādāt skola
+cik skola tu zināt
+es nezināt tas skola
+mans mazs māsa ir skolēns
+skola bija 2000 skolēns cilvēki
+vai šodien iet uz universitāte
+tas atrasties universitāte
+[NAME] universitāte mācīties programma
+es mācīties latvija universitāte
+latvija ir vairāk_nekā 20 universitāte
+latvija universitāte 100 gads jubileja
+dēls [NAME] mācīties universitāte meita [NAME] mācīties skola
+universitāte mācīties vairāk_nekā [NUM] universitāte cilvēki un strādāt [NUM] darbs cilvēki
+
+profesija gudrs
+augsts gudrs
+tavs gudrs ir augsts vai profesija
+mans jauns māsa ir pamats gudrs
+vecs brālis [NAME] drīz sasniegt vidējs gudrs
+viņš izvēle vidējs speciāls gudrs ekonomika cilvēks profesija
+pēc devītais klase es izvēle vidējs speciāls gudrs
