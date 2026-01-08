@@ -8,14 +8,13 @@ par strādāt darbs es nopelnīt 50 eiro
 [NUM] dolārs
 10 cents monēta
 mazs cents monēta
-vai es tavs banka varēt samainīt eiro pret dolārs
 es vēlēties saņemt nauda
 [NAME] pārtraukt runāt par alga
 viņš atrasties šeit lai paņemt viņš nauda
 kāds ir darbs alga
 [NAME] alga ir [NUM] eiro mēnesis
 cena [NUM] eiro un [NUM] cents
-produkts cena ir [NUM] cents
+priekšmets cena ir [NUM] cents
 tavs ir jā maksāt 400 60 eiro un 90 9 cents
 rīt tu varēt saņemt 300 dolārs
 mans ir 6 200 eiro banknote
@@ -50,17 +49,22 @@ vidējs alga valsts
 es negribēt saņemt vidējs alga
 vai tu saņemt liels alga
 vai jūs esmu prieks par saņemt alga
+
+kas ir nauda aizņemties
+vai es varēt aizņemties nauda
+kredīts ir 1 no populārs nauda aizņemties veids
 vai mans paņemt kredīts
 mans ir mazs alga varbūt mans vajadzēt kredīts no banka
 cik liels būt kredīts
 kredīts ir dažāds
 kredīts nav vajadzēt
 maksāt kredīts
+
 tavs i d
-i d kartīte
+i d karte
 kur ir tavs i d
-maksāt kartīte
-žēl šeit saņemt tikai maksāt kartīti
+maksāt karte
+žēl šeit saņemt tikai maksāt karte
 kur es varēt saņemt darbs alga
 darbs cilvēki saņemt alga tas varēt būt liels vidējs vai mazs
 māte saņemt liels alga
@@ -76,6 +80,27 @@ dažreiz cents lūdzu
 mans tēvs strādāt banka
 žēl viņš tēvs nav daudz nauda
 
+internets banka
+[NAME] ir liels banka latvija
+informācija ir banka māja lapa_papīrs
+kāds ir banka darbs laiks pulkstenis
+ieskaitījums konts
+vai mans konts ir ieskaitījums nauda
+vai varēt atvērt banka konts
+vai varēt atvērt banka rēķināt lapa
+
+es gribēt uzdot dažreiz jautājums par maksāt karte
+mans ir maksāt karte
+kur es varēt saņemt savs darbs alga
+nauda jūs varēt aizņemties no konts jebkur mūsu banka nodaļa vai aizņemties bankomāts
+vai tas karte varēt lietot maksāt pirkt priekšmets veikals
+jā tas jūs varēt maksāt par priekšmets un pakalpojums daudz vieta
+vai es tavs banka varēt samainīt eiro pret dolārs
+jā protams mūsu banka veikt valūta samainīt operācija
+kāds vēl pakalpojums banka mans varēt piedāvāt
+jūs varēt noguldīt nauda depozīts saņemt kredīts vai ar banka palīdzēt pirkt priekšmets kredīts
+paldies par informācija
+
 atbrīvot no darbs
 darbs dot cilvēks mans atbrīvot no darbs [NUM] gads novembris
 bez darbs nav maize
@@ -90,7 +115,7 @@ kā gudrs mainīt darbs
 ir pienākt laiks mainīt darbs
 meklēt darbs
 vai tu esmu darbs meklēt
-piedāvāt darbs
+piedāvāt viņš darbs
 darbs piedāvāt programma
 mēs tavs saņemt darbs
 es tu saņemt darbs

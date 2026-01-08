@@ -1,19 +1,20 @@
+[NAME] zīmju_valoda
+latvija zīmju_valoda
+es mācīties zīmju_valoda
+es nedaudz zināt zīmju_valoda
+vai tu lietot zīmju_valoda
+komunikācija latvija zīmju_valoda
+latvija nedzirdīgs savienība
+nedzirdīgs un vājdzirdīgs cilvēki
+latvija ir 2000 nedzirdīgs un vairāk_nekā 30 1000 vājdzirdīgs
 
-
-
-
-
-
-cilvēki
-
-
-
-vai vajadzēt izsaukt ... tulks cilvēks
+zīmju_valoda tulks
+vai vajadzēt izsaukt zīmju_valoda tulks cilvēks
 teksta_telefons izmantot nedzirdīgs cilvēki
 es izmantot teksta_telefons
 tikai ar teksta_telefons
 
-vai jums ir medicīna produkts
+vai jums ir medicīna priekšmets
 
 vesels
 es justies vesels

@@ -8,7 +8,6 @@ Par pastrādāto darbu es nopelnīju piecdesmit eiro.
 [NUM] dolāru.
 Desmit centu monēta.
 Maza eirocentu monēta.
-Vai es jūsu bankā varu samainīt eiro pret dolāriem?
 Es vēlos saņemt naudu.
 [NAME] izbeidza runāšanu par algām.
 Viņa atrodas šeit, lai paņemtu viņas naudu.
@@ -50,12 +49,17 @@ Vidējā alga valstī.
 Es negribu saņemt vidējo algu.
 Vai tu saņem lielu algu?
 Vai jūs esat priecīgi par saņemto algu?
+
+Kas ir aizņēmums?
+Vai es varu aizņemties naudu?
+Kredīts ir viens no populārākajiem aizņēmuma veidiem.
 Vai man paņemt kredītu?
 Man ir neliela alga, varbūt man vajag kredītu no bankas?
 Cik liels būs kredīts?
 Kredīti ir dažādi.
 Kredīts nav nepieciešams.
 Samaksā kredītu.
+
 Jūsu ID.
 ID karte.
 Kur ir tavs ID?
@@ -76,6 +80,27 @@ Dažus centus, lūdzu!
 Mans tētis strādā bankā.
 Diemžēl viņa tēvam nav daudz naudas.
 
+Internetbanka.
+[NAME] ir lielākā banka Latvijā.
+Informācija ir bankas mājaslapā.
+Kāds ir bankas darba laiks?
+Ieskaitījums kontā.
+Vai manā kontā ir ieskaitīta nauda?
+Vai varu atvērt bankā kontu?
+Vai varu atvērt bankā rēķinu?
+
+Es gribētu uzdot dažus jautājumus par maksājumu karti.
+Man ir maksājumu karte?
+Kur es varu saņemt savu darba algu?
+Naudu jūs varat noņemt no konta jebkurā mūsu bankas nodaļā vai izņemt bankomātos.
+Vai šo karti var lietot, apmaksājot pirkumus veikalos?
+Jā, ar to jūs varat maksāt par precēm un pakalpojumiem daudzās vietās.
+Vai es jūsu bankā varu samainīt eiro pret dolāriem?
+Jā, protams, mūsu banka veic valūtas maiņas operācijas.
+Kādus vēl pakalpojumus banka man var piedāvāt?
+Jūs varat noguldīt naudu depozītā, saņemt kredītu vai ar bankas starpniecību iegādāties preces līzingā.
+Paldies par informāciju!
+
 Atbrīvot no darba.
 Darba devējs mani atbrīvoja no darba [NUM]. gada novembrī.
 Bez darba nav maizes.
@@ -90,7 +115,7 @@ Kā gudri nomainīt darbu?
 Ir pienācis laiks mainīt darbu.
 Meklēt darbu.
 Vai tu esi darba meklējumos?
-Piedāvāt darbu.
+Piedāvā viņam darbu.
 Darba piedāvājumu saraksts.
 Mēs Jūs pieņemam darbā.
 Es tevi pieņemu darbā.

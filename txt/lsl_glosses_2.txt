@@ -325,13 +325,13 @@ gads tirgus notikt vēlāk
 [NAME] vakar bija gads tirgus
 ēst no tirgus vai no veikals
 veikals ir vairāk kase
-pirkums iegādāties veikals
+pirkt priekšmets iegādāties veikals
 es vēlēties iegādāties ēst tas veikals
 ēst veikals
 [NAME] iet uz ēst veikals
-kopā iet uz kase maksāt par pirkums
-pirkums ir vajadzēt
-labs pirkums
+kopā iet uz kase maksāt par pirkt priekšmets
+pirkt priekšmets ir vajadzēt
+labs pirkt priekšmets
 ēst ir augsts cena
 veikals [NAME] nav zems cena
 tas atrasties zems
@@ -434,9 +434,9 @@ lūdzu atvest es no rīga
 vai arī tu vajadzēt atvest
 viņi bija aizvest liepāja
 automašīna atvest
-veikals atvest ēst produkts
+veikals atvest ēst priekšmets
 bez gals
-gals produkts
-produkts lielums
+gals pirkt priekšmets
+priekšmets lielums
 gaidīt pie luksofors gaisma
 laimīgs ceļš

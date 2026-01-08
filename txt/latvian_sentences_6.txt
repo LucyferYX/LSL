@@ -1,11 +1,12 @@
-Zīmju valoda.
+[NAME] zīmju valoda.
 Latviešu zīmju valoda.
 Es mācos zīmju valodu.
 Es mazliet zinu zīmju valodu.
+Vai tu lieto zīmju valodu?
 Komunikācija latviešu zīmju valodā.
 Latvijas Nedzirdīgo Savienība.
 Nedzirdīgie un vājdzirdīgie cilvēki.
-Latvijā ir divi tūkstoši nedzirdīgo un vairāk nekā ... vājdzirdīgo.
+Latvijā ir divi tūkstoši nedzirdīgo un vairāk nekā trīsdesmit tūkstoši vājdzirdīgo.
 
 Zīmju valodas tulki.
 Vai nepieciešams izsaukt zīmju valodas tulku?
