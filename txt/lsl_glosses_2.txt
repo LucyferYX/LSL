@@ -119,6 +119,7 @@ dot laulība līgums
 laulība varēt slēgt baznīca
 es atcerēties viņš mazs zēns
 sieviete ar mazs meitene
+meitene pastaiga kopā ar zēns
 dāvināt skaists tulpe savs tuvs draugs
 
 dažreiz gadījums ka cilvēki precības gribēt palikt katrs savs uzvārds piemēram [NAME] [NAME] un [NAME] [NAME]
@@ -158,10 +159,10 @@ es esmu 100 90 3 c m garš
 mazs meita ir 100 18 c m garš
 [NAME] ir īss bet [NAME] ir garš cilvēks
 
-cik tu svērt
-cik jūs kopā svērt
-es svērt apmēram 80 kilograms
-draugs [NAME] svērt 100 19 kilograms
+cik tu svars
+cik jūs kopā svars
+es svars apmēram 80 kilograms
+draugs [NAME] svars 100 19 kilograms
 
 mans ir [NUM] gads
 mans māsa ir 10 gads vecs

@@ -178,6 +178,10 @@ uz veselība
 veselība
 novēlēt tavs labs veselība
 sasniegt darbs
+novēlēt sasniegt dzīve
+es tas ļoti vērts
+vērts tas
+
 mans ir prieks
 mans žēl nav prieks
 vai viņš ir prieks
@@ -288,10 +292,10 @@ viņš ļoti ātrs runāt
 viņš nedaudz runāt
 viņš daudz runāt
 viņš nedaudz runāt
-viņš sacīt
-ko tu sacīt
-ko [NAME] sacīt
-sacīt lūdzu
+viņš teikt
+ko tu teikt
+ko [NAME] teikt
+teikt lūdzu
 ko viņš teikt
 ko mans teikt
 ko mēs teikt

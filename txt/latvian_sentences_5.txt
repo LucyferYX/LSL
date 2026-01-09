@@ -169,6 +169,7 @@ Arodizglītība.
 Augstākā izglītība.
 Tava izglītība ir augstākā vai aroda?
 Manai jaunākajai māsai ir pamatizglītība.
+Pamatizglītību sāk iegūt, kad bērns ir septiņu gadu vecumā.
 Vecākais brālis [NAME] drīz iegūs vidējo izglītību.
 Viņa izvēlējās vidējo speciālo izglītību ekonomiķa amatam.
 Pēc devītās klases es izvēlējos vidējo speciālo izglītību.

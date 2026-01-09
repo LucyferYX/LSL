@@ -87,7 +87,7 @@ kāds ir banka darbs laiks pulkstenis
 ieskaitījums konts
 vai mans konts ir ieskaitījums nauda
 vai varēt atvērt banka konts
-vai varēt atvērt banka rēķināt lapa
+vai varēt atvērt banka rēķināt lapa_papīrs
 
 es gribēt uzdot dažreiz jautājums par maksāt karte
 mans ir maksāt karte
@@ -169,6 +169,7 @@ profesija gudrs
 augsts gudrs
 tavs gudrs ir augsts vai profesija
 mans jauns māsa ir pamats gudrs
+pamats gudrs sākt sasniegt kad bērns ir 7 gads vecs
 vecs brālis [NAME] drīz sasniegt vidējs gudrs
 viņš izvēle vidējs speciāls gudrs ekonomika cilvēks profesija
 pēc devītais klase es izvēle vidējs speciāls gudrs

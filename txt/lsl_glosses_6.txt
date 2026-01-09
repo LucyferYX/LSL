@@ -14,8 +14,6 @@ teksta_telefons izmantot nedzirdīgs cilvēki
 es izmantot teksta_telefons
 tikai ar teksta_telefons
 
-vai jums ir medicīna priekšmets
-
 vesels
 es justies vesels
 pirms 2 nedēļa bija vesels
@@ -45,7 +43,7 @@ cik ilgs ir trauksme
 panika simptoms
 kas radīt trauksme
 reakcija uz stress
-emocionāls reakcija ir reti
+emocionāls reakcija ir dažreiz
 ātrs reakcija varēt glābt dzīvot
 alerģija reakcija varēt parādīt dažreiz minūte laiks
 vai tu ir kāds alerģija
@@ -71,26 +69,40 @@ jā mans ir klepus
 nē mans nav iesnas
 tikai nedaudz klepus bet iesnas nav
 tas ir akūts saslimšana
-vai tu kādreiz esmu slims ar sirds vai plaušas slims
+vai tu sen reize esmu slims ar sirds vai plaušas slims
 pirms 4 gads mans bija sirds negadījums
 dažreiz cilvēki ir epilepsija
 ko darīt epilepsija gadījums
 epilepsija negadījums parasts ir īss
-rādīt sasist vieta
-kur vieta sasist
 
 mans ir sauss seja āda
 mans sāpēt galva un kakls
 [NAME] ļoti sāpēt galva
 es nokrist un sasist galva
 es paklupt un sasist galva
+rādīt sasist vieta
+kur vieta sasist
 galvassāpes
 galvassāpes veids un tas novērst
 dažreiz justies sāpēt krūtis
 esmu sasist celis
+viņš sasist celis
 es varbūt esmu lauzt kāja
 novērst trūkums
+lūdzu mainīt mans pārsējs
+vai ir vajadzēt jauns pārsējs
+lūdzu skatīties tas iekaisums
 
+daudz cilvēki nezināt ļoti svarīgs informācija
+cilvēki no 40 līdz 60 5 gads vecs varēt pārbaude sirds veselība bezmaksas
+vajadzēt tikai atnākt ģimene ārsts
+pārbaude varēt konstatēt sirds un asinsvads risks
+pārbaude veikt no [NUM] gads vecs 1 reize 5 gads piemēram [NUM] [NUM] [NUM] [NUM] [NUM] un [NUM] vecs
+atnākt ģimene ārsts apvienot informācija par slims cilvēks slims paradums piemēram smēķēšana pārbaude asinsspiediens rēķināt ķermenis svars numurs teikt holesterīns pamats uzklausīt sirds vērts elektrība kardioloģija 
+pēc sirds veselība vērts ģimene ārsts piedāvāt atnākt vēl cits papildus pārbaude piemēram sirds veselība pārbaude uz speciāls velosipēds saukt [NAME]
+
+
+vai jums ir medicīna priekšmets
 es paņemt
 es paņemt tas zāles pakete
 kurš zāles pakete mans paņemt
@@ -105,6 +117,7 @@ pa [NUM] piliens 3 reize diena pēc ēst
 2 reize diena pēc ēst
 zāles lietot ārpus
 
+kad mans pie jums atnākt
 medicīna cilvēks jūs gaidīt [NUM] telpa
 kurš ir pēdējais uz tas telpa
 gaidīt telpa
@@ -119,6 +132,9 @@ kur ir medicīna cilvēki
 šodien sākt strādāt par medicīna cilvēks
 vai ārsts ir telpa
 kur telpa saņemt ķirurgs
+kardioloģija cilvēks ir ārsts kas ārstēt sirds slims
+kardioloģija pārbaude sirds arī asinsvads slims un ārstēt
+medicīna palīdzība
 mans ir vajadzēt medicīna palīdzība
 vai varēt izsaukt ārsts
 izsaukt lūdzu ārsts
@@ -128,5 +144,7 @@ pirmais palīdzība
 ātrā_palīdzība
 ātrā_palīdzība
 ātrs atbraukt ātrā_palīdzība
+
+ārsts cilvēki teikt viss bieži nelaime notikt parasts apstāklis
 
 vismaz 2 reize nedēļa ir labs vingrot

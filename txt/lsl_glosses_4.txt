@@ -355,7 +355,7 @@ līdz rīga vēl braukt apmēram 13 kilometrs
 1 minūte
 cik minūtes
 cik ir pulkstenis
-sacīt lūdzu cik ir pareizs pulkstenis
+teikt lūdzu cik ir pareizs pulkstenis
 pus 1
 pus 2
 apmēram pus 3
