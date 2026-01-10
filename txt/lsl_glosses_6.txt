@@ -14,12 +14,12 @@ teksta_telefons izmantot nedzirdīgs cilvēki
 es izmantot teksta_telefons
 tikai ar teksta_telefons
 
-vesels
-es justies vesels
-pirms 2 nedēļa bija vesels
-ģimene viss ir vesels
-[NAME] nav vesels
-dzīvot cilvēks
+veselība
+es justies veselība
+pirms 2 nedēļa bija veselība
+ģimene viss ir veselība
+[NAME] nav veselība
+dzīve cilvēks
 mans nav sūdzība es justies labs
 vai tavs ir vēl kāds sūdzība
 
@@ -44,15 +44,24 @@ panika simptoms
 kas radīt trauksme
 reakcija uz stress
 emocionāls reakcija ir dažreiz
-ātrs reakcija varēt glābt dzīvot
+ātrs reakcija varēt glābt dzīve
 alerģija reakcija varēt parādīt dažreiz minūte laiks
 vai tu ir kāds alerģija
 mans ir alerģija pret suns
 esmu alerģija pret savs māja dzīvnieks
 
+redzēt pasliktināties
 viņš ir tuvs redzēt
+tāls redzēt cilvēki skaidrs redzēt tāls
 
-vai tu esmu stāvoklī
+vai tu esmu grūtniecība
+kā varēt zināt vai sieviete ir grūtniecība
+vai tavs esmu grūtniecība cilvēks
+plānot grūtniecība
+vingrošana grūtniecība cilvēki
+kā grūtniecība cilvēks teikt vajadzēt
+rīga dzimt māja šodien nedēļa 2 ģimene gaidīt dvīnis
+piedāvāt pirms dzimt atvaļinājums arī pēc dzimt atvaļinājums
 
 es esmu slims
 es esmu slims cilvēks
@@ -63,17 +72,20 @@ mans dēls ir saaukstēšanās
 vai [NAME] ir nopietns saslimšana
 vai tas ir nopietns saslimšana
 kāds ir saslimšana simptoms
-es nē justies vesels
+es nē justies veselība
 vai tavs ir klepus un iesnas
 jā mans ir klepus
 nē mans nav iesnas
 tikai nedaudz klepus bet iesnas nav
+ilgs klepus jau ilgs 5 nedēļa
 tas ir akūts saslimšana
 vai tu sen reize esmu slims ar sirds vai plaušas slims
 pirms 4 gads mans bija sirds negadījums
 dažreiz cilvēki ir epilepsija
 ko darīt epilepsija gadījums
 epilepsija negadījums parasts ir īss
+grūts redzēt nākotne negadījums
+vai esmu apjukums
 
 mans ir sauss seja āda
 mans sāpēt galva un kakls
@@ -91,22 +103,82 @@ es varbūt esmu lauzt kāja
 novērst trūkums
 lūdzu mainīt mans pārsējs
 vai ir vajadzēt jauns pārsējs
-lūdzu skatīties tas iekaisums
+lūdzu skatīties tas augonis
+
+asinis grupa
+kopumā ir 4 asins grupa
+tavs asinis grupa ir a b a b vai 0
+asinis grupa a + a − b + b − a b + a b − [NUM] + un [NUM] −
+mērķis grupa
+
+nē bojājums nervi
+
+labs daba vēzis ļauns daba vēzis
+
+holesterīns ir priekšmets kas ir ražot aknas
+aknas ir 1 no liels un svarīgs orgāns mūsu ķermenis
+aknas veikt daudz un svarīgs pienākums tīrīšana asinis no kaitīgs priekšmets piedalīties priekšmets samainīt palīdzība kontrole asinis [NAME] un cukurs pamats asinis
+aknas veselība liels ietekmēt ēst un dzīve veids
+ir ļoti svarīgs rūpēties par aknas veselība izvēlēties veselība ēst un aktīvs dzīve veids
+kā saprast vai ir nav aknas problēma
+bieži aknas slims attīstība lēns un simptoms radīt tikai tad kad aknas jau ir ļoti bojājums
+jā būt uzmanība ja radīt piemēram dzeltens acis vai āda bieži zils un asiņošana tumšs urīns pēda vai potīte augonis
+varēt būt arī prāts mainīt piemēram miegains vai apjukums
+tas simptoms varēt parādīt uz nopietns aknas bojājums obligāts jā apmeklēt pie ārsts
+kāds ir bieži aknas slims
+dažreiz no izplatīt aknas slims ir aknas taukains tas radīt no taukains uzkrājums aknas žults akmens kas traucēt žults process un indīgs bojājums ko radīt pārmērīgs alkohols vai zāles lietot
+izplatīt slims ir arī [NAME] kas ir infekcija slims [NAME] kas ir hronisks un [NAME] aknas bojājums un aknas vēzis kas varēt būt gan labs daba gan ļauns daba
+kā pārbaude aknas veselība
+lai pārbaude aknas veselība ārsts varēt piedāvāt veikt asinis pārbaude un [NAME]
+asinis pārbaude palīdzība vērts aknas apstāklis un teikt vai vajadzēt ārstēt vai dzīve veids mainīt
+kā uzlabot aknas veselība
+lai uzlabot veselība jā ierobežojums alkohols lietot jo tas ir 1 no galvenais aknas bojājums cēlonis
+jā izvairīties no pārmērīgs zāles lietot jo dažreiz pret slims un pret negadījums zāles varēt būt kaitīgs aknas
+veselība ēst un fizisks aktīvs palīdzība uzturēt aknas labs apstāklis
+dažreiz ēst priekšmets palīdzība aknas piemēram avokado samazināt slikts taukains asinis bet kafija mazināt [NAME] vēzis risks
+greipfrūts olīva eļļa un mellene arī veicināt aknas pienākums un sargāt tas no bojājums
+ingvers [NAME] un [NAME] veicināt labs aknas process
+aknas ir īpašs tas varēt atjaunot
+atšķirība no daudz cits orgāns aknas iespējams atjaunot ja ievērot veselība dzīve veids un ēst regulāri iekļaut aknas draugs ēst priekšmets
+rūpēties par savs aknas izvēlēties veselība ēst un ierobežojums kaitīgs paradums
 
 daudz cilvēki nezināt ļoti svarīgs informācija
 cilvēki no 40 līdz 60 5 gads vecs varēt pārbaude sirds veselība bezmaksas
-vajadzēt tikai atnākt ģimene ārsts
+vajadzēt tikai apmeklēt ģimene ārsts
 pārbaude varēt konstatēt sirds un asinsvads risks
 pārbaude veikt no [NUM] gads vecs 1 reize 5 gads piemēram [NUM] [NUM] [NUM] [NUM] [NUM] un [NUM] vecs
-atnākt ģimene ārsts apvienot informācija par slims cilvēks slims paradums piemēram smēķēšana pārbaude asinsspiediens rēķināt ķermenis svars numurs teikt holesterīns pamats uzklausīt sirds vērts elektrība kardioloģija 
-pēc sirds veselība vērts ģimene ārsts piedāvāt atnākt vēl cits papildus pārbaude piemēram sirds veselība pārbaude uz speciāls velosipēds saukt [NAME]
-
+apmeklēt ģimene ārsts apvienot informācija par slims cilvēks slims paradums piemēram smēķēšana pārbaude asinsspiediens rēķināt ķermenis svars numurs teikt holesterīns pamats uzklausīt sirds vērts elektrība kardioloģija 
+pēc sirds veselība vērts ģimene ārsts piedāvāt apmeklēt vēl cits papildus pārbaude piemēram sirds veselība pārbaude uz speciāls velosipēds saukt [NAME]
+dažreiz cilvēki papildus pārbaude nevajadzēt cits cilvēki jā apmeklēt vairāk ārsts
+pēc ārsts piedāvāt kā uzlabot savs dzīve veids kāds zāles lietot
+dažreiz slims cilvēki jā apmeklēt sirds ārsts kardioloģija cilvēks vai jā turpināt pieskatīt pie ģimene ārsts
+sirds veselība vērts atbilst [NAME] tabula
+ģimene ārsts aizpildīt tabula un konstatēt vai cilvēks nākamais 10 gads laiks ir redzēt nākotne sirds veselība pasliktināties
+kas ietekmēt sirds veselība
+kāds ir liels risks
+sirds ietekmēt cilvēks vecs smēķēšana asinsspiediens holesterīns pamats
+[NAME] tabula ir vienkāršs un ērts skatīties
+tabula varēt redzēt šodien drīz apstāklis un tas kas mainīt ja cilvēks uzlabot savs dzīve veids piemēram pārtraukt smēķēšana samazināt svars
+vai taisnība vajadzēt apmeklēt ārsts un pārbaude sirds
+cilvēks justies labs kāpēc apmeklēt ārsts
+pārbaude ir bezmaksas
+izmantot iespējams un pārbaude sirds
+latvija sirds un asinsvads slims ir galvenais radīt cilvēki nāve
+eiropa sirds ārsts organizācija latvija ir iekļaut grupa ļoti augsts risks valsts latvija ar sirds slims slims daudz cilvēki
+cilvēks varēt justies labs viss laiks veselība ir kārtība bet gadījums sirds slims
+tas taisnība notikt
+sirds slims varēt sākt gadījums
+ārsts apmeklēt palīdzība skaidrs veselība apstāklis un samazināt slims risks
+kā saņemt pakalpojums
+dažreiz ārsts pats zvanīt un aicināt uz pārbaude cits ārsts sūtīt vēstule bet ģimene ārsts ir ļoti slogs un bieži nav sazināties ar slims cilvēki
+papildus katrs pats vajadzēt sazināties ar savs ģimene ārsts un teikt ka jūs gribēt apmeklēt bezmaksas sirds veselība pārbaude
+tas viss viss labs
 
 vai jums ir medicīna priekšmets
 es paņemt
 es paņemt tas zāles pakete
 kurš zāles pakete mans paņemt
-lūdzu tas medicīna
+lūdzu tas zāles
 es tavs izrakstīt zāles pret saaukstēšanās
 vai mans ir jā lietot tas zāles
 tavs jā lietot [NAME] zāles
@@ -117,14 +189,14 @@ pa [NUM] piliens 3 reize diena pēc ēst
 2 reize diena pēc ēst
 zāles lietot ārpus
 
-kad mans pie jums atnākt
+kad mans pie jums apmeklēt
 medicīna cilvēks jūs gaidīt [NUM] telpa
 kurš ir pēdējais uz tas telpa
 gaidīt telpa
 es vairāk nedēļa ārstēt slimnīca
 
 kur ir ārsts
-kad atnākt galvenais ārsts
+kad apmeklēt galvenais ārsts
 ārsts ārstēt slims cilvēks
 meita vēlēties pieraksts pie ārsts
 vai tu esmu medicīna cilvēks
@@ -145,6 +217,6 @@ pirmais palīdzība
 ātrā_palīdzība
 ātrs atbraukt ātrā_palīdzība
 
-ārsts cilvēki teikt viss bieži nelaime notikt parasts apstāklis
+ārsts cilvēki teikt viss bieži nelaime notikt pavisam parasts apstāklis
 
 vismaz 2 reize nedēļa ir labs vingrot

@@ -70,6 +70,8 @@ Vai šis ir jūsu dēls?
 Cik jums ir dēli?
 Cik tev ir meitas?
 Dēliem un meitām.
+Viņi ir dvīņi.
+Dvīņu brālis.
 Meitu un dēlu draugi ir jauki.
 Mēs esam draugi.
 Kur ir tavi draugi?
@@ -94,6 +96,7 @@ Viņas ir draudzenes.
 Es esmu pārāk vāja.
 Tas bija vāji...
 [NAME] draudzene ir ļoti gudra, viņa daudz strādā.
+Pieskati savus bērnus!
 Māsai sveiciens!
 Brālim sveiciens!
 

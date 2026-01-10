@@ -22,6 +22,7 @@ beigas cena ir 700 60 un 30 5 cents
 sākums cena ir 900 90 9 dolārs
 2000 19 gads pārtraukt ražošana 500 eiro banknote
 banka konts ir 2000 eiro
+banka uzkrājums
 2000 dolārs uzkrājums
 3000 eiro
 telefons cena vairāk_nekā 3000 dolārs
@@ -36,7 +37,7 @@ mans ir jā saņemt vismaz 7000 eiro
 māja remonts cena 7000 500 50 eiro
 ar atlaide cena apmēram 8000
 tavs uzkrājums apmēram 8000 dolārs
-gads varēt nopelnīt 8000 - 9000 dolārs
+gads varēt nopelnīt 8000 − 9000 dolārs
 ar automašīna braukt 9000 400 kilometrs
 
 nauda pelnīt
@@ -148,6 +149,7 @@ mans draugs šodien drīz iet uz skola
 tas ir mans skola
 rīga ir vairāk skola
 šodien skola ir ļoti nedaudz skolēns cilvēki
+skolēns cilvēki vasara atvaļinājums laiks parasti ilgs 3 mēnesis
 mans tas skola ir daudz draugs
 skola ir labs varēt daudz mācīties
 iet kopā uz mans skola

@@ -17,6 +17,7 @@ pēc [NUM] gads
 pēc dažreiz gads
 pēc 20 gads
 neilgs pēc tas
+jā notikt arī nākotne
 
 vasara sezona
 tieši ziema sezona
@@ -30,8 +31,8 @@ vasara tuvums
 pavasaris vasara rudens un ziema ir gads laiks
 kurš ir tavs mīļš gads laiks
 vasara parasts ir silts
-rudens atnākt ar vējš
-atnākt rudens gleznot latvija
+rudens apmeklēt ar vējš
+apmeklēt rudens gleznot latvija
 ziema sniegs
 debesis rudens bieži ir pelēks
 ziema šodien gads bija auksts
@@ -77,7 +78,7 @@ tikties jūnijs beigas
 20 sestais jūnijs
 šodien ir [NUM] jūlijs
 jūlijs nakts ir īss
-jūlijs prognoze
+jūlijs redzēt nākotne
 karsts laiks ir gaidīt jūlijs vidus
 astotais jūlijs gaiss temperatūra_daba sasniegt 30 2 grādi
 šodien ir [NUM] augusts
@@ -102,16 +103,16 @@ kopā gaidīt novembris sākums
 17 novembris starp pasaule universitāte cilvēki diena_kalendārs
 šodien ir [NUM] decembris
 decembris ir pirmais ziema mēnesis
-devītais decembris gaiss temperatūra_daba nakts bija - 11 grādi
+devītais decembris gaiss temperatūra_daba nakts bija − 11 grādi
 decembris bieži sniegs
 decembris sākums
 
 0 grādi
-no 0 līdz - 4 grādi
+no 0 līdz − 4 grādi
 [NUM] grādi
 gaiss temperatūra_daba sasniegt [NUM] grādi
 daugavpils nakts gaidīt augsts gaiss temperatūra_daba
-gaiss temperatūra_daba svārstīties no - 3 līdz - 7 grādi
+gaiss temperatūra_daba svārstīties no − 3 līdz − 7 grādi
 ūdens temperatūra_daba būt zems tikai 0 grādi
 ūdens ir auksts temperatūra_daba ir apmēram + 4 grādi
 
@@ -143,8 +144,8 @@ nav tikai māte bet arī vecs māte kristības māte vīrs māte vīrs māte un 
 ir arī valsts kur māte diena_kalendārs svinēt cits laiks
 piemēram spānija un lietuva māte diena_kalendārs šodien gads astotais decembris kad kristības māja godināt jēzus_kristus māte
 francija māte diena_kalendārs svinēt maijs pēdējais svētdiena
-interesants ka latvija ģimene lokā māte diena_kalendārs sākt svinēt jau sen [NUM] gads bet oficiāls atzīmēt tikai no [NUM] gads
-viss bieži māte diena_kalendārs dāvināt zieds un nedaudz sirsnīgs dāvana bet galvenais ir atcerēties savs māte un teikt paldies par mīlēt un aprūpe
+interesants ka latvija ģimene lokā māte diena_kalendārs sākt svinēt jau sen [NUM] gads bet pamats atzīmēt tikai no [NUM] gads
+viss bieži māte diena_kalendārs dāvināt zieds un nedaudz sirsnīgs dāvana bet galvenais ir atcerēties savs māte un teikt paldies par mīlēt un rūpēties
 kāds zieds dāvināt
 bieži dāvināt zieds kāds ir māte mīļš
 gads mainīt populārs dāvināt zieds mainīt
@@ -208,9 +209,10 @@ nākamais svētdiena būt saulains
 prieks svētdiena
 
 diena laiks
-laiks prognoze
-es zināt rīt vakars laiks prognoze
-viņš skatīties vakar laiks prognoze
+laiks redzēt nākotne par šodien
+sinoptiķis zināt rīt diena laiks redzēt nākotne
+es zināt rīt vakars laiks redzēt nākotne
+viņš skatīties vakar laiks redzēt nākotne
 šodien ir saulains silts laiks
 rīt ir gaidīt spēcīgs lietus
 vakar bija nedaudz lietus
@@ -235,6 +237,8 @@ tu esmu bez lietussargs
 debesis šodien rīts bija gaišs
 šodien rīts bija gaišs rīts
 šodien rīts bija spēcīgs lietus
+lietus laiks
+gaidīt lietus laiks apstāklis
 vājš lietus sākt rīts
 lietus bija vājš
 tūlīt būt stiprs lietus
@@ -316,7 +320,7 @@ vienos nakts
 trijos nakts
 ļoti vēls divos nakts
 drīz būt nakts
-kluss nakts
+kluss tumšs nakts
 kluss zvaigznes nakts
 šodien ir ļoti vēls
 tikai 1 sekunde

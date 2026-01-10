@@ -97,6 +97,7 @@ Paldies, normāli.
 Iet normāli.
 Viss ir kārtībā.
 Viss nav kārtībā.
+Uztur kārtībā.
 Viss būs labi.
 Viss bija labi.
 Vai tev viss ir labi?
@@ -134,6 +135,8 @@ Man tev bija jāpalīdz.
 Es gribu palīdzēt.
 Viņa negrib viņam palīdzēt.
 Es gribu viņai palīdzēt.
+Mums ir neliela problēma.
+Nav problēmu.
 
 Es saprotu.
 Vai tu saproti?
@@ -179,6 +182,7 @@ Veselību!
 Novēlu Jums labu veselību!
 Panākumus darbā!
 Novēlu sasniegumus dzīvē!
+Sasniegt mērķi!
 Es to ļoti novērtēju.
 Novērtē to.
 

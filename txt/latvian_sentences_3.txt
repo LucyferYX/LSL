@@ -115,7 +115,7 @@ Es šuvu dažādus apģērbus.
 [NAME] vajag tumšas brilles.
 Es gribētu pasūtīt brilles.
 Briļļu cena ir augsta.
-Brillēm vajadzētu būt lielām, bet cenām - mazām.
+Brillēm vajadzētu būt lielām, bet cenām — mazām.
 Brillēs ir melns traips.
 Man ir nepieciešams mētelis, jo drīz būs ziema.
 Es vēlos šo melno mēteli.

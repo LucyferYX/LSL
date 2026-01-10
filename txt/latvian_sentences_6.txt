@@ -50,9 +50,18 @@ Vai tev ir kāda alerģija?
 Man ir alerģija pret suņiem.
 Esmu alerģisks pret savu mājdzīvnieku.
 
+Redzes pasliktināšanās.
 Viņš ir tuvredzīgs.
+Tālredzīgi cilvēki skaidri redz tālumā.
 
 Vai tu esi stāvoklī?
+Kā var zināt, vai sieviete ir stāvoklī?
+Vai Jūs esat grūtniece?
+Plānota grūtniecība.
+Vingrojumi grūtniecēm.
+Kā grūtniecei nosaka nepieciešamo?
+Rīgas Dzemdību namā šajā nedēļā divas ģimenes sagaidījušas dvīnīšus.
+Piedāvā pirmsdzemdību atvaļinājumu, kā arī pēcdzemdību atvaļinājumu.
 
 Es esmu slima...
 Es esmu slimnieks.
@@ -68,12 +77,15 @@ Vai Jums ir klepus un iesnas?
 Jā, man ir klepus.
 Nē, man nav iesnu.
 Tikai neliels klepus, bet iesnu nav.
+Ilgstošs klepus, jau ilgst piecas nedēļas.
 Šī ir akūta saslimšana.
 Vai Jūs kādreiz esat slimojusi ar sirds vai plaušu slimībām?
 Pirms četriem gadiem man bija sirdslēkme.
 Dažiem cilvēkiem ir epilepsija.
 Ko darīt epilepsijas gadījumā?
 Epilepsijas lēkmes parasti ir īsas.
+Grūti paredzamas sekas.
+Vai esat apjucis?
 
 Man ir sausa sejas āda.
 Man sāp galva un kakls.
@@ -93,6 +105,43 @@ Lūdzu, apmainiet man pārsēju.
 Vai ir nepieciešams jauns pārsējs?
 Lūdzu, apskatiet šo augoni!
 
+Asinsgrupa.
+Kopumā ir četras asins grupas.
+Tava asinsgrupa ir A, B, AB vai nulle?
+Asinsgrupas: A+, A−, B+, B−, AB+, AB−, [NUM]+ un [NUM]−.
+Mērķa grupa.
+
+Nebojā nervus!
+
+Labdabīgs audzējs, ļaundabīgs audzējs.
+
+Holesterīns ir viela, kas tiek ražota aknās.
+Aknas ir viens no lielākajiem un svarīgākajiem orgāniem mūsu ķermenī.
+Aknas veic daudzus un svarīgus uzdevumus: attīra asinis no kaitīgām vielām, piedalās vielmaiņā, palīdz kontrolēt asins [NAME] un cukura līmeni asinīs.
+Aknu veselību lielākoties ietekmē pārtika un dzīvesveids.
+Ir ļoti svarīgi rūpēties par aknu veselību, izvēloties veselīgu uzturu un aktīvu dzīvesveidu.
+Kā saprast, vai ir, nav aknu problēmas?
+Bieži vien aknu slimības attīstās lēni un simptomi parādās tikai tad, kad aknas jau ir ļoti bojātas.
+Jābūt uzmanīgiem, ja parādās, piemēram, dzeltenas acis vai āda, bieži zilumi un asiņošana, tumšs urīns, pēdu vai potīšu pietūkums.
+Var būt arī prāta darbības izmaiņas, piemēram, miegainība vai apjukums.
+Šīs pazīmes var norādīt uz nopietniem aknu bojājumiem — obligāti jāvēršas pie ārsta.
+Kādas ir biežākās aknu slimības?
+Dažas no izplatītākajām aknu slimībām ir aknu aptaukošanās, kas rodas no tauku uzkrāšanās aknās, žultsakmeņi, kas traucē žults darbību, un toksiski bojājumi, ko izraisa pārmērīga alkohola vai medikamentu lietošana.
+Izplatītas slimības ir arī [NAME], kas ir infekcijas slimība, [NAME], kas ir hronisks un [NAME] aknu bojājums, un aknu audzēji, kas var būt gan labdabīgi, gan ļaundabīgi.
+Kā pārbaudīt aknu veselību?
+Lai pārbaudītu aknu veselību, ārsts var ieteikt veikt asins analīzes un [NAME].
+Asins analīzes palīdz novērtēt aknu stāvokli un noteikt, vai nepieciešama ārstēšana vai dzīvesveida maiņa.
+Kā uzlabot aknu veselību?
+Lai uzlabotu veselību, jāierobežo alkohola lietošana, jo tas ir viens no galvenajiem aknu bojājumu cēloņiem.
+Jāizvairās no pārmērīgas medikamentu lietošanas, jo daži pretsāpju un pretiekaisuma līdzekļi var būt kaitīgi aknām.
+Veselīgs uzturs un fiziskās aktivitātes palīdz uzturēt aknas labā stāvoklī.
+Daži pārtikas produkti palīdz aknām, piemēram, avokado samazina sliktos taukus asinīs, bet kafija mazina [NAME], vēža un [NAME] risku.
+Greipfrūti, olīveļļa un mellenes arī veicina aknu funkcijas un pasargā tās no bojājumiem.
+Ingvers, [NAME] un [NAME] veicina labāku aknu darbību.
+Aknas ir īpašas — tās var atjaunoties!
+Atšķirībā no daudziem citiem orgāniem, aknas spēj atjaunoties, ja ievēro veselīgu dzīvesveidu un uzturā regulāri iekļauj aknām draudzīgus pārtikas produktus.
+Rūpēsimies par savām aknām, izvēloties veselīgu uzturu un ierobežojot kaitīgos ieradumus!
+
 Daudzi cilvēki nezina ļoti svarīgu informāciju.
 Cilvēki no četrdesmit līdz sešdesmit piecu gadu vecumam var pārbaudīt sirds veselību bez maksas.
 Vajag tikai apmeklēt ģimenes ārstu.
@@ -100,7 +149,30 @@ Pārbaudē var konstatēt sirds un asinsvadu saslimšanas riskus.
 Pārbaudi veic no [NUM] gadu vecuma vienu reizi piecos gados, piemēram, [NUM], [NUM], [NUM], [NUM], [NUM] un [NUM] vecumā.
 Vizītē ģimenes ārsts apkopo informāciju par pacientu — slimības, ieradumus (piemēram, smēķēšanas biežumu), pārbauda asinsspiedienu, izrēķina ķermeņa masas indeksu, nosaka holesterīna līmeni, izklausa sirdi, izvērtē elektrokardiogrammu.
 Pēc sirds veselības novērtējuma ģimenes ārsts piedāvā apmeklēt vēl citus papildu izmeklējumus, piemēram, sirds veselības pārbaudi uz speciāla velosipēda — saucas [NAME].
-
+Dažiem cilvēkiem papildus izmeklējumus nevajag, citiem cilvēkiem jāapmeklē vairāki ārsti.
+Pēc tam ārsts piedāvā, kā uzlabot savu dzīvesveidu, kādus medikamentus lietot.
+Dažiem pacientiem jāapmeklē sirds ārsts (kardiologs) vai jāturpina uzraudzība pie ģimenes ārsta.
+Sirds veselību novērtē atbilstoši [NAME] tabulai.
+Ģimenes ārsts aizpilda tabulu un konstatē, vai cilvēkam nākamo desmit gadu laikā ir paredzama sirds veselības pasliktināšanās.
+Kas ietekmē sirds veselību?
+Kādi ir lielākie riski?
+Sirdi ietekmē cilvēka vecums, smēķēšana, asinsspiediens, holesterīna līmenis.
+[NAME] tabula ir vienkārša un ērti saskatāma.
+Tabulā var redzēt šī brīža situāciju un to, kas mainīsies, ja cilvēks uzlabos savu dzīvesveidu, piemēram, pārtrauks smēķēt, samazinās svaru.
+Vai tiešām vajag apmeklēt ārstu un pārbaudīt sirdi?
+Cilvēks jūtas labi — kāpēc apmeklēt ārstu?
+Izmeklējums ir bez maksas.
+Izmantojiet iespēju un pārbaudiet sirdi!
+Latvijā sirds un asinsvadu slimības ir galvenais iemesls cilvēku mirstībai.
+Eiropas sirds ārstu organizācijas Latviju ir ierindojuši grupā "ļoti augsta riska valsts" — Latvijā ar sirds slimībām slimo daudz cilvēku.
+Cilvēks var justies labi, visu laiku veselība ir kārtībā, bet pēkšņi — sirds saslimšana.
+Tā tiešām notiek!
+Sirds slimības var sākties pēkšņi.
+Ārsta apmeklējums palīdzēs noskaidrot veselības stāvokli un samazināt slimības risku.
+Kā saņemt pakalpojumu?
+Daži ārsti paši zvana un uzaicina uz pārbaudēm, citi ārsti sūta vēstules, bet ģimenes ārsti ir ļoti noslogoti un bieži nesazinās ar pacientiem.
+Tāpēc katram pašam vajag sazināties ar savu ģimenes ārstu un pateikt, ka jūs gribat apmeklēt bezmaksas sirds veselības pārbaudi.
+Tas viss, visu labu!
 
 Vai jums ir medicīnas preces?
 Es ņemu!

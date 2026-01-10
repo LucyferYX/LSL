@@ -22,6 +22,7 @@ Beigu cena ir septiņsimt sešdesmit Eiro un trīsdesmit pieci eirocenti.
 Sākuma cena ir deviņsimt deviņdesmit deviņi dolāri.
 Divi tūkstoši deviņpadsmitajā gadā pārtrauca ražot piecsimt eiro banknoti.
 Bankas kontā ir divi tūkstoši EUR.
+Bankas uzkrājumi.
 Divu tūkstošu dolāru uzkrājums.
 Trīs tūkstoši eiro.
 Telefons maksāja vairāk nekā trīstūkstoš dolāru.
@@ -36,7 +37,7 @@ Man ir jāsaņem vismaz septiņi tūkstoši eiro.
 Mājas remonts maksā septiņtūkstoš piecsimt piecdesmit eiro.
 Ar atlaidi maksā ap astoņiem tūkstošiem.
 Tavs uzkrājums... apmēram astoņi tūkstoši dolāru. 
-Gadā var nopelnīt ap astoņtūkstoš - deviņtūkstoš dolāru.
+Gadā var nopelnīt ap astoņtūkstoš — deviņtūkstoš dolāru.
 Ar mašīnu tika nobraukti deviņi tūkstoši četrsimt kilometru.
 
 Naudas pelnīšana.
@@ -148,6 +149,7 @@ Mans draugs šobrīd dodas uz skolu.
 Tā ir mana skola.
 Rīgā ir vairākas skolas.
 Šodien skolā ir ļoti maz skolēnu.
+Skolēnu vasaras brīvlaiks parasti ilgst trīs mēnešus.
 Man šajā skolā ir daudz draugu.
 Skola ir laba, var daudz iemācīties.
 Iesim kopā uz manu skolu?

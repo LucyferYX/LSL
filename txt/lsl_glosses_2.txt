@@ -40,7 +40,7 @@ es vīrs un [NUM] bērni
 ģimene ir liels vai mazs
 ģimene esmu tikai es
 ģimene esmu es māte tēvs māsa un brālis
-māja dzīvot mans māte un tēvs
+māja dzīve mans māte un tēvs
 māte un tēvs ir kopā
 tēvs ir daudz nauda
 māte ir 1 dēls un 4 meita
@@ -50,26 +50,28 @@ mans ir brālis
 mans nav māsa
 viņš ir 3 brālis
 viņš ir 2 māsa
-māja dzīvot vairāk brālis un māsa
+māja dzīve vairāk brālis un māsa
 brālis ir daudz draugs
 māsa nav daudz draugs
 mans brālis [NAME] ir spēcīgs
 mans ir jauns mazs dēls
 [NAME] ir jauks mazs meita
 vecs cilvēki vecs radi
-es dzīvot kopā ar savs 12 gads vecs brālis
+es dzīve kopā ar savs 12 gads vecs brālis
 tas ir viņš bērns
 bērns saukt [NAME]
 vai jums ir bērni
 mans ir 2 bērni dēls un meita
-[NAME] atnākt māja
-vai bērns drīz atnākt
-kad mans atnākt
+[NAME] apmeklēt māja
+vai bērns drīz apmeklēt
+kad mans apmeklēt
 cik gads ir tavs meita
 vai tas ir tavs dēls
 cik jums ir dēls
 cik tavs ir meita
 dēls un meita
+viņi ir dvīnis
+dvīnis brālis
 dēls un meita draugs ir jauks
 mēs būt draugs
 kur būt tavs draugs
@@ -86,7 +88,7 @@ vecs tēvs justies vājš
 mans ir [NUM] māsīca
 viņi braukt kopā ar māsīca un brālēns
 viņi braukt uz lauki pie vecs tēvs un vecs māte
-liepāja dzīvot vīrs māte un vīrs tēvs bet ventspils mans radi
+liepāja dzīve vīrs māte un vīrs tēvs bet ventspils mans radi
 vīrs māte un vīrs tēvs ciemos
 labs draugs [NAME]
 viņi ir draugs
@@ -94,11 +96,12 @@ viņi ir draugs
 es esmu pārāk vājš
 tas bija vājš
 [NAME] draugs ir ļoti gudrs viņš daudz strādāt
+pieskatīt savs bērni
 māsa sveiks
 brālis sveiks
 
 ko darīt tavs vīrs vecs cilvēki
-vīrs tēvs mirt pirms [NUM] gads bet vīrs māte ir pensionārs cilvēks
+vīrs tēvs nāve pirms [NUM] gads bet vīrs māte ir pensionārs cilvēks
 viņš ļoti mīlēt savs mazs bērni
 vai tu šķirties ar vīrs
 es ar vīrs šķirties
@@ -108,7 +111,7 @@ mēs vairs nē esmu precības esmu šķirties
 dēls drīz būt precības
 atcerēties mūsu precības
 esmu atraitnis
-pēc vīrs mirt es kļuva par atraitnis
+pēc vīrs nāve es kļuva par atraitnis
 es vēlēties viņš precības
 es esmu precības ar vīrs [NAME]
 mans līgavainis [NAME]
@@ -124,7 +127,7 @@ dāvināt skaists tulpe savs tuvs draugs
 
 dažreiz gadījums ka cilvēki precības gribēt palikt katrs savs uzvārds piemēram [NAME] [NAME] un [NAME] [NAME]
 tas ir iespējams
-bet ir arī gadījums kad dzimt bērns un vecs cilvēki gribēt bērns dot abi uzvārds dubults uzvārds piemēram [NAME] - [NAME]
+bet ir arī gadījums kad dzimt bērns un vecs cilvēki gribēt bērns dot abi uzvārds dubults uzvārds piemēram [NAME] − [NAME]
 vai tas ir iespējams
 nē tas neiespējams likums tas aizliegts
 ja vecs cilvēki ir dažāds uzvārds bērns dot tēvs vai māte uzvārds
@@ -132,10 +135,10 @@ vecs cilvēki jā sarunāt kurš uzvārds bērns dot
 uzmanība gadījums ja vecs cilvēki savs starp nevarēt sarunāt par bērns uzvārds tad jā iet uz bērns tiesa
 bērns tiesa lemt kur vecs cilvēks uzvārds būt bērns
 cits gadījums
-1 no vecs cilvēks ir dubults uzvārds piemēram [NAME] - [NAME]
+1 no vecs cilvēks ir dubults uzvārds piemēram [NAME] − [NAME]
 tad arī bērns varēt dot tas dubults uzvārds ja otrais vecs cilvēks piekrist
-starp uzvārds jā likt -
-abi vecs cilvēki precības varēt saņemt otrais uzvārds radīt dubults uzvārds piemēram [NAME] - [NAME]
+starp uzvārds jā likt −
+abi vecs cilvēki precības varēt saņemt otrais uzvārds radīt dubults uzvārds piemēram [NAME] − [NAME]
 tad arī bērns uzvārds būt tāds pats
 bet ja tēvs ir dubults uzvārds tad precības vīrs un vīrs neiespējams radīt dubults uzvārds no abi uzvārds
 tas ir neiespējams
@@ -143,7 +146,7 @@ uzvārds nedrīkst būt 3 vai vairāk vārds
 varēt dot bērns vārds kāds vecs cilvēki vēlēties
 vecs cilvēki varēt pats izdomāt vārds bērns
 vārds dot likums paredzēt tikai 2 ierobežojums
-bērns varēt būt tikai 2 vārds bez - piemēram [NAME] [NAME]
+bērns varēt būt tikai 2 vārds bez − piemēram [NAME] [NAME]
 nedrīkst būt 3 vai vairāk vārds
 bērns vārds jā atbilst latvija valoda likums
 vārds drīkst būt tikai latvija burti
@@ -199,7 +202,7 @@ māte nav vecs
 vai tu šeit esmu 1
 viņš ir tikai 2
 abi 2
-viņš dzīvot nav grūts bet viņš ir
+viņš dzīve nav grūts bet viņš ir
 iet kopā
 žēl es nevarēt
 domāt jā
@@ -220,28 +223,28 @@ tu ir jā zvanīt tas numurs
 viņš telefons
 telefons atlaide
 
-kur tu dzīvot
-mēs dzīvot
-es dzīvot
-es dzīvot rīga
-šodien es ar dēls dzīvot kopā
-katrs ir savs dzīvot apstāklis
-vai tu dzīvot tāls no rīga
+kur tu dzīve
+mēs dzīve
+es dzīve
+es dzīve rīga
+šodien es ar dēls dzīve kopā
+katrs ir savs dzīve apstāklis
+vai tu dzīve tāls no rīga
 vai tas ir tāls no šeit
 vai tas ir tuvs šeit
 es rīt būt rīga
 kurš ir tavs māja numurs
 mans māja numurs ir 20 5
 viņš māja numurs ir [NUM]
-rīga dzīvot [NUM] cilvēki
+rīga dzīve [NUM] cilvēki
 viņš telpa atrasties rīga
 telpa atrasties vieta
-es dzīvot telpa
+es dzīve telpa
 latvija ir daudz pilsēta
 rīga ir pilsēta latvija
-viņš dzīvot latvija
+viņš dzīve latvija
 viņš ļoti patikt latvija
-viņš nepatikt tas dzīvot
+viņš nepatikt tas dzīve
 es atrasties šeit rīga latvija
 kur tas ir
 vai viņš telpa ir tuvums
@@ -253,8 +256,8 @@ kad notikt nodot
 es meklēt māja atslēga
 telpa atslēga
 atslēga ir pie mans
-kad mans atnākt pie jums uz māja
-šodien atnākt [NAME] draugs [NAME]
+kad mans apmeklēt pie jums uz māja
+šodien apmeklēt [NAME] draugs [NAME]
 pie [NAME] ciemos draugs [NAME]
 pie [NAME] [NAME] ciemos draugs [NAME]
 [NAME] ciemos pie [NAME] [NAME]
@@ -345,21 +348,21 @@ rīga atrasties vairāk ēkas piemēram aptieka banka baznīca pasts poliklīnik
 ēkas atrasties vieta
 darbnīca atrasties vieta
 
-pasaule ir 8 1000000000 dzīvot cilvēki
+pasaule ir 8 1000000000 dzīve cilvēki
 latvija ir mazs valsts
-latvija ir apmēram 2 1000000 dzīvot cilvēki
+latvija ir apmēram 2 1000000 dzīve cilvēki
 kas ir latvija galvaspilsēta
-rīga latvija galvaspilsēta dzīvot daudz ģimene
+rīga latvija galvaspilsēta dzīve daudz ģimene
 rīga ir latvija liels pilsēta
-rīga ir apmēram 600 1000 dzīvot cilvēki
+rīga ir apmēram 600 1000 dzīve cilvēki
 daugavpils ir otrais liels latvija pilsēta
-daugavpils ir apmēram 70 8 1000 dzīvot cilvēki
+daugavpils ir apmēram 70 8 1000 dzīve cilvēki
 liepāja ir latvija trešais liels pilsēta
-liepāja dzīvot cilvēki ir nedaudz mazāk_nekā daugavpils
+liepāja dzīve cilvēki ir nedaudz mazāk_nekā daugavpils
 ventspils atrasties latvija kreiss mala
-ventspils dzīvot cilvēki skaits ir daudz mazāk_nekā liepāja
+ventspils dzīve cilvēki skaits ir daudz mazāk_nekā liepāja
 rīga liepāja ventspils atrasties jūra krasts
-tas pilsēta dzīvot apmēram 3000 dzīvot cilvēki
+tas pilsēta dzīve apmēram 3000 dzīve cilvēki
 
 es vakar iet uz kafejnīca
 kafejnīca atrasties tas

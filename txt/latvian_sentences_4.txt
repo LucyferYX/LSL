@@ -17,6 +17,7 @@ Pēc [NUM] gadiem.
 Pēc dažiem gadiem.
 Pēc divdesmit gadiem.
 Neilgi pēc tam...
+Jā, notiks arī turpmāk.
 
 Vasaras sezona.
 Tieši ziemas sezonā.
@@ -99,7 +100,7 @@ Koku lapas var sākt krist oktobrī.
 Novembrī bieži redzamas pelēkas debesis.
 Novembris ir rudens pēdējais mēnesis.
 Kopā gaidam novembra sākumu!
-Septiņpadsmitais novembris - starptautiskā studentu diena.
+Septiņpadsmitais novembris — starptautiskā studentu diena.
 Šodien ir [NUM]. decembris.
 Decembris ir pirmais ziemas mēnesis.
 Devītajā decembrī gaisa temperatūra naktī bija mīnuss vienpadsmit grādi.
@@ -208,7 +209,8 @@ Nākamā svētdiena būs saulaina.
 Priecīgu svētdienu!
 
 Dienas laikā.
-Laika prognoze.
+Laika prognoze par šodienu.
+Sinoptiķis zina rītdienas laika prognozi.
 Es zinu rītdienas vakara laika prognozi.
 Viņa skatījās vakardienas laika prognozi.
 Šodien ir saulains, silts laiks.
@@ -235,6 +237,8 @@ Tu esi bez lietussarga?
 Debesis šorīt bija gaišas.
 Šorīt bija gaišs rīts.
 Šorīt bija spēcīgi lieti.
+Lietains laiks.
+Gaidāmi lietaini laikapstākļi.
 Vājais lietus sākās no rīta.
 Lietus bija vājš.
 Tūlīt būs stiprs lietus.
@@ -245,7 +249,7 @@ Vilku mēteli, jo pūta vējš.
 Kad sāka pūst vējš?
 Mainīga ātruma vējš.
 Vēja ātrums.
-Pēc lietus - saule.
+Pēc lietus — saule.
 Spīd saule.
 Saule spīdēs rīt.
 Tikai nesen spīdēja saule.
@@ -255,7 +259,7 @@ Mēness atstaro saules gaismu.
 Atstarot gaismu.
 Mans mētelis atstaro gaismu.
 Es debesīs redzu mēnesi.
-Saule ir dienā, bet mēness - naktī.
+Saule ir dienā, bet mēness — naktī.
 Mēness nav spožs.
 Ļoti spoža saule.
 Saule nebija redzama.
@@ -316,7 +320,7 @@ Vienos naktī.
 Trijos naktī.
 Ļoti vēlu, divos naktī.
 Drīz būs nakts.
-Klusa nakts.
+Klusa, tumša nakts.
 Klusa, zvaigžņota nakts.
 Tagad ir ļoti vēls.
 Tikai viena sekunde.
