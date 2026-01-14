@@ -41,7 +41,7 @@ es vīrs un [NUM] bērni
 ģimene esmu tikai es
 ģimene esmu es māte tēvs māsa un brālis
 māja dzīve mans māte un tēvs
-māte un tēvs ir kopā
+māte un tēvs ir kopā viņi ir pāris
 tēvs ir daudz nauda
 māte ir 1 dēls un 4 meita
 viņi ir tuvs
@@ -57,6 +57,7 @@ mans brālis [NAME] ir spēcīgs
 mans ir jauns mazs dēls
 [NAME] ir jauks mazs meita
 vecs cilvēki vecs radi
+pieaugušais cilvēki
 es dzīve kopā ar savs 12 gads vecs brālis
 tas ir viņš bērns
 bērns saukt [NAME]
@@ -71,6 +72,7 @@ cik jums ir dēls
 cik tavs ir meita
 dēls un meita
 viņi ir dvīnis
+tavs dvīnis redzēt līdzīgs
 dvīnis brālis
 dēls un meita draugs ir jauks
 mēs būt draugs
@@ -90,6 +92,7 @@ viņi braukt kopā ar māsīca un brālēns
 viņi braukt uz lauki pie vecs tēvs un vecs māte
 liepāja dzīve vīrs māte un vīrs tēvs bet ventspils mans radi
 vīrs māte un vīrs tēvs ciemos
+tēvs ir parādīt cilvēks savs dēls
 labs draugs [NAME]
 viņi ir draugs
 viņi ir draugs
@@ -101,7 +104,7 @@ māsa sveiks
 brālis sveiks
 
 ko darīt tavs vīrs vecs cilvēki
-vīrs tēvs nāve pirms [NUM] gads bet vīrs māte ir pensionārs cilvēks
+vīrs tēvs nāve pirms [NUM] gads bet vīrs māte ir pensija cilvēks
 viņš ļoti mīlēt savs mazs bērni
 vai tu šķirties ar vīrs
 es ar vīrs šķirties
@@ -125,7 +128,7 @@ sieviete ar mazs meitene
 meitene pastaiga kopā ar zēns
 dāvināt skaists tulpe savs tuvs draugs
 
-dažreiz gadījums ka cilvēki precības gribēt palikt katrs savs uzvārds piemēram [NAME] [NAME] un [NAME] [NAME]
+dažreiz gadījums cilvēki precības gribēt palikt katrs savs uzvārds piemēram [NAME] [NAME] un [NAME] [NAME]
 tas ir iespējams
 bet ir arī gadījums kad dzimt bērns un vecs cilvēki gribēt bērns dot abi uzvārds dubults uzvārds piemēram [NAME] − [NAME]
 vai tas ir iespējams
@@ -139,7 +142,7 @@ cits gadījums
 tad arī bērns varēt dot tas dubults uzvārds ja otrais vecs cilvēks piekrist
 starp uzvārds jā likt −
 abi vecs cilvēki precības varēt saņemt otrais uzvārds radīt dubults uzvārds piemēram [NAME] − [NAME]
-tad arī bērns uzvārds būt tāds pats
+tad arī bērns uzvārds būt tāds_pats
 bet ja tēvs ir dubults uzvārds tad precības vīrs un vīrs neiespējams radīt dubults uzvārds no abi uzvārds
 tas ir neiespējams
 uzvārds nedrīkst būt 3 vai vairāk vārds
@@ -295,13 +298,13 @@ pasūtīt vairāk paka
 aizvest paka uz pasts māja
 mēs ar tēvs iet uz pasts
 
-aptieka [NAME] "
-kur tuvums ir aptieka
-kur atrasties aptieka
-viņi braukt uz aptieka
-aptieka ir mazs cilvēki
-tas darbs cilvēki strādāt aptieka
-pie aptieka ar mums stāvēt dažreiz cilvēki
+zāles iestāde [NAME] "
+kur tuvums ir zāles iestāde
+kur atrasties zāles iestāde
+viņi braukt uz zāles iestāde
+zāles iestāde ir mazs cilvēki
+tas darbs cilvēki strādāt zāles iestāde
+pie zāles iestāde ar mēs stāvēt dažreiz cilvēki
 mans māte atrasties poliklīnika
 poliklīnika ir mazs
 tas poliklīnika nav liels
@@ -344,7 +347,7 @@ cilvēks ēst ēst
 kur vieta rīga atrasties labs un liels tirgus
 viesnīca ir nedaudz darbs cilvēki un daudz cilvēki
 [NAME] ir tas viesnīca darbs cilvēks
-rīga atrasties vairāk ēkas piemēram aptieka banka baznīca pasts poliklīnika skola slimnīca tirgus veikals un viesnīca
+rīga atrasties vairāk ēkas piemēram zāles iestāde banka baznīca pasts poliklīnika skola slimnīca tirgus veikals un viesnīca
 ēkas atrasties vieta
 darbnīca atrasties vieta
 
@@ -444,3 +447,4 @@ gals pirkt priekšmets
 priekšmets lielums
 gaidīt pie luksofors gaisma
 laimīgs ceļš
+ēst piegāde

@@ -54,6 +54,9 @@ redzēt pasliktināties
 viņš ir tuvs redzēt
 tāls redzēt cilvēki skaidrs redzēt tāls
 
+pāris ārstēt
+tavs ir vajadzēt ārstēt
+
 vai tu esmu grūtniecība
 kā varēt zināt vai sieviete ir grūtniecība
 vai tavs esmu grūtniecība cilvēks
@@ -65,34 +68,36 @@ piedāvāt pirms dzimt atvaļinājums arī pēc dzimt atvaļinājums
 
 es esmu slims
 es esmu slims cilvēks
-es esmu saslimšana
+es esmu slims negadījums
 es esmu saaukstēšanās
 mans dēls ir saaukstēšanās
-[NAME] [NAME] ir saslimšana
-vai [NAME] ir nopietns saslimšana
-vai tas ir nopietns saslimšana
-kāds ir saslimšana simptoms
+[NAME] [NAME] ir slims negadījums
+vai [NAME] ir nopietns slims negadījums
+vai tas ir nopietns slims negadījums
+kāds ir slims negadījums simptoms
 es nē justies veselība
 vai tavs ir klepus un iesnas
 jā mans ir klepus
 nē mans nav iesnas
 tikai nedaudz klepus bet iesnas nav
 ilgs klepus jau ilgs 5 nedēļa
-tas ir akūts saslimšana
+tas ir akūts slims negadījums
 vai tu sen reize esmu slims ar sirds vai plaušas slims
 pirms 4 gads mans bija sirds negadījums
 dažreiz cilvēki ir epilepsija
 ko darīt epilepsija gadījums
 epilepsija negadījums parasts ir īss
-grūts redzēt nākotne negadījums
+grūts redzēt nākotne sekas
+sekas būt −
 vai esmu apjukums
 
+ķermenis daļa
 mans ir sauss seja āda
 mans sāpēt galva un kakls
 [NAME] ļoti sāpēt galva
 es nokrist un sasist galva
 es paklupt un sasist galva
-rādīt sasist vieta
+parādīt sasist vieta
 kur vieta sasist
 galvassāpes
 galvassāpes veids un tas novērst
@@ -103,21 +108,23 @@ es varbūt esmu lauzt kāja
 novērst trūkums
 lūdzu mainīt mans pārsējs
 vai ir vajadzēt jauns pārsējs
-lūdzu skatīties tas augonis
+lūdzu redzēt tas augonis
 
 asinis grupa
-kopumā ir 4 asins grupa
+kopumā ir 4 asinis grupa
 tavs asinis grupa ir a b a b vai 0
 asinis grupa a + a − b + b − a b + a b − [NUM] + un [NUM] −
 mērķis grupa
 
+jūs asiņošana
 nē bojājums nervi
+smadzenes satricinājums
 
 labs daba vēzis ļauns daba vēzis
 
 holesterīns ir priekšmets kas ir ražot aknas
 aknas ir 1 no liels un svarīgs orgāns mūsu ķermenis
-aknas veikt daudz un svarīgs pienākums tīrīšana asinis no kaitīgs priekšmets piedalīties priekšmets samainīt palīdzība kontrole asinis [NAME] un cukurs pamats asinis
+aknas veikt daudz un svarīgs pienākums tīrīšana asinis no kaitīgs priekšmets klātiene priekšmets samainīt palīdzība kontrole asinis [NAME] un cukurs pamats asinis
 aknas veselība liels ietekmēt ēst un dzīve veids
 ir ļoti svarīgs rūpēties par aknas veselība izvēlēties veselība ēst un aktīvs dzīve veids
 kā saprast vai ir nav aknas problēma
@@ -149,7 +156,7 @@ pārbaude varēt konstatēt sirds un asinsvads risks
 pārbaude veikt no [NUM] gads vecs 1 reize 5 gads piemēram [NUM] [NUM] [NUM] [NUM] [NUM] un [NUM] vecs
 apmeklēt ģimene ārsts apvienot informācija par slims cilvēks slims paradums piemēram smēķēšana pārbaude asinsspiediens rēķināt ķermenis svars numurs teikt holesterīns pamats uzklausīt sirds vērts elektrība kardioloģija 
 pēc sirds veselība vērts ģimene ārsts piedāvāt apmeklēt vēl cits papildus pārbaude piemēram sirds veselība pārbaude uz speciāls velosipēds saukt [NAME]
-dažreiz cilvēki papildus pārbaude nevajadzēt cits cilvēki jā apmeklēt vairāk ārsts
+dažreiz cilvēki papildus pārbaude nevajadzēt cits cilvēki jā apmeklēt vairāk ārsts cilvēki
 pēc ārsts piedāvāt kā uzlabot savs dzīve veids kāds zāles lietot
 dažreiz slims cilvēki jā apmeklēt sirds ārsts kardioloģija cilvēks vai jā turpināt pieskatīt pie ģimene ārsts
 sirds veselība vērts atbilst [NAME] tabula
@@ -157,7 +164,7 @@ sirds veselība vērts atbilst [NAME] tabula
 kas ietekmēt sirds veselība
 kāds ir liels risks
 sirds ietekmēt cilvēks vecs smēķēšana asinsspiediens holesterīns pamats
-[NAME] tabula ir vienkāršs un ērts skatīties
+[NAME] tabula ir vienkāršs un ērts redzēt
 tabula varēt redzēt šodien drīz apstāklis un tas kas mainīt ja cilvēks uzlabot savs dzīve veids piemēram pārtraukt smēķēšana samazināt svars
 vai taisnība vajadzēt apmeklēt ārsts un pārbaude sirds
 cilvēks justies labs kāpēc apmeklēt ārsts
@@ -170,14 +177,45 @@ tas taisnība notikt
 sirds slims varēt sākt gadījums
 ārsts apmeklēt palīdzība skaidrs veselība apstāklis un samazināt slims risks
 kā saņemt pakalpojums
-dažreiz ārsts pats zvanīt un aicināt uz pārbaude cits ārsts sūtīt vēstule bet ģimene ārsts ir ļoti slogs un bieži nav sazināties ar slims cilvēki
-papildus katrs pats vajadzēt sazināties ar savs ģimene ārsts un teikt ka jūs gribēt apmeklēt bezmaksas sirds veselība pārbaude
+dažreiz ārsts pats zvanīt un aicināt uz pārbaude cits ārsts cilvēki sūtīt vēstule bet ģimene ārsts cilvēki ir ļoti slogs un bieži nav sazināties ar slims cilvēki
+papildus katrs pats vajadzēt sazināties ar savs ģimene ārsts un teikt jūs gribēt apmeklēt bezmaksas sirds veselība pārbaude
 tas viss viss labs
+
+zāles ražot izplatīt un valsts iestāde zāles valsts iestāde [NAME] sadarbība lai zāles pietikt un dzīve cilvēki varēt tas pirkt
+zāles ražot un izplatīt sūtīt informācija zāles valsts iestāde kāds zāles un cik daudz ir banka un kad notikt zāles piegāde
+zāles valsts iestāde savs tīmekļa_vietne publicēt informācija par zāles
+informācija ir svarīgs gan zāles cilvēki gan ārsts cilvēki
+banka zāles dažreiz nav pieejams
+zāļu piegāde pārraut iemesls ir dažāds piemēram ražot ir kavēt karte priekšmets trūkums zāļu sastāvs daļa deficīts piegāde problēma liels pieprasīt
+[NUM] gads galvenais iemesls bija ražot problēma
+kā banka notikt zāles uzkrājums atjaunot
+zāles ražot informācija zāles valsts iestāde par zāles piegāde pārraut kurš zāles nevarēt piegāde un kad piegāde atjaunot
+iestāde ļoti uzmanība pieskatīt zāles uzkrājums banka
+ja konstatēt problēma tad tūlīt tas sākt risināt piemēram sazināties ar cits ražot cits izplatīt arī cits valsts kurš banka zāles ir
+ko darīt dzīve cilvēki
+dzīve cilvēki kurš zāles lietot regulāri zāles vajadzēt pirkt vismaz mēnesis uz_priekšu
+dzīve cilvēki kurš ir hronisks slims māja jā būt zāles rezerve
+zāles pieejams zāles iestāde ļoti ietekmēt notikt pasaule
+ja sākt armija konflikts vai cits valsts notikt gadījums daba [NAME] tad zāles piegāde uz latvija varēt samazināt
+ja zāles iestāde savs zāles pirkt nevarēt tad tūlīt jā sazināties ar ārsts
+ja cilvēks ir vajadzēt specifisks zāles kurš nevarēt aizstāt tad ārsts ir taisnība izrakstīt zāles kurš nav apstiprināt latvijas zāles reģistrēt
+zāles kas nav reģistrēt zāles iestāde tūlīt pirkt nevarēt vajadzēt speciāls pasūtīt un gaidīt piegāde
+zāles valsts iestāde tīmekļa_vietne ir redzēt latvija zāles reģistrēt
+reģistrēt tas varēt meklēt pēc zāles saukt " vai galvenais sastāvs daļa vai aktīvs priekšmets saukt " piemēram [NAME]
+klikšķis redzēt vairāk informācija lietot instrukcija vai tas ir recepte vai bez recepte zāles un cits informācija
+klikšķis uz galvenais sastāvs daļa saukt " radīt sastāvs ar līdzīgs zāles varēt sasniegt līdzīgs vai lēts zāles ar tāds_pats ārstēt ietekmēt 
+zaļš simbols nozīme zāles ir banka zāles iestāde varēt zāles pasūtīt un jūs pirkt
+sarkans simbols nozīme zāles banka nav un jā gaidīt tas ražot
+kā skaidrs vai jums vajadzēt zāles ir zāles iestāde
+jā sazināties ar konkrēts zāles iestāde jo sastāvs nevarēt redzēt vai jums tuvs zāles iestāde zāles ir vai nav
+tīmekļa_vietne ir redzēt zāles iestāde lapa
+lapa varēt meklēt savs tuvs zāles iestāde zāles iestāde sazināties informācija un diennakts zāles iestāde
+zāles iestāde lapa regulāri atjaunot papildus lapa informācija ir aktuāls un uzticams
 
 vai jums ir medicīna priekšmets
 es paņemt
-es paņemt tas zāles pakete
-kurš zāles pakete mans paņemt
+es paņemt tas zāles karte
+kurš zāles karte mans paņemt
 lūdzu tas zāles
 es tavs izrakstīt zāles pret saaukstēšanās
 vai mans ir jā lietot tas zāles
@@ -188,14 +226,21 @@ kā tas jā lietot
 pa [NUM] piliens 3 reize diena pēc ēst
 2 reize diena pēc ēst
 zāles lietot ārpus
+tas zāles saukt "
+saglabāt informācija
 
+ārstēt iestāde
 kad mans pie jums apmeklēt
 medicīna cilvēks jūs gaidīt [NUM] telpa
 kurš ir pēdējais uz tas telpa
 gaidīt telpa
 es vairāk nedēļa ārstēt slimnīca
+rehabilitācija centrs
+diena centrs darbs cilvēki
 
+uzklausīt medicīna cilvēki
 kur ir ārsts
+ko ārsts tavs stāstīt
 kad apmeklēt galvenais ārsts
 ārsts ārstēt slims cilvēks
 meita vēlēties pieraksts pie ārsts
@@ -206,6 +251,7 @@ vai ārsts ir telpa
 kur telpa saņemt ķirurgs
 kardioloģija cilvēks ir ārsts kas ārstēt sirds slims
 kardioloģija pārbaude sirds arī asinsvads slims un ārstēt
+zāles cilvēks zināt viss par zāles
 medicīna palīdzība
 mans ir vajadzēt medicīna palīdzība
 vai varēt izsaukt ārsts
@@ -217,6 +263,32 @@ pirmais palīdzība
 ātrā_palīdzība
 ātrs atbraukt ātrā_palīdzība
 
+rudens tumšs laiks ir šeit
+āra lietus vējš slidens lapa_koks un peļķe
+tas apstāklis bieži notikt nelaime negadījums
+bērni slimnīca universitāte slimnīca brīdinājums ik gads rudens palielināt negadījums skaits kas sasniegt nokrist no elektrība skrejritenis vai velosipēds
+īpašs bieži ciešanas bērni un plus augsts cilvēki
+kaut arī likums paredzēt bērni līdz 16 gads braukt ar velosipēds un līdz 17 gads ar elektrība skrejritenis ķivere ir obligāts īsts dzīve tas lietot tikai dažreiz
+slimnīca informācija parādīt tikai [NUM] % bērni atbraukt ar negadījums galva bija ķivere pārējais ķivere nav lietot
+medicīna cilvēki stāstīt sekas bieži ir smags
+lauzt smadzenes satricinājums ilgs ārstēt un rehabilitācija
+dažreiz bērni skola atgriezties tikai pēc vairāk mēnesis
+ķivere nevarēt glābt viss negadījums bet ļoti daudz tas varēt palīdzība samazināt sasist un samazināt negadījums sekas
+ik gads slimnīca atbraukt apmēram [NUM] bērni ar tas negadījums
+tas nozīme gandrīz [NUM] bērni diena
 ārsts cilvēki teikt viss bieži nelaime notikt pavisam parasts apstāklis
+bērns braukt uz veikals uz skola vai pie draugs
+uz ceļš tumšs gaisma nav priekša peļķe vai slapjš koks lapa_koks un nokrist notikt sekunde laiks
+1 sekunde notikt nokrist
+papildus speciāls cilvēki atgādināt pirmais jā pārliecināties vai bērns protams braukt ar velosipēds vai skrejritenis vai justies drošs uz ceļš
+skrejritenis nav spēlēt priekšmets tas ir transports
+vecs cilvēki piedāvāt mācīties bērni satiksme noteikums un pārbaude vai viņi tas saprast
+arī pieaugušais jā būt parādīt cilvēks ja vecs cilvēks pats braukt bez ķivere bērns arī ķivere nē lietot
+bērni slimnīca ārsts cilvēki atgādināt ceļš satiksme noteikums ievērot palīdzība saglabāt veselība un dzīve
+ķivere bieži parādīt cik stiprs cilvēks sasist ja nokrist
+braukt ar velosipēds skrejritenis skrituļi slidot vai skrituļi snovbords uzlikt ķivere esmu redzēt un uzmanība
+vienmēr redzēt apkārt pārliecināties drošs varēt braukt
+katrs mēs varēt būt uzmanība un tas veids samazināt negadījums skaits
+drošs sākt ar vienkāršs rīcība uzlikt ķivere ieslēgts_lukturis un esmu uzmanība
 
 vismaz 2 reize nedēļa ir labs vingrot

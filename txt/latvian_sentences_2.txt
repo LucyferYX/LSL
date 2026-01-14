@@ -41,7 +41,7 @@ Es, vīrs un [NUM] bērni.
 Ģimenē esmu tikai es.
 Ģimenē esmu es, mamma, tētis, māsa un brālis.
 Mājās dzīvo mana māte un tēvs.
-Mamma un tētis ir kopā.
+Mamma un tētis ir kopā, viņi ir pāris.
 Tētim ir daudz naudas.
 Mammai ir viens dēls un četras meitas.
 Viņi ir tuvi.
@@ -57,6 +57,7 @@ Mans brālis [NAME] ir spēcīgs.
 Man ir jauns mazdēls.
 [NAME] ir jauka mazmeita.
 Veci cilvēki, veci radi.
+Pieaugušie cilvēki.
 Es dzīvoju kopā ar savu divpadsmit gadu vecu brāli.
 Tas ir viņas bērns.
 Bērnu sauc [NAME].
@@ -71,6 +72,7 @@ Cik jums ir dēli?
 Cik tev ir meitas?
 Dēliem un meitām.
 Viņi ir dvīņi.
+Jūsu dvīņi izskatās līdzīgi!
 Dvīņu brālis.
 Meitu un dēlu draugi ir jauki.
 Mēs esam draugi.
@@ -90,6 +92,7 @@ Viņas aizbrauca kopā ar māsīcu un brālēnu.
 Viņi aizbrauca uz laukiem pie vectēva un vecmammas.
 Liepājā dzīvo sievasmāte un sievastēvs, bet Ventspilī — mani radi.
 Vīramāte un vīratēvs brauc ciemos.
+Tēvs ir paraugs savam dēlam.
 Labs draugs [NAME].
 Viņi ir draugi.
 Viņas ir draudzenes.
@@ -444,3 +447,4 @@ Gala produkts.
 Produkta lielums.
 Gaidi pie luksofora gaismas!
 Laimīgu ceļu!
+Ēdiena piegāde.

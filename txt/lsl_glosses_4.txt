@@ -39,7 +39,7 @@ ziema šodien gads bija auksts
 pavasaris un rudens lietus
 pavasaris ir 1 no 4 gadalaiks
 4 gads laiks
-gadalaiks laiks apstāklis mainīt katrs gads
+gadalaiks laiks apstāklis mainīt ik gads
 
 kalendārs
 kalendārs diena
@@ -144,7 +144,7 @@ nav tikai māte bet arī vecs māte kristības māte vīrs māte vīrs māte un 
 ir arī valsts kur māte diena_kalendārs svinēt cits laiks
 piemēram spānija un lietuva māte diena_kalendārs šodien gads astotais decembris kad kristības māja godināt jēzus_kristus māte
 francija māte diena_kalendārs svinēt maijs pēdējais svētdiena
-interesants ka latvija ģimene lokā māte diena_kalendārs sākt svinēt jau sen [NUM] gads bet pamats atzīmēt tikai no [NUM] gads
+interesants latvija ģimene lokā māte diena_kalendārs sākt svinēt jau sen [NUM] gads bet pamats atzīmēt tikai no [NUM] gads
 viss bieži māte diena_kalendārs dāvināt zieds un nedaudz sirsnīgs dāvana bet galvenais ir atcerēties savs māte un teikt paldies par mīlēt un rūpēties
 kāds zieds dāvināt
 bieži dāvināt zieds kāds ir māte mīļš
@@ -212,7 +212,7 @@ diena laiks
 laiks redzēt nākotne par šodien
 sinoptiķis zināt rīt diena laiks redzēt nākotne
 es zināt rīt vakars laiks redzēt nākotne
-viņš skatīties vakar laiks redzēt nākotne
+viņš redzēt vakar laiks redzēt nākotne
 šodien ir saulains silts laiks
 rīt ir gaidīt spēcīgs lietus
 vakar bija nedaudz lietus

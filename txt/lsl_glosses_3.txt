@@ -16,6 +16,9 @@ vai tu ir mīļš nodarboties
 ko tu darīt brīvs laiks
 mans brīvs laiks gandrīz nav
 
+300 jauns iestāde
+latvija šodien gads 6 mēnesis reģistrēt kopumā [NUM] jauns iestāde kas ir par 9 % vai [NUM] iestāde vairāk_nekā [NUM] gads
+
 cik tas cena
 cik tas cena
 mans patikt zieds
@@ -85,7 +88,7 @@ uz apavi ir vairāk traips
 kurš apavi izmērs tas ir
 mans ir 40 apavi izmērs
 apavi nav labs krāsa
-tas apavi ir 60 procents atlaide
+tas apavi ir 60 % atlaide
 tu aizvest apavi uz serviss
 kur ir otrais zābaks
 kāds ir [NAME] zābaks cena
@@ -100,7 +103,7 @@ tas šalle ir ļoti dārgs
 lūdzu 2 cimds
 kāds tu cimds
 viņš negribēt oranžs cimds
-cimds ir 40 procents atlaide
+cimds ir 40 procents %
 cimds ir dārgs bet cepure ir lēts
 mans patikt tas krāsa cepure
 vai es varēt pasūtīt šūt cepure
@@ -124,8 +127,8 @@ es gribēt pasūtīt [NUM] mētelis
 mētelis ar josta
 cik c m garš ir tas josta
 vai jums ir āda josta
-jā mums ir dažāds josta
-nē mums nav
+jā mēs ir dažāds josta
+nē mēs nav
 cepure šalle zeķe un cimds šūt pakalpojums
 šūt darbnīca
 

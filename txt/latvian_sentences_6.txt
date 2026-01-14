@@ -54,6 +54,9 @@ Redzes pasliktināšanās.
 Viņš ir tuvredzīgs.
 Tālredzīgi cilvēki skaidri redz tālumā.
 
+Pāru terapija.
+Jums ir nepieciešama terapija.
+
 Vai tu esi stāvoklī?
 Kā var zināt, vai sieviete ir stāvoklī?
 Vai Jūs esat grūtniece?
@@ -85,8 +88,10 @@ Dažiem cilvēkiem ir epilepsija.
 Ko darīt epilepsijas gadījumā?
 Epilepsijas lēkmes parasti ir īsas.
 Grūti paredzamas sekas.
+Sekas būs negatīvas.
 Vai esat apjucis?
 
+Ķermeņa daļas.
 Man ir sausa sejas āda.
 Man sāp galva un kakls.
 [NAME] ļoti sāpot galva.
@@ -111,7 +116,9 @@ Tava asinsgrupa ir A, B, AB vai nulle?
 Asinsgrupas: A+, A−, B+, B−, AB+, AB−, [NUM]+ un [NUM]−.
 Mērķa grupa.
 
+Jūs asiņojat.
 Nebojā nervus!
+Smadzeņu satricinājums.
 
 Labdabīgs audzējs, ļaundabīgs audzējs.
 
@@ -174,6 +181,37 @@ Daži ārsti paši zvana un uzaicina uz pārbaudēm, citi ārsti sūta vēstules
 Tāpēc katram pašam vajag sazināties ar savu ģimenes ārstu un pateikt, ka jūs gribat apmeklēt bezmaksas sirds veselības pārbaudi.
 Tas viss, visu labu!
 
+Medikamentu ražotāji, izplatītāji un valsts iestāde Zāļu valsts aģentūra [NAME] sadarbojas, lai medikamentu pietiktu un iedzīvotāji varētu tos nopirkt.
+Medikamentu ražotāji un izplatītāji nosūta informāciju Zāļu valsts aģentūrai — kādas zāles un cik daudz ir noliktavās, un kad notiks zāļu piegādes.
+Zāļu valsts aģentūra savā tīmekļa vietnē publicē informāciju par zālēm.
+Informācija ir svarīga gan farmaceitiem, gan ārstiem.
+Noliktavās medikamenti dažreiz nav pieejami.
+Zāļu piegāžu pārrāvumu iemesli ir dažādi, piemēram, ražošana ir aizkavējusies, iepakojuma materiālu trūkums, zāļu sastāvdaļu deficīts, piegāžu problēmas, liels pieprasījums.
+[NUM]. gadā galvenais iemesls bija ražošanas problēmas.
+Kā noiliktavās notiek zāļu krājuma atjaunošana.
+Zāļu ražotāji informē Zāļu valsts aģentūru par zāļu piegāžu pārrāvumiem — kuras zāles nevarēs piegādāt un kad piegādi atjaunos.
+Aģentūra ļoti uzmanīgi uzrauga zāļu krājumu noliktavās.
+Ja konstatē problēmas, tad uzreiz tās sāk risināt, piemēram, sazinās ar citiem ražotājiem, citiem izplatītājiem, arī citām valstīm, kurām noliktavās zāles ir.
+Ko darīt iedzīvotājiem?
+Iedzīvotājiem, kuri zāles lieto regulāri, zāles vajag iegādāties vismaz vienam mēnesim uz priekšu.
+Iedzīvotājiem, kuriem ir hroniskas slimības, mājās jābūt zāļu rezervēm.
+Zāļu pieejamību aptiekās ļoti ietekmē notikumi pasaulē.
+Ja sākas militāri konflikti vai citās valstīs notiek pēkšņas dabas [NAME], tad zāļu piegādes uz Latviju var samazināties.
+Ja aptiekā savas zāles nopirkt nevar, tad uzreiz jāsazinās ar ārstu.
+Ja pacientam ir vajadzīgas specifiskas zāles, kuras nevar aizvietot, tad ārstam ir tiesības izrakstīt zāles, kuras nav apstiprinātas Latvijas Zāļu reģistrā.
+Zāles, kas nav reģistrā, aptiekā uzreiz nopirkt nevar — vajadzēs speciāli pasūtīt un gaidīt piegādi.
+Zāļu valsts aģentūras tīmekļvietnē ir skatāms latvijas zāļu reģistrs.
+Reģistrā tās var meklēt, pēc zāļu nosaukumiem vai galvenām sastāvdaļām (jeb aktīvām vielām) nosaukumiem, piemēram, [NAME].
+Noklikšķinot redzēsiet vairāk informācijas — lietošanas instrukciju vai tās ir recepšu vai bezrecepšu zāles un citu informāciju.
+Noklikšķinot uz galvenās sastāvdaļas nosaukuma, parādīsies saraksts ar līdzīgām zālēm — var atrast līdzīgas vai lētākas zāles ar tādu pašu ārstniecisko ietekmi.
+Zaļš simbols nozīmē, ka zāles ir noliktavās, aptiekas var zāles pasūtīt un jūs — nopirkt.
+Sarkans simbols nozīmē, ka zāļu noliktavās nav un jāgaida to saražošana.
+Kā noskaidrot, vai jums vajadzīgās zāles ir aptiekā?
+Jāsazinās ar konkrētu aptieku, jo sarakstā nevar redzēt, vai jums tuvākajā aptiekā zāles ir vai nav.
+Tīmekļvietnē ir skatāma aptieku karte.
+Kartē var meklēt sev tuvāko aptieku, aptieku kontaktinformāciju un diennakts aptiekas.
+Aptieku karti regulāri atjauno, tāpēc kartē informācija ir aktuāla un uzticama.
+
 Vai jums ir medicīnas preces?
 Es ņemu!
 Es paņemšu šo zāles paciņu.
@@ -188,14 +226,21 @@ Kā tās jālieto?
 Pa [NUM] pilieniem trīsreiz dienā pēc ēšanas.
 Divreiz dienā pēc ēšanas.
 Zāles lieto ārīgi.
+Šo medikamentu nosaukums.
+Saglabātie dati.
 
+Ārstniecības iestāde.
 Kad man pie jums atnākt?
 Medmāsa jūs gaida [NUM]. kabinetā.
 Kurš ir pēdējais uz šo kabinetu?
 Uzgaidāmā telpa.
 Es vairākas nedēļas ārstējos slimnīcā.
+Rehabilitācijas centrs.
+Dienas centra darbinieki.
 
+Uzklausi mediķus.
 Kur ir ārsts?
+Ko ārsts tev stāstīja?
 Kad atnāks galvenais ārsts.
 Ārsts ārstē apslimušo cilvēku.
 Meita vēlas pierakstīties pie ārsta.
@@ -206,6 +251,7 @@ Vai ārsts ir kabinetā?
 Kurā kabinetā pieņem ķirurgs?
 Kardiologs ir ārsts, kas ārstē sirds slimības.
 Kardioloģija pēta sirds, arī asinsvadu slimības un ārstēšanu.
+Farmaceits zina visu par zālēm.
 Medicīniskā palīdzība.
 Man ir nepieciešama medicīniskā palīdzība.
 Vai varētu izsaukt ārstu?
@@ -217,6 +263,32 @@ Neatliekamā medicīniskā palīdzība.
 Ātrā medicīniskā palīdzība.
 Ātri atbrauca ātrā palīdzība.
 
+Rudens tumšais laiks ir šeit.
+Ārā — lietus, vējš, slidenas lapas un peļķes.
+Šādos apstākļos biežāk notiek nelaimes gadījumi.
+Bērnu klīniskās universitātes slimnīca brīdina — ik gadu rudenī pieaug traumu skaits, kas gūtas, krītot no elektroskrejriteņiem vai velosipēdiem.
+Īpaši bieži cieš bērni un pusaudži.
+Kaut arī likums paredz — bērniem līdz sešpadsmit gadiem, braucot ar velosipēdu, un līdz septiņpadsmit gadiem, braucot ar elektroskrejriteni, ķivere ir obligāta, — īstajā dzīvē to lieto tikai retais.
+Slimnīcas dati rāda, ka tikai [NUM]% bērnu, kuri nonākuši ar traumām, galvā bijusi ķivere, pārējie ķiveri nav lietojuši.
+Mediķi stāsta — sekas bieži ir smagas.
+Lūzumi, smadzeņu satricinājumi, ilgstoša ārstēšanās un rehabilitācija.
+Dažreiz bērni skolā atgriežas tikai pēc vairākiem mēnešiem.
+Ķivere nevar izglābt visos negadījumos, taču ļoti daudzos tā var palīdzēt — samazināt triecienu un mazināt traumas sekas.
+Katru gadu slimnīcā nonāk apmēram [NUM] bērnu ar šādām traumām.
+Tas nozīmē — gandrīz [NUM] bērni dienā.
 Ārsti saka — visbiežāk nelaime notiek pavisam ikdienišķās situācijās.
+Bērns brauc uz veikalu, uz skolu vai pie draugiem.
+Uz ceļa tumšs, gaismas nav, priekšā peļķe vai slapja koka lapa — un kritiens notiek sekundes laikā.
+Vienā sekundē notiek nokrišana.
+Tāpēc speciālisti atgādina — vispirms jāpārliecinās, vai bērns prot vadīt velosipēdu vai skrejriteni, vai jūtas droši uz ceļa.
+Skrejriteņi nav rotaļlietas — tie ir transportlīdzekļi.
+Vecākiem ieteicams iemācīt bērniem satiksmes noteikumus un pārbaudīt, vai viņi tos saprot.
+Arī pieaugušajiem jābūt paraugs — ja vecāks pats brauc bez ķiveres, bērns arī ķiveri nelietos.
+Bērnu slimnīcas ārsti atgādina, ka ceļu satiksmes noteikumu ievērošana palīdz saglabāt veselību un dzīvību.
+Ķivere bieži norāda, cik stipri cilvēks sasitas, ja nokrīt.
+Braucot ar velosipēdu, skrejriteni, skrituļslidām vai skrituļdēli — uzliec ķiveri, esi redzams un uzmanīgs.
+Vienmēr paskaties apkārt, pārliecinieties, ka droši varat braukt.
+Katrs mēs varam būt uzmanīgāki, un tādā veidā samazināt negadījumu skaitu.
+Drošība sākas ar vienkāršu rīcību — uzlieciet ķiveri, ieslēdziet lukturus un esiet uzmanīgs!
 
 Vismaz divreiz nedēļā ir labi pavingrot.

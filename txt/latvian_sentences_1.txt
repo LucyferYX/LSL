@@ -137,6 +137,7 @@ Viņa negrib viņam palīdzēt.
 Es gribu viņai palīdzēt.
 Mums ir neliela problēma.
 Nav problēmu.
+Sadarbojamies kopā!
 
 Es saprotu.
 Vai tu saproti?
@@ -147,6 +148,8 @@ Viņš neko nesaprot.
 Man atkārtot?
 Atkārto vēl [NUM] reizi...
 Lūdzu, atkārto vēl vienu reizi.
+Lūdzu, atgādiniet.
+Atgādinājums jums visiem.
 Ko tu vēlies vēl?
 Protams!
 Jā, protams!
@@ -173,6 +176,7 @@ Jā, tā ir patiesība.
 Visiem jums ir taisnība.
 Diemžēl Jums nav taisnība.
 Patiess cilvēks.
+Šīs personas ir uzticamas.
 
 Būsim pieklājīgi!
 Ilgus dzīves gadus!
@@ -238,6 +242,7 @@ Viņas ir priecīgas un laimīgas.
 Viņi ir laimīgi un priecīgi.
 Viņa nav bēdīga.
 
+Pienāc pie manis.
 Vai jūs esat satraukti?
 Vai Jūs esat satraukts?
 Neuztraucieties!
@@ -309,6 +314,9 @@ Viņa daudz teica.
 Piemēram?
 Piemēram kā?
 Uzmanību!
+Īpaša uzmanība.
+Tikai uzmanies.
+Lūdzu, uzmanaties!
 Šausmas!
 Šausmīgi!
 Nekas briesmīgs.

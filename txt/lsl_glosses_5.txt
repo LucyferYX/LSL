@@ -6,6 +6,7 @@ vairāk 1000000 eiro
 1000000 dolārs vērts māja
 par strādāt darbs es nopelnīt 50 eiro
 [NUM] dolārs
+1000000000 amerika dolārs
 10 cents monēta
 mazs cents monēta
 es vēlēties saņemt nauda
@@ -38,7 +39,10 @@ māja remonts cena 7000 500 50 eiro
 ar atlaide cena apmēram 8000
 tavs uzkrājums apmēram 8000 dolārs
 gads varēt nopelnīt 8000 − 9000 dolārs
-ar automašīna braukt 9000 400 kilometrs
+dzīve cilvēki ienākums nodoklis
+ik mēnesis ienākums
+ik mēnesis pensija apmēram 4000 eiro
+nē strādāt pensija cilvēki
 
 nauda pelnīt
 es gribēt pelnīt liels alga par [NUM] eiro mēnesis
@@ -83,17 +87,17 @@ mans tēvs strādāt banka
 
 internets banka
 [NAME] ir liels banka latvija
-informācija ir banka māja lapa_papīrs
+informācija ir banka māja lapa
 kāds ir banka darbs laiks pulkstenis
 ieskaitījums konts
 vai mans konts ir ieskaitījums nauda
 vai varēt atvērt banka konts
-vai varēt atvērt banka rēķināt lapa_papīrs
+vai varēt atvērt banka rēķināt lapa
 
 es gribēt uzdot dažreiz jautājums par maksāt karte
 mans ir maksāt karte
 kur es varēt saņemt savs darbs alga
-nauda jūs varēt aizņemties no konts jebkur mūsu banka nodaļa vai aizņemties bankomāts
+nauda jūs varēt aizņemties no konts jebkur mūsu banka daļa vai aizņemties bankomāts
 vai tas karte varēt lietot maksāt pirkt priekšmets veikals
 jā tas jūs varēt maksāt par priekšmets un pakalpojums daudz vieta
 vai es tavs banka varēt samainīt eiro pret dolārs
@@ -117,12 +121,17 @@ ir pienākt laiks mainīt darbs
 meklēt darbs
 vai tu esmu darbs meklēt
 piedāvāt viņš darbs
-darbs piedāvāt programma
+darbs piedāvāt sastāvs
 mēs tavs saņemt darbs
 es tu saņemt darbs
 saņemt tas cilvēks
 pieteikties darbs
 pieteikties darbs vairāk reize
+darbs noteikums
+
+slims lapa
+slims lapa
+iesniegt slims lapa
 
 profesija un cilvēki
 viņš ir taisnība profesija
@@ -130,7 +139,7 @@ viņš ir taisnība profesija
 labs diena es meklēt darbs
 kāds ir tavs profesija
 es esmu virtuve cilvēks
-žēl bet virtuve cilvēks mums nav vajadzēt
+žēl bet virtuve cilvēks mēs nav vajadzēt
 varēt strādāt arī par grāmatvedība cilvēks
 kāds ir tavs gudrs
 vidējs speciāls esmu beigas arī grāmatvedība mācīties es protams strādāt ar dators
@@ -160,7 +169,7 @@ mans mazs māsa ir skolēns
 skola bija 2000 skolēns cilvēki
 vai šodien iet uz universitāte
 tas atrasties universitāte
-[NAME] universitāte mācīties programma
+[NAME] universitāte mācīties sastāvs
 es mācīties latvija universitāte
 latvija ir vairāk_nekā 20 universitāte
 latvija universitāte 100 gads jubileja

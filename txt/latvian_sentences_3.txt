@@ -16,6 +16,9 @@ Vai tev ir iemīļota nodarbošanās?
 Ko tu dari brīvajā laikā?
 Man brīvā laika gandrīz nav.
 
+Trīs simti jaunu uzņēmumu.
+Latvijā šogad sešos mēnešos reģistrēti kopumā [NUM] jauni uzņēmumi, kas ir par deviņiem procientiem jeb [NUM] uzņēmumu vairāk nekā [NUM].gadā.
+
 Cik tas maksā?
 Cik tās maksā?
 Man patīk ziedi.

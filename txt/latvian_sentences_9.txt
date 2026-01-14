@@ -1,1 +1,34 @@
+Latvijai ir trīs simboli — karogs, ģerbonis un himna.
+Latvijas karogs ir valsts simbols.
+Sarkanbaltsarkanais karogs.
+Latvijas karoga krāsas ir sarkanbaltsarkanas.
+Latvijas ģerboņa autors — [NAME] [NAME].
+Latvijas Republikas himna.
+Himna ir svinīga dziesma.
+Latvijas himnas vārdu un mūzikas autors ir [NAME] [NAME].
+
+Dievs, svētī Latviju,
+Mūs' dārgo tēviju,
+Svētī jel Latviju,
+Ak, svētī jel to!
+Kur latvju meitas zied,
+Kur latvju dēli dzied,
+Laid mums tur laimē diet,
+Mūs' Latvijā!
+
 EUR ir oficiālā valūta divdesmit no divdesmit septiņām Eiropas Savienības dalībvalstīm.
+
+Ar mašīnu tika nobraukti deviņi tūkstoši četrsimt kilometru.
+Ceļu satiksmes noteikumi.
+Ievēro satiksmes noteikumus!
+Noticis satiksmes negadījums.
+
+Iededz lukturus.
+Jūsu mašīnai ir ieslēgti lukturi.
+Izslēdz mašīnas lukturus.
+Redzu, ka ir izslēgti lukturi.
+
+Auto apdrošināšana.
+Ziemas riepas.
+
+Skrituļdēlis un skrituļslidas.

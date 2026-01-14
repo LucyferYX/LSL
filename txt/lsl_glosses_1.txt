@@ -89,7 +89,7 @@ es justies labs
 viss ir labs
 tas nekas ir labs
 labs
-mums viss ir labs
+mēs viss ir labs
 un tavs
 un kā jums
 un kā ir tu
@@ -135,8 +135,9 @@ mans tu bija jā palīdzība
 es gribēt palīdzība
 viņš negribēt viņš palīdzība
 es gribēt viņš palīdzība
-mums ir nedaudz problēma
+mēs ir nedaudz problēma
 nav problēma
+sadarbība kopā
 
 es saprast
 vai tu saprast
@@ -147,6 +148,8 @@ viņš neko nesaprast
 mans atkārtot
 atkārtot vēl [NUM] reize
 lūdzu atkārtot vēl 1 reize
+lūdzu atgādināt
+atgādināt jums viss
 ko tu vēlēties vēl
 protams
 jā protams
@@ -158,7 +161,7 @@ labs viņš piekrist
 nē piekrist
 nē piekrist
 viņi nē piekrist
-es domāt ka tas tas nav
+es domāt tas tas nav
 tas ir precīzs pareizs
 tas ir nepareizs
 pilns pareizs
@@ -173,6 +176,7 @@ jā tas ir taisnība
 viss jums ir taisnība
 žēl tavs nav taisnība
 taisnība cilvēks
+tas cilvēki ir uzticams
 
 būt pieklājība
 ilgs dzīve gads
@@ -238,6 +242,7 @@ viņi ir prieks un laimīgs
 viņi ir laimīgs un prieks
 viņš nav bēdīgs
 
+pienākt pie es
 vai jūs esmu satraukums
 vai tu esmu satraukums
 nē satraukums
@@ -309,6 +314,9 @@ viņš daudz teikt
 piemēram
 piemēram kā
 uzmanība
+īpašs uzmanība
+tikai uzmanība
+lūdzu uzmanība
 šausmas
 šausmas
 šausmas nekas

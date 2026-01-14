@@ -6,6 +6,7 @@ Vairāki miljoni eiro.
 Miljoniem dolāru vērtas mājas.
 Par pastrādāto darbu es nopelnīju piecdesmit eiro.
 [NUM] dolāru.
+Miljardiem ASV dolāru.
 Desmit centu monēta.
 Maza eirocentu monēta.
 Es vēlos saņemt naudu.
@@ -38,7 +39,10 @@ Mājas remonts maksā septiņtūkstoš piecsimt piecdesmit eiro.
 Ar atlaidi maksā ap astoņiem tūkstošiem.
 Tavs uzkrājums... apmēram astoņi tūkstoši dolāru. 
 Gadā var nopelnīt ap astoņtūkstoš — deviņtūkstoš dolāru.
-Ar mašīnu tika nobraukti deviņi tūkstoši četrsimt kilometru.
+Iedzīvotāju ienākuma nodoklis.
+Ikmēneša ienākumi.
+Ikmēneša pensija ap četriem tūkstošiem eiro.
+Nestrādājošie pensionāri.
 
 Naudas pelnīšana.
 Es gribētu pelnīt lielāku algu par [NUM] eiro mēnesī.
@@ -123,6 +127,11 @@ Es tevi pieņemu darbā.
 Pieņem šo cilvēku.
 Pieteikties darbā.
 Piesakies darbā vairākas reizes.
+Darba noteikumi.
+
+Slimības lapa.
+Darba nespējas lapa.
+Iesniedz darba nespējas lapu.
 
 Profesijas un personas.
 Viņš ir īsts profesionālis.
