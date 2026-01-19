@@ -1,3 +1,4 @@
+Sveiki!
 Sveicināti!
 Sveiciens!
 Sveiks!
@@ -88,7 +89,7 @@ Es jūtos labi.
 Es jūtos slikti.
 Viss ir ok.
 Tas nekas, ir ok.
-Labs!
+Labais!
 Mums viss ir labi.
 Un Jums?
 Un kā jums?
@@ -137,6 +138,7 @@ Viņa negrib viņam palīdzēt.
 Es gribu viņai palīdzēt.
 Mums ir neliela problēma.
 Nav problēmu.
+Sāksim!
 Sadarbojamies kopā!
 
 Es saprotu.
@@ -169,6 +171,7 @@ Kāda ir tava atbilde?
 Pilnīgi nepareiza atbilde!
 Atbildes nav pareizas.
 Viņš nebija pareizs šajā situācijā.
+Patiesības brīdis.
 Šis brīdis ir patiesībai.
 Jums taisnība.
 Nē, tā nav taisnība.
@@ -308,8 +311,8 @@ Sakiet, lūdzu.
 Ko viņš teica?
 Ko man teikt?
 Ko mums teikt?
-Mēs teicām tev.
-Es teicu.
+Mēs tev jau teicām.
+Gan viņa teica, gan es teicu.
 Viņa daudz teica.
 Piemēram?
 Piemēram kā?
@@ -319,7 +322,9 @@ Tikai uzmanies.
 Lūdzu, uzmanaties!
 Šausmas!
 Šausmīgi!
+Nekas šaumsīgs.
 Nekas briesmīgs.
+Nekas briesmīgs nav noticis.
 Diemžēl, es nevaru...
 Diemžēl.
 Žēl!
@@ -337,10 +342,10 @@ Tu pats.
 Paši cilvēki.
 Visu labu!
 Paldies, visu labu!
-Dusi saldi, ar labunakti.
+Dusi saldi, arlabunakti.
 Saldu miegu, arlabunakti!
 Paldies, arlabunakti!
-Ar labunakti!
+Arlabunakti!
 Arlabunakti, [NAME]!
 Paldies un uz redzēšanos!
 Uz redzēšanos!

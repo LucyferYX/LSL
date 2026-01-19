@@ -16,6 +16,7 @@ Vai tev ir iemīļota nodarbošanās?
 Ko tu dari brīvajā laikā?
 Man brīvā laika gandrīz nav.
 
+Lai, tas ir bezmaksas.
 Trīs simti jaunu uzņēmumu.
 Latvijā šogad sešos mēnešos reģistrēti kopumā [NUM] jauni uzņēmumi, kas ir par deviņiem procientiem jeb [NUM] uzņēmumu vairāk nekā [NUM].gadā.
 
@@ -115,11 +116,6 @@ Vai šajā apģērbu veikalā ir zeķes?
 Es meklēju savu zeķi!
 Uz zeķēm ir nelieli traipi.
 Es šuvu dažādus apģērbus.
-[NAME] vajag tumšas brilles.
-Es gribētu pasūtīt brilles.
-Briļļu cena ir augsta.
-Brillēm vajadzētu būt lielām, bet cenām — mazām.
-Brillēs ir melns traips.
 Man ir nepieciešams mētelis, jo drīz būs ziema.
 Es vēlos šo melno mēteli.
 Mēteļi šajā veikalā ir pārāk dārgi.
@@ -128,7 +124,7 @@ Mētelis ar jostu.
 Cik centimetrus gara ir šī josta?
 Vai jums ir ādas jostas?
 Jā, mums ir dažādas jostas!
-Nē, pie mums nav.
+Nē, mums nav.
 Cepuru, šaļļu, zeķu un cimdu šūšanas pakalpojums.
 Šūšanas darbnīca.
 
@@ -151,6 +147,8 @@ Eksistē vairāki sporta veidi.
 Neeksistē tikai viens veids.
 Viņš kustās pārāk lēni.
 [NAME] kustējās ātri.
+
+[NAME] radījušies zemes nogruvumi.
 
 Parasti ģimenēm patīk ceļot.
 Kur ceļosim?

@@ -58,6 +58,7 @@ Vai jūs esat priecīgi par saņemto algu?
 Kas ir aizņēmums?
 Vai es varu aizņemties naudu?
 Kredīts ir viens no populārākajiem aizņēmuma veidiem.
+Aizņemies kredītu.
 Vai man paņemt kredītu?
 Man ir neliela alga, varbūt man vajag kredītu no bankas?
 Cik liels būs kredīts?
@@ -85,6 +86,8 @@ Dažus centus, lūdzu!
 Mans tētis strādā bankā.
 Diemžēl viņa tēvam nav daudz naudas.
 
+Bankā atrodas daudz cilvēku.
+Latvijas Banka atrodas Rīgā.
 Internetbanka.
 [NAME] ir lielākā banka Latvijā.
 Informācija ir bankas mājaslapā.
@@ -93,11 +96,13 @@ Ieskaitījums kontā.
 Vai manā kontā ir ieskaitīta nauda?
 Vai varu atvērt bankā kontu?
 Vai varu atvērt bankā rēķinu?
+Saņem naudu no [NAME] bankas, izņem to bankomātā.
 
+Aktuāls jautājums.
 Es gribētu uzdot dažus jautājumus par maksājumu karti.
 Man ir maksājumu karte?
 Kur es varu saņemt savu darba algu?
-Naudu jūs varat noņemt no konta jebkurā mūsu bankas nodaļā vai izņemt bankomātos.
+Naudu jūs varat izņemt no konta jebkurā mūsu bankas nodaļā vai izņemt bankomātos.
 Vai šo karti var lietot, apmaksājot pirkumus veikalos?
 Jā, ar to jūs varat maksāt par precēm un pakalpojumiem daudzās vietās.
 Vai es jūsu bankā varu samainīt eiro pret dolāriem?

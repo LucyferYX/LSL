@@ -2,6 +2,7 @@ sveiks
 sveiks
 sveiks
 sveiks
+sveiks
 sveiks [NAME]
 sveiks [NAME]
 labs diena
@@ -60,7 +61,7 @@ mans arī jā iet
 
 nāc
 tad nāc
-labs nāc mēs līdzi
+labs nāc mums līdzi
 es aicināt jūs līdzi
 nāc līdzi
 lūdzu nāc līdzi mans
@@ -75,7 +76,7 @@ bet kā iet tavs draugs [NAME]
 mans iet labs
 mans ir jā iet uz tas
 tu ir jā iet tas
-kur mēs ir iet
+kur mums ir jā iet
 kur mēs iet
 es jau iet
 kā justies
@@ -84,12 +85,12 @@ ir labs
 ir slikts
 mans iet labs
 mans iet slikts
-es justies slikts
 es justies labs
+es justies slikts
 viss ir labs
 tas nekas ir labs
 labs
-mēs viss ir labs
+mums viss ir labs
 un tavs
 un kā jums
 un kā ir tu
@@ -135,8 +136,9 @@ mans tu bija jā palīdzība
 es gribēt palīdzība
 viņš negribēt viņš palīdzība
 es gribēt viņš palīdzība
-mēs ir nedaudz problēma
+mums ir nedaudz problēma
 nav problēma
+sākt
 sadarbība kopā
 
 es saprast
@@ -169,6 +171,7 @@ kāds ir tavs atbilde
 pilns nepareizs atbilde
 atbilde nav pareizs
 viņš nav pareizs tas apstāklis
+taisnība drīz
 šodien drīz ir taisnība
 tavs taisnība
 nē tas nav taisnība
@@ -307,9 +310,9 @@ ko [NAME] teikt
 teikt lūdzu
 ko viņš teikt
 ko mans teikt
-ko mēs teikt
-mēs teikt tu
-es teikt
+ko mums teikt
+mēs tu jau teikt
+gan viņš teikt gan es teikt
 viņš daudz teikt
 piemēram
 piemēram kā
@@ -319,7 +322,9 @@ tikai uzmanība
 lūdzu uzmanība
 šausmas
 šausmas
-šausmas nekas
+nekas šausmas
+nekas šausmas
+nekas šausmas nav notikt
 žēl nevarēt es
 žēl
 žēl

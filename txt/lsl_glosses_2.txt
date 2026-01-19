@@ -41,7 +41,8 @@ es vīrs un [NUM] bērni
 ģimene esmu tikai es
 ģimene esmu es māte tēvs māsa un brālis
 māja dzīve mans māte un tēvs
-māte un tēvs ir kopā viņi ir pāris
+māte un tēvs ir kopā viņi ir abi
+abi tikties
 tēvs ir daudz nauda
 māte ir 1 dēls un 4 meita
 viņi ir tuvs
@@ -75,26 +76,29 @@ viņi ir dvīnis
 tavs dvīnis redzēt līdzīgs
 dvīnis brālis
 dēls un meita draugs ir jauks
-mēs būt draugs
-kur būt tavs draugs
+mēs esmu draugs
+kur ir tavs draugs
 vai tavs ir ģimene
 kāds ir tavs ģimene apstāklis
-mans ģimene būt mazs
-tavs ģimene būt liels
+mans ģimene ir mazs
+tavs ģimene ir liels
 mans ģimene ir mans māte tēvs tante un vecs tēvs
 mans ir vecs tēvs un vecs māte
 vecs tēvs ir 4 mazs dēls
 vecs māte ir gudrs sieviete
 mīļš vecs māte māja
 vecs tēvs justies vājš
+cik brālēns ir tavs
 mans ir [NUM] māsīca
+viņš brālēns
+teikt tas savs māsīca
 viņi braukt kopā ar māsīca un brālēns
-viņi braukt uz lauki pie vecs tēvs un vecs māte
 liepāja dzīve vīrs māte un vīrs tēvs bet ventspils mans radi
 vīrs māte un vīrs tēvs ciemos
 tēvs ir parādīt cilvēks savs dēls
 labs draugs [NAME]
 viņi ir draugs
+viņš draugs
 viņi ir draugs
 es esmu pārāk vājš
 tas bija vājš
@@ -142,7 +146,7 @@ cits gadījums
 tad arī bērns varēt dot tas dubults uzvārds ja otrais vecs cilvēks piekrist
 starp uzvārds jā likt −
 abi vecs cilvēki precības varēt saņemt otrais uzvārds radīt dubults uzvārds piemēram [NAME] − [NAME]
-tad arī bērns uzvārds būt tāds_pats
+tad arī bērns uzvārds būt tāpat
 bet ja tēvs ir dubults uzvārds tad precības vīrs un vīrs neiespējams radīt dubults uzvārds no abi uzvārds
 tas ir neiespējams
 uzvārds nedrīkst būt 3 vai vairāk vārds
@@ -219,13 +223,15 @@ vieta telefons
 vieta zvanīt
 [NAME] izmantot telefons
 māja telefons numurs ir [NUM]
-zvanīt mans uz numurs [NUM]
+zvanīt mans uz numurs [NUM] paldies
+telefons numurs [NUM]
 zvanīt 1 1 2
 zvanīt uz [NUM]
 tu ir jā zvanīt tas numurs
 viņš telefons
 telefons atlaide
 
+taisnība dzīve taisnība dzīve
 kur tu dzīve
 mēs dzīve
 es dzīve
@@ -268,6 +274,14 @@ radi cilvēki šodien ciemos
 viņi nav sen tikties
 ilgs gads viņi nav tikties
 
+jūra daudz akmens
+jūra rīt būt zems ūdens temperatūra_daba
+slikts peldēt apstāklis
+vasara mēs braukt uz jūra peldēt bet ūdens tāpat bija auksts
+mēs dzīve lauki pie jūra
+lauki bija daudz kluss nekā pilsēta
+viņi braukt uz lauki pie vecs tēvs un vecs māte
+
 veikals [NAME] "
 kur atrasties veikals
 kur ir tuvs veikals
@@ -282,8 +296,6 @@ es braukt uz ēst veikals kase
 viņš atrasties pie kase
 viņš strādāt kase
 
-banka atrasties daudz cilvēki
-latvija banka atrasties rīga
 es šodien braukt uz baznīca
 baznīca ir liels
 rīga nav daudz baznīca
@@ -304,7 +316,7 @@ kur atrasties zāles iestāde
 viņi braukt uz zāles iestāde
 zāles iestāde ir mazs cilvēki
 tas darbs cilvēki strādāt zāles iestāde
-pie zāles iestāde ar mēs stāvēt dažreiz cilvēki
+pie zāles iestāde ar mums stāvēt dažreiz cilvēki
 mans māte atrasties poliklīnika
 poliklīnika ir mazs
 tas poliklīnika nav liels
@@ -351,22 +363,6 @@ rīga atrasties vairāk ēkas piemēram zāles iestāde banka baznīca pasts pol
 ēkas atrasties vieta
 darbnīca atrasties vieta
 
-pasaule ir 8 1000000000 dzīve cilvēki
-latvija ir mazs valsts
-latvija ir apmēram 2 1000000 dzīve cilvēki
-kas ir latvija galvaspilsēta
-rīga latvija galvaspilsēta dzīve daudz ģimene
-rīga ir latvija liels pilsēta
-rīga ir apmēram 600 1000 dzīve cilvēki
-daugavpils ir otrais liels latvija pilsēta
-daugavpils ir apmēram 70 8 1000 dzīve cilvēki
-liepāja ir latvija trešais liels pilsēta
-liepāja dzīve cilvēki ir nedaudz mazāk_nekā daugavpils
-ventspils atrasties latvija kreiss mala
-ventspils dzīve cilvēki skaits ir daudz mazāk_nekā liepāja
-rīga liepāja ventspils atrasties jūra krasts
-tas pilsēta dzīve apmēram 3000 dzīve cilvēki
-
 es vakar iet uz kafejnīca
 kafejnīca atrasties tas
 kafejnīca ir tukšs
@@ -404,13 +400,13 @@ braukt nakts
 nē braukt vēls nakts
 varbūt skriet varbūt iet bet varbūt braukt
 braukt ar automašīna vai autobuss
-pa ceļš braukt mikro autobuss
-mikro autobuss pakalpojums
 ceturtais autobuss
 ar otrais vai trešais autobuss
 autobuss bija tukšs
+pa ceļš braukt mikro autobuss
+mikro autobuss pakalpojums
 kur ir pieejams taksometrs pakalpojums
-šausmas nekas paņemt taksometrs
+nekas šausmas paņemt taksometrs
 taksometrs parasts ir dzeltens
 vecs cilvēki braukt ar skaists automašīna
 automašīna ir glīts

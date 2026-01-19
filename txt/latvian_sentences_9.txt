@@ -13,15 +13,45 @@ Svētī jel Latviju,
 Ak, svētī jel to!
 Kur latvju meitas zied,
 Kur latvju dēli dzied,
-Laid mums tur laimē diet,
+Laid mūs tur laimē diet,
 Mūs' Latvijā!
 
+Bijusī prezidente [NAME] [NAME]-[NAME].
+Prezidents apstiprināja jauno izglītības likumu.
+Viss ir apstiprināts.
+[NAME] asociācija.
+
+Pasaulē ir astoņi miljardi iedzīvotāju.
+Latvija ir maza valsts.
+Latvijā ir apmēram divi miljoni iedzīvotāju.
+Kas ir Latvijas galvaspilsēta?
+Rīgā, Latvijas galvaspilsētā, dzīvo daudz ģimeņu.
+Rīga ir Latvijas vislielākā pilsēta.
+Rīgā ir ap sešsimt tūkstoš iedzīvotāju.
+Daugavpils ir otra lielākā Latvijas pilsēta.
+Daugavpilī ir aptuveni septiņdesmit astoņi tūkstoši iedzīvotāju.
+Liepāja ir Latvijas trešā lielākā pilsēta.
+Liepājā iedzīvotāji ir mazliet mazāk nekā Daugavpilī.
+Ventspils atrodas Latvijas kreisajā malā.
+Ventspilī iedzīvotāju skaits ir daudz mazāks nekā Liepājā.
+Rīga, Liepāja, Ventspils atrodas jūras krastā.
+Šajā pilsētā dzīvo ap trīstūkstoš iedzīvotāju.
+
 EUR ir oficiālā valūta divdesmit no divdesmit septiņām Eiropas Savienības dalībvalstīm.
+ASV valūta ir amerikāņu dolāri.
+
 
 Ar mašīnu tika nobraukti deviņi tūkstoši četrsimt kilometru.
+
+Ceļa posmi.
 Ceļu satiksmes noteikumi.
 Ievēro satiksmes noteikumus!
 Noticis satiksmes negadījums.
+Policists teica, ka tas bija dabiski izraisīts negadījums.
+Nelaime notika pēkšņi uz ielas, cietuši vismaz [NUM] cilvēku.
+Negadījumā cietušais.
+Policija atbruca uz notikuma vietu.
+Policisti nebija laimīgi redzēt notikušo.
 
 Iededz lukturus.
 Jūsu mašīnai ir ieslēgti lukturi.
@@ -29,6 +59,12 @@ Izslēdz mašīnas lukturus.
 Redzu, ka ir izslēgti lukturi.
 
 Auto apdrošināšana.
-Ziemas riepas.
+Ziemas riepas, vasaras riepas.
+Tev ir rezerves riepas?
+
+Kad jāizkāpj ārā?
+Izkāpiet no vilciena.
+Vilcienu kustībs saraksts.
+Autobusu un vilcienu kustības saraksti.
 
 Skrituļdēlis un skrituļslidas.

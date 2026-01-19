@@ -18,6 +18,7 @@ pēc dažreiz gads
 pēc 20 gads
 neilgs pēc tas
 jā notikt arī nākotne
+šodien laiks šodien drīz
 
 vasara sezona
 tieši ziema sezona
@@ -110,12 +111,16 @@ decembris sākums
 0 grādi
 no 0 līdz − 4 grādi
 [NUM] grādi
+− [NUM] grādi
+labs temperatūra_daba ūdens gandrīz + [NUM] grāds
+rīt vakars gaiss temperatūra_daba samazināt līdz apmēram − [NUM] grādi
 gaiss temperatūra_daba sasniegt [NUM] grādi
 daugavpils nakts gaidīt augsts gaiss temperatūra_daba
 gaiss temperatūra_daba svārstīties no − 3 līdz − 7 grādi
 ūdens temperatūra_daba būt zems tikai 0 grādi
 ūdens ir auksts temperatūra_daba ir apmēram + 4 grādi
 
+latvija tradīcija un svētki
 latvija 18 novembris svētki latvija republika proklamācija diena_kalendārs
 šodien ir svētki
 viss pasaule šodien ir svētki
@@ -126,6 +131,7 @@ nedēļa beigas mans brālis ir jubileja
 ziema svētki
 šodien pasaule svētki ziema svētki
 ziema svētki egle
+egle asociācija ar nāve krievija tradīcija
 30 pirmais oktobris vakars svētki halovīns
 halovīns asociācija ar oranžs violets un melns krāsa
 halovīns laiks ir gads šausmas nakts
@@ -137,7 +143,7 @@ jau šodien svētdiena svinēt atzīmēt māte diena_kalendārs
 tu mīļš mīļš māte es mīlēt tu kā neviens tu esmu mans dārgs par saule un balts diena
 tas latvija dzeja cilvēks [NAME] rakstīt par māte
 silts saule zils debesis un puķe jau sveiks mēs pavasaris
-pavasaris mēs ir prieks dāvināt zieds un skaists vārds mūsu tuvs cilvēki
+pavasaris mums ir prieks dāvināt zieds un skaists vārds mums tuvs cilvēki
 tuvs diena kad teikt paldies un mīļš vārds savs māte
 nav tikai māte bet arī vecs māte kristības māte vīrs māte vīrs māte un tante
 šodien gads māte diena_kalendārs svinēt [NUM] datums
@@ -156,7 +162,7 @@ vēl 1 skaists māte diena_kalendārs tradīcija ir tēvs kopā ar bērni izgata
 māte diena_kalendārs varēt braukt kopējs ģimene pastaiga vai atpūta
 15 maijs atzīmēt starp pasaule ģimene diena_kalendārs
 rīga un cits vieta latvija notikt māte diena_kalendārs un starp pasaule ģimene diena_kalendārs dāvināt koncerts un svētki pasākums
-informācija par pasākums meklēt valdība un tīmekļa_vietne
+informācija par pasākums meklēt valdība tīmekļa_vietne
 galvenais atcerēties sveiks savs māte
 
 pirmdiena ir darbs
@@ -230,7 +236,7 @@ pelēks mākonis varbūt būt lietus
 mainīgs mākonis daudzums
 liels daudzums
 lietus jā lietot lietussargs un lietus mētelis
-gatavoties mēs viss lietus mētelis
+gatavoties mums viss lietus mētelis
 viss ģimene lietus lietot lietussargs
 kur ir [NAME] lietussargs
 tu esmu bez lietussargs
@@ -271,27 +277,52 @@ starp zvaigznes
 sniegs uz ceļš
 nē ēst dzeltens sniegs
 biezs balts sniegs
-tikai šodien sniegs
+tikai šodien sniegs un gaidīt nedaudz krusa
 skaists sniegpārslas
 sniegpārslas ir auksts
 es tāls dzirdēt pērkons
-spīdīgs zibens
+spīdīgs zibens vētra laiks
+negaiss laiks bija redzēt zibens
 starp mākonis [NAME] redzēt zibens
 pēc zibens es dzirdēt pērkons
-pērkons bija ļoti skaļš
+pērkons bija ļoti skaļš vētra un negaiss traucēt gulēt
 pērkons un zibens solīt vētra
-liels spēcīgs vētra
-vētrains apstāklis
-vētrains skaļš nakts
+liels stiprs vētra
+stiprs negaiss
+gaidīt vētra apstāklis
+vētra skaļš nakts negaiss
 mans ir vēss es vilkt mētelis
 vēss rīts
 
 rīts ziņas 900 sekunde "
 avīze vakars ziņas "
+sinoptiķis īpašs brīdinājums par spēcīgs vētra un krusa
 sinoptiķis solīt silts saulains laiks
 šodien rīts sinoptiķis solīt spēcīgs vējš
 sinoptiķis solīt biezs sniegs
 vai tu esmu sinoptiķis
+sinoptiķis vējš ātrums sasniegt [NUM] metrs sekunde
+
+latvija stiprs vētra
+[NUM] augusts latvija bija negaiss
+stiprs vējš lietus un [NAME] krusa bojājums cilvēki īpašums
+māja noņemt jumts
+daudz lauzt koks un bojājums lauki
+[NAME] tuvs konstatēt vējš ātrums [NUM] metrs sekunde [NAME] [NUM] metrs sekunde
+rīga negaiss laiks noplūde iela
+negaiss dēļ apmēram [NUM] māja saimniecība viss latvija bija bez elektrība
+drīz varēt saņemt atbalsts vētra laiks bojājums māja jumts salabot un logs atjaunot vai mainīt
+daba avārija arī cits eiropa valsts
+vētra bija arī zviedrija un norvēģija stiprs lietus pērkons negaiss
+rezultāts noplūde cilvēki evakuācija slēgt ceļš satiksme traucēt
+slovēnija noplūde nāve vismaz
+noplūde izplatīt ļoti liels teritorija
+spānija šodien vasara ceturtais stiprs karsts posms
+gaiss temperatūra_daba līdz 40 4 grādi
+karsts laiks dēļ palielināt uguns risks
+portugāle stiprs vairāk brīvs daba uguns
+gruzija kalns bija zeme nogruvums
+vismaz [NUM] cilvēki nāve vairāk_nekā [NUM] cilvēki zudums notikt meklēt darbs
 
 līdz rīts
 rīts

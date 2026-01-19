@@ -58,6 +58,7 @@ vai jūs esmu prieks par saņemt alga
 kas ir nauda aizņemties
 vai es varēt aizņemties nauda
 kredīts ir 1 no populārs nauda aizņemties veids
+aizņemties kredīts
 vai mans paņemt kredīts
 mans ir mazs alga varbūt mans vajadzēt kredīts no banka
 cik liels būt kredīts
@@ -85,6 +86,8 @@ dažreiz cents lūdzu
 mans tēvs strādāt banka
 žēl viņš tēvs nav daudz nauda
 
+banka atrasties daudz cilvēki
+latvija banka atrasties rīga
 internets banka
 [NAME] ir liels banka latvija
 informācija ir banka māja lapa
@@ -93,13 +96,15 @@ ieskaitījums konts
 vai mans konts ir ieskaitījums nauda
 vai varēt atvērt banka konts
 vai varēt atvērt banka rēķināt lapa
+saņemt nauda no [NAME] banka konts aizņemties tas bankomāts
 
+aktuāls jautājums
 es gribēt uzdot dažreiz jautājums par maksāt karte
 mans ir maksāt karte
 kur es varēt saņemt savs darbs alga
 nauda jūs varēt aizņemties no konts jebkur mūsu banka daļa vai aizņemties bankomāts
 vai tas karte varēt lietot maksāt pirkt priekšmets veikals
-jā tas jūs varēt maksāt par priekšmets un pakalpojums daudz vieta
+jā ar tas jūs varēt maksāt par priekšmets un pakalpojums daudz vieta
 vai es tavs banka varēt samainīt eiro pret dolārs
 jā protams mūsu banka veikt valūta samainīt operācija
 kāds vēl pakalpojums banka mans varēt piedāvāt
@@ -139,7 +144,7 @@ viņš ir taisnība profesija
 labs diena es meklēt darbs
 kāds ir tavs profesija
 es esmu virtuve cilvēks
-žēl bet virtuve cilvēks mēs nav vajadzēt
+žēl bet virtuve cilvēks mums nav vajadzēt
 varēt strādāt arī par grāmatvedība cilvēks
 kāds ir tavs gudrs
 vidējs speciāls esmu beigas arī grāmatvedība mācīties es protams strādāt ar dators

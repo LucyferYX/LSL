@@ -8,7 +8,7 @@ viņi nepatikt sarkans krāsa
 oranžs nav skaists krāsa
 nē violets ir viss labs
 mans patikt piemēram sarkans un dzeltens zieds
-sarkans dzeltens zaļš luksofors krāsa
+sarkans dzeltens un zaļš luksofors krāsa
 braukt pie zaļš gaisma
 viņš braukt pie sarkans gaisma
 stāvēt pie sarkans gaisma
@@ -16,6 +16,7 @@ vai tu ir mīļš nodarboties
 ko tu darīt brīvs laiks
 mans brīvs laiks gandrīz nav
 
+lai tas ir bezmaksas
 300 jauns iestāde
 latvija šodien gads 6 mēnesis reģistrēt kopumā [NUM] jauns iestāde kas ir par 9 % vai [NUM] iestāde vairāk_nekā [NUM] gads
 
@@ -89,7 +90,7 @@ kurš apavi izmērs tas ir
 mans ir 40 apavi izmērs
 apavi nav labs krāsa
 tas apavi ir 60 % atlaide
-tu aizvest apavi uz serviss
+aizvest apavi uz serviss
 kur ir otrais zābaks
 kāds ir [NAME] zābaks cena
 tas zābaks mans ir pārāk mazs
@@ -115,11 +116,6 @@ vai tas apģērbs veikals ir zeķe
 es meklēt savs zeķe
 uz zeķe ir nedaudz traips
 es šūt dažāds apģērbs
-[NAME] vajadzēt tumšs brilles
-es gribēt pasūtīt brilles
-brilles cena ir augsts
-brilles vajadzēt būt liels bet cena mazs
-brilles ir melns traips
 mans ir vajadzēt mētelis jo drīz būt ziema
 es vēlēties tas melns mētelis
 mētelis tas veikals ir pārāk dārgs
@@ -127,8 +123,8 @@ es gribēt pasūtīt [NUM] mētelis
 mētelis ar josta
 cik c m garš ir tas josta
 vai jums ir āda josta
-jā mēs ir dažāds josta
-nē mēs nav
+jā mums ir dažāds josta
+nē mums nav
 cepure šalle zeķe un cimds šūt pakalpojums
 šūt darbnīca
 
@@ -151,6 +147,8 @@ ir vairāk sports veids
 nav tikai 1 veids
 viņš kustība pārāk lēns
 [NAME] kustība ātrs
+
+[NAME] radīt zeme nogruvums
 
 parasts ģimene patikt ceļot
 kur ceļot

@@ -24,15 +24,18 @@ Man nav sūdzības, es jūtos labi.
 Vai Jums ir vēl kādas sūdzības?
 
 Vai temperatūra ir?
-Zema temperatūra.
+Zema ķermeņa temperatūra.
 Jums ir augsta temperatūra.
+Laba temperatūra pacientam, nekas slikts.
 Man ir auksti...
 Man ir karsti...
 Man ir neliela temperatūra.
+Man ļoti augsta temperatūra, jūtos slikti.
 Mana temperatūra ir [NUM].
 Šorīt temperatūra man bija [NUM].
 Šorīt bija trīsdesmit septiņi un divi.
 Man ir paaugstināts asinsspiediens.
+Ar paaugstinātu asinsspiedienu?
 
 Cilvēki bija panikā!
 Kā palīdzēt personai, ja viņai ir panikas lēkme?
@@ -53,6 +56,18 @@ Esmu alerģisks pret savu mājdzīvnieku.
 Redzes pasliktināšanās.
 Viņš ir tuvredzīgs.
 Tālredzīgi cilvēki skaidri redz tālumā.
+Es diemžēl salauzu savas brilles.
+[NAME] vajag tumšas brilles.
+Es gribētu pasūtīt brilles.
+Briļļu cena ir augsta.
+Brillēm vajadzētu būt lielām, bet cenām — mazām.
+Brillēs ir melns traips.
+Aizsargbrilles.
+Acu un sejas aizsardzības līdzekļi.
+Virs acīm atrodas uzacis.
+
+Skaistumkopšanas pakalpojumi.
+Uzacis — svarīga ķermeņa daļa, kas piešķir sejai dabisko skaistumu.
 
 Pāru terapija.
 Jums ir nepieciešama terapija.
@@ -92,11 +107,19 @@ Sekas būs negatīvas.
 Vai esat apjucis?
 
 Ķermeņa daļas.
+Rokas un kājas.
+Galvenie cilvēka orgāni.
 Man ir sausa sejas āda.
+Sejas ādas izsitumi, arī uz rokām.
+Izsitumi visā ķermenī.
+Ko darīt ar sausu ādu uz rokām?
 Man sāp galva un kakls.
+Es jūtu, ka man ir sauss kakls.
+Kakla sāpes un to ārstēšanas veidi.
 [NAME] ļoti sāpot galva.
 Es nokritu un sasitu galvu.
 Es paklupu un sasitu galvu...
+Bērni pakrita un sasita abas kājas.
 Parādi sasituma vietu.
 Kurā vietā sasities?
 Galvas sāpes.
@@ -105,10 +128,14 @@ Reizēm jūtu sāpes krūtīs.
 Esmu sasitusi celi.
 Viņa sasita celi.
 Es laikam esmu salauzusi kāju.
+Es varbūt izmežģīju kreisās kājas potīti.
+Man ir izmežģījums vai lūzums?
+Lauzti kauli un izmežģīta potīte.
 Novērst trūkumus.
 Lūdzu, apmainiet man pārsēju.
 Vai ir nepieciešams jauns pārsējs?
 Lūdzu, apskatiet šo augoni!
+Noņemt asinis.
 
 Asinsgrupa.
 Kopumā ir četras asins grupas.
@@ -247,7 +274,8 @@ Meita vēlas pierakstīties pie ārsta.
 Vai tu esi medmāsa?
 Kur ir medmāsas?
 Šodien sāku strādāt par medmāsu.
-Vai ārsts ir kabinetā?
+Vai ārsts [NAME] ir kabinetā?
+Pie ķirurga.
 Kurā kabinetā pieņem ķirurgs?
 Kardiologs ir ārsts, kas ārstē sirds slimības.
 Kardioloģija pēta sirds, arī asinsvadu slimības un ārstēšanu.
@@ -280,7 +308,7 @@ Tas nozīmē — gandrīz [NUM] bērni dienā.
 Bērns brauc uz veikalu, uz skolu vai pie draugiem.
 Uz ceļa tumšs, gaismas nav, priekšā peļķe vai slapja koka lapa — un kritiens notiek sekundes laikā.
 Vienā sekundē notiek nokrišana.
-Tāpēc speciālisti atgādina — vispirms jāpārliecinās, vai bērns prot vadīt velosipēdu vai skrejriteni, vai jūtas droši uz ceļa.
+Tāpēc speciālisti atgādina — vispirms jāpārliecinās, vai bērns prot braukt ar velosipēdu vai skrejriteni, vai jūtas droši uz ceļa.
 Skrejriteņi nav rotaļlietas — tie ir transportlīdzekļi.
 Vecākiem ieteicams iemācīt bērniem satiksmes noteikumus un pārbaudīt, vai viņi tos saprot.
 Arī pieaugušajiem jābūt paraugs — ja vecāks pats brauc bez ķiveres, bērns arī ķiveri nelietos.

@@ -24,15 +24,18 @@ mans nav sūdzība es justies labs
 vai tavs ir vēl kāds sūdzība
 
 vai temperatūra_veselība ir
-zems temperatūra_veselība
+zems ķermenis temperatūra_veselība
 tavs ir augsts temperatūra_veselība
+labs temperatūra_veselība cilvēks nekas slikts
 mans ir auksts
 mans ir karsts
 mans ir nedaudz temperatūra_veselība
+mans ļoti augsts temperatūra_veselība justies slikts
 mans temperatūra_veselība ir [NUM]
 šodien rīts temperatūra_veselība bija [NUM]
 šodien rīts bija 30 7 un 2
 mans ir augsts asinsspiediens
+ar augsts asinsspiediens
 
 cilvēki bija panika
 kā palīdzība cilvēks ja viņš ir panika negadījums
@@ -53,8 +56,20 @@ esmu alerģija pret savs māja dzīvnieks
 redzēt pasliktināties
 viņš ir tuvs redzēt
 tāls redzēt cilvēki skaidrs redzēt tāls
+es žēl lauzt savs brilles
+[NAME] vajadzēt tumšs brilles
+es gribēt pasūtīt brilles
+brilles cena ir augsts
+brilles vajadzēt būt liels bet cena mazs
+brilles ir melns traips
+sargāt brilles
+acis un seja sargāt priekšmets
+virs acis atrasties uzacis
 
-pāris ārstēt
+skaists kopt pakalpojums
+uzacis svarīgs ķermenis daļa kas piešķirt seja daba skaists
+
+abi ārstēt
 tavs ir vajadzēt ārstēt
 
 vai tu esmu grūtniecība
@@ -87,16 +102,24 @@ pirms 4 gads mans bija sirds negadījums
 dažreiz cilvēki ir epilepsija
 ko darīt epilepsija gadījums
 epilepsija negadījums parasts ir īss
-grūts redzēt nākotne sekas
-sekas būt −
+grūts redzēt nākotne rezultāts
+rezultāts būt −
 vai esmu apjukums
 
 ķermenis daļa
+rokas un kāja
+galvenais cilvēks orgāns
 mans ir sauss seja āda
+seja āda izsitumi arī uz rokas
+izsitumi viss ķermenis
+ko darīt ar sauss āda uz rokas
 mans sāpēt galva un kakls
+es justies ka mans ir sauss kakls
+kakls sāpēt un tas ārstēt veids
 [NAME] ļoti sāpēt galva
 es nokrist un sasist galva
 es paklupt un sasist galva
+bērni paklupt un sasist abi kāja
 parādīt sasist vieta
 kur vieta sasist
 galvassāpes
@@ -105,10 +128,14 @@ dažreiz justies sāpēt krūtis
 esmu sasist celis
 viņš sasist celis
 es varbūt esmu lauzt kāja
+es varbūt izmežģīt kreiss kāja potīte
+mans ir izmežģīt vai lauzt
+lauzt kauls un izmežģīt potīte
 novērst trūkums
 lūdzu mainīt mans pārsējs
 vai ir vajadzēt jauns pārsējs
 lūdzu redzēt tas augonis
+noņemt asinis
 
 asinis grupa
 kopumā ir 4 asinis grupa
@@ -142,19 +169,19 @@ kā uzlabot aknas veselība
 lai uzlabot veselība jā ierobežojums alkohols lietot jo tas ir 1 no galvenais aknas bojājums cēlonis
 jā izvairīties no pārmērīgs zāles lietot jo dažreiz pret slims un pret negadījums zāles varēt būt kaitīgs aknas
 veselība ēst un fizisks aktīvs palīdzība uzturēt aknas labs apstāklis
-dažreiz ēst priekšmets palīdzība aknas piemēram avokado samazināt slikts taukains asinis bet kafija mazināt [NAME] vēzis risks
+dažreiz ēst priekšmets palīdzība aknas piemēram avokado samazināt slikts taukains asinis bet kafija mazināt [NAME] vēzis un [NAME] risks
 greipfrūts olīva eļļa un mellene arī veicināt aknas pienākums un sargāt tas no bojājums
 ingvers [NAME] un [NAME] veicināt labs aknas process
 aknas ir īpašs tas varēt atjaunot
 atšķirība no daudz cits orgāns aknas iespējams atjaunot ja ievērot veselība dzīve veids un ēst regulāri iekļaut aknas draugs ēst priekšmets
-rūpēties par savs aknas izvēlēties veselība ēst un ierobežojums kaitīgs paradums
+rūpēties par savs aknas izvēlēties veselība ēst un ierobežojums kaitīgs tradīcija
 
 daudz cilvēki nezināt ļoti svarīgs informācija
 cilvēki no 40 līdz 60 5 gads vecs varēt pārbaude sirds veselība bezmaksas
 vajadzēt tikai apmeklēt ģimene ārsts
 pārbaude varēt konstatēt sirds un asinsvads risks
 pārbaude veikt no [NUM] gads vecs 1 reize 5 gads piemēram [NUM] [NUM] [NUM] [NUM] [NUM] un [NUM] vecs
-apmeklēt ģimene ārsts apvienot informācija par slims cilvēks slims paradums piemēram smēķēšana pārbaude asinsspiediens rēķināt ķermenis svars numurs teikt holesterīns pamats uzklausīt sirds vērts elektrība kardioloģija 
+apmeklēt ģimene ārsts apvienot informācija par slims cilvēks slims tradīcija piemēram smēķēšana pārbaude asinsspiediens rēķināt ķermenis svars numurs teikt holesterīns pamats uzklausīt sirds vērts elektrība kardioloģija 
 pēc sirds veselība vērts ģimene ārsts piedāvāt apmeklēt vēl cits papildus pārbaude piemēram sirds veselība pārbaude uz speciāls velosipēds saukt [NAME]
 dažreiz cilvēki papildus pārbaude nevajadzēt cits cilvēki jā apmeklēt vairāk ārsts cilvēki
 pēc ārsts piedāvāt kā uzlabot savs dzīve veids kāds zāles lietot
@@ -203,7 +230,7 @@ zāles kas nav reģistrēt zāles iestāde tūlīt pirkt nevarēt vajadzēt spec
 zāles valsts iestāde tīmekļa_vietne ir redzēt latvija zāles reģistrēt
 reģistrēt tas varēt meklēt pēc zāles saukt " vai galvenais sastāvs daļa vai aktīvs priekšmets saukt " piemēram [NAME]
 klikšķis redzēt vairāk informācija lietot instrukcija vai tas ir recepte vai bez recepte zāles un cits informācija
-klikšķis uz galvenais sastāvs daļa saukt " radīt sastāvs ar līdzīgs zāles varēt sasniegt līdzīgs vai lēts zāles ar tāds_pats ārstēt ietekmēt 
+klikšķis uz galvenais sastāvs daļa saukt " radīt sastāvs ar līdzīgs zāles varēt sasniegt līdzīgs vai lēts zāles ar tāpat ārstēt ietekmēt 
 zaļš simbols nozīme zāles ir banka zāles iestāde varēt zāles pasūtīt un jūs pirkt
 sarkans simbols nozīme zāles banka nav un jā gaidīt tas ražot
 kā skaidrs vai jums vajadzēt zāles ir zāles iestāde
@@ -247,7 +274,8 @@ meita vēlēties pieraksts pie ārsts
 vai tu esmu medicīna cilvēks
 kur ir medicīna cilvēki
 šodien sākt strādāt par medicīna cilvēks
-vai ārsts ir telpa
+vai ārsts [NAME] ir telpa
+pie ķirurgs
 kur telpa saņemt ķirurgs
 kardioloģija cilvēks ir ārsts kas ārstēt sirds slims
 kardioloģija pārbaude sirds arī asinsvads slims un ārstēt
@@ -264,16 +292,16 @@ pirmais palīdzība
 ātrs atbraukt ātrā_palīdzība
 
 rudens tumšs laiks ir šeit
-āra lietus vējš slidens lapa_koks un peļķe
+ārā lietus vējš slidens lapa_koks un peļķe
 tas apstāklis bieži notikt nelaime negadījums
 bērni slimnīca universitāte slimnīca brīdinājums ik gads rudens palielināt negadījums skaits kas sasniegt nokrist no elektrība skrejritenis vai velosipēds
 īpašs bieži ciešanas bērni un plus augsts cilvēki
-kaut arī likums paredzēt bērni līdz 16 gads braukt ar velosipēds un līdz 17 gads ar elektrība skrejritenis ķivere ir obligāts īsts dzīve tas lietot tikai dažreiz
+kaut arī likums paredzēt bērni līdz 16 gads braukt ar velosipēds un līdz 17 gads ar elektrība skrejritenis ķivere ir obligāts taisnība dzīve tas lietot tikai dažreiz
 slimnīca informācija parādīt tikai [NUM] % bērni atbraukt ar negadījums galva bija ķivere pārējais ķivere nav lietot
-medicīna cilvēki stāstīt sekas bieži ir smags
+medicīna cilvēki stāstīt rezultāts bieži ir smags
 lauzt smadzenes satricinājums ilgs ārstēt un rehabilitācija
 dažreiz bērni skola atgriezties tikai pēc vairāk mēnesis
-ķivere nevarēt glābt viss negadījums bet ļoti daudz tas varēt palīdzība samazināt sasist un samazināt negadījums sekas
+ķivere nevarēt glābt viss negadījums bet ļoti daudz tas varēt palīdzība samazināt sasist un samazināt negadījums rezultāts
 ik gads slimnīca atbraukt apmēram [NUM] bērni ar tas negadījums
 tas nozīme gandrīz [NUM] bērni diena
 ārsts cilvēki teikt viss bieži nelaime notikt pavisam parasts apstāklis

@@ -13,15 +13,45 @@ svētīt vai latvija
 ak svētīt vai to
 kur latvija meita zieds
 kur latvija dēls dziedāt
-atvērt mēs tas laime diet
+atvērt mēs tas laime dejot
 mēs latvija
 
+bija latvija prezidents [NAME] [NAME] − [NAME]
+prezidents apstiprināt jauns gudrs likums
+viss ir apstiprināt
+[NAME] asociācija
+
+pasaule ir 8 1000000000 dzīve cilvēki
+latvija ir mazs valsts
+latvija ir apmēram 2 1000000 dzīve cilvēki
+kas ir latvija galvaspilsēta
+rīga latvija galvaspilsēta dzīve daudz ģimene
+rīga ir latvija liels pilsēta
+rīga ir apmēram 600 1000 dzīve cilvēki
+daugavpils ir otrais liels latvija pilsēta
+daugavpils ir apmēram 70 8 1000 dzīve cilvēki
+liepāja ir latvija trešais liels pilsēta
+liepāja dzīve cilvēki ir nedaudz mazāk_nekā daugavpils
+ventspils atrasties latvija kreiss mala
+ventspils dzīve cilvēki skaits ir daudz mazāk_nekā liepāja
+rīga liepāja ventspils atrasties jūra krasts
+tas pilsēta dzīve apmēram 3000 dzīve cilvēki
+
 eiro ir pamats valūta 20 no 20 7 eiropa savienība dalība valsts
+amerika valūta ir amerika dolārs
+
 
 ar automašīna bija braukt 9000 400 kilometrs
+
+ceļš posms
 ceļš satiksme noteikums
 ievērot satiksme noteikums
 notikt satiksme negadījums
+policija cilvēks teikt ka tas bija daba radīt negadījums
+nelaime notikt gadījums uz iela ciešanas vismaz [NUM] cilvēki
+negadījums ciešanas cilvēks
+policija atbraukt uz notikt vieta
+policija cilvēki nav laimīgs redzēt notikt
 
 ieslēgts_lukturis
 tavs automašīna ir ieslēgts_lukturis
@@ -29,6 +59,12 @@ automašīna izslēgts_lukturis
 redzēt ir izslēgts_lukturis
 
 automašīna drošs
-ziema riepa
+ziema riepa vasara riepa
+tavs ir rezerve riepa
+
+kad jā izkāpt ārā
+izkāpt no vilciens
+vilciens kustība sastāvs
+autobuss un vilciens kustība sastāvs
 
 skrituļi snovbords un skrituļi slidot

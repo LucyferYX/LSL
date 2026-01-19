@@ -42,6 +42,7 @@ Es, vīrs un [NUM] bērni.
 Ģimenē esmu es, mamma, tētis, māsa un brālis.
 Mājās dzīvo mana māte un tēvs.
 Mamma un tētis ir kopā, viņi ir pāris.
+Pāru tikšanās.
 Tētim ir daudz naudas.
 Mammai ir viens dēls un četras meitas.
 Viņi ir tuvi.
@@ -87,14 +88,17 @@ Vectēvam ir četri mazdēli.
 Vecmāte ir gudra sieviete.
 Mīļās vecmāmiņas mājas.
 Vectēvs jūtas vājš.
+Cik brālēni ir tev?
 Man ir [NUM] māsīcas.
+Viņa brālēns.
+Pasaki to savai māsīcai.
 Viņas aizbrauca kopā ar māsīcu un brālēnu.
-Viņi aizbrauca uz laukiem pie vectēva un vecmammas.
 Liepājā dzīvo sievasmāte un sievastēvs, bet Ventspilī — mani radi.
 Vīramāte un vīratēvs brauc ciemos.
 Tēvs ir paraugs savam dēlam.
 Labs draugs [NAME].
 Viņi ir draugi.
+Viņas draudzenes.
 Viņas ir draudzenes.
 Es esmu pārāk vāja.
 Tas bija vāji...
@@ -219,13 +223,15 @@ Vietējais telefons.
 Vietējais zvans.
 [NAME] izmanto mobilo telefonu.
 Mājas telefona numurs ir [NUM].
-Piezvani man uz numuru [NUM].
+Piezvani man uz numuru [NUM], paldies!
+Tel. numurs [NUM].
 Zvani viens viens divi.
 Zvaniet uz [NUM].
 Tev ir jāzvana šim numuram.
 Viņas mobilais telefons.
 Mobilo telefonu atlaides.
 
+Īstā dzīve, reālā dzīve.
 Kur tu dzīvo?
 Mēs dzīvojam.
 Es dzīvoju.
@@ -268,6 +274,14 @@ Radinieki šodien brauc ciemos.
 Viņas nebija sen tikušās.
 Ilgus gadus viņi nebija tikušies.
 
+Jūrā daudz akmeņu.
+Jūrā rītdien būs zema ūdens temperatūra.
+Slikti peldēšanas apstākļi.
+Vasarā mēs braucam uz jūru peldēties, bet ūdens tāpat bija auksts.
+Mēs dzīvojam laukos pie jūras.
+Laukos bija daudz klusāk nekā pilsētā.
+Viņi aizbrauca uz laukiem pie vectēva un vecmammas.
+
 Veikals "[NAME]".
 Kur atrodas veikals?
 Kur ir tuvākais veikals?
@@ -282,8 +296,6 @@ Es dodos uz pārtikas veikala kasi.
 Viņa atrodas pie kases.
 Viņš strādā kasē.
 
-Bankā atrodas daudz cilvēku.
-Latvijas Banka atrodas Rīgā.
 Es šodien došos uz baznīcu.
 Baznīca ir liela.
 Rīgā nav daudz baznīcu.
@@ -350,22 +362,6 @@ Viesnīcā ir mazliet darbinieku un daudz cilvēku.
 Rīgā atrodas vairākas ēkas, piemēram, aptiekas, bankas, baznīcas, pasti, poliklīnikas, skolas, slimnīcas, tirgus, veikali un viesnīcas.
 Ēku atrašanās vieta.
 Darbnīcu atrašanās vieta.
-
-Pasaulē ir astoņi miljardi iedzīvotāju.
-Latvija ir maza valsts.
-Latvijā ir apmēram divi miljoni iedzīvotāju.
-Kas ir Latvijas galvaspilsēta?
-Rīgā, Latvijas galvaspilsētā, dzīvo daudz ģimeņu.
-Rīga ir Latvijas vislielākā pilsēta.
-Rīgā ir ap sešsimt tūkstoš iedzīvotāju.
-Daugavpils ir otra lielākā Latvijas pilsēta.
-Daugavpilī ir aptuveni septiņdesmit astoņi tūkstoši iedzīvotāju.
-Liepāja ir Latvijas trešā lielākā pilsēta.
-Liepājā iedzīvotāji ir mazliet mazāk nekā Daugavpilī.
-Ventspils atrodas Latvijas kreisajā malā.
-Ventspilī iedzīvotāju skaits ir daudz mazāks nekā Liepājā.
-Rīga, Liepāja, Ventspils atrodas jūras krastā.
-Šajā pilsētā dzīvo ap trīstūkstoš iedzīvotāju.
 
 Es vakar aizgāju uz kafejnīcu.
 Kafejnīca atrodas tur.

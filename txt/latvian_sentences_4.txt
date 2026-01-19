@@ -18,6 +18,7 @@ Pēc dažiem gadiem.
 Pēc divdesmit gadiem.
 Neilgi pēc tam...
 Jā, notiks arī turpmāk.
+Šajā laikā, šajā brīdī.
 
 Vasaras sezona.
 Tieši ziemas sezonā.
@@ -110,12 +111,16 @@ Decembra sākums!
 Nulle grādu.
 No nulles līdz mīnus četriem grādiem.
 [NUM]°C.
+- [NUM] °C
+Laba temperatūra ūdenim, gandrīz + [NUM] grādi!
+Rītvakar gaisa temperatūra samazināsies līdz aptuveni -[NUM] grādiem.
 Gaisa temperatūra sasniegs [NUM]°C.
 Daugavpilī naktī gaidāma augsta gaisa temperatūra.
 Gaisa temperatūra svārstījās no mīnus trim līdz mīnus septiņiem grādiem.
 Ūdens temperatūra būs zema, tikai nulle grādi.
 Ūdens ir auksts, temperatūra ir ap plus četriem grādiem.
 
+Latviešu tradīcijas un svētki.
 Latvijā astoņpadsmitajā novembrī svin Latvijas Republikas proklamēšanas dienu.
 Šodien ir svētki!
 Visā pasaulē šodien ir svētki.
@@ -126,6 +131,7 @@ Nedēļas beigās manam brālim ir jubileja.
 Ziemassvētki.
 Šodien pasaulē svin Ziemassvētkus.
 Ziemassvētku eglīte.
+Egles asociēšanās ar nāvi krievu tradīcijā.
 Trīsdesmit pirmā oktobra vakarā svin Halovīnu.
 Halovīns asociējas ar oranžo, violeto un melno krāsu.
 Halovīna laikā ir gada biedējošākā nakts.
@@ -271,27 +277,52 @@ Starp zvaigznēm.
 Sniegs uz ceļiem.
 Neēst dzeltenu sniegu.
 Biezs, balts sniegs.
-Tikai šodien snigs sniegs.
+Tikai šodien snigs sniegs, un gaidāma neliela krusa.
 Skaistas sniegpārslas.
 Sniegpārsla ir auksta.
 Es tālumā dzirdu pērkonu.
-Spožs zibens.
+Spožs zibens vētras laikā.
+Negaisa laikā bija redzams zibens.
 Starp mākoņiem [NAME] redzēja zibeni.
 Pēc zibeņa es dzirdēju pērkonu.
-Pērkons bija ļoti skaļš.
+Pērkons bija ļoti skaļš, vētra un negaiss traucēja gulēt.
 Pērkons un zibens sola vētru.
-Liela, spēcīga vētra.
-Vētraini apstākļi.
-Vētraina, skaļa nakts.
+Liela, stipra vētra.
+Stiprs negaiss.
+Gaidāmi vētraini apstākļi.
+Vētraina, skaļa nakts, negaiss.
 Man ir vēsi, es uzvilkšu mēteli.
 Vēsi rīti.
 
 Rīta ziņas "deviņsimt sekundes".
 Laikraksts "Vakara ziņas".
+Sinoptiķi īpaši brīdina par spēcīgu vētru un krusu.
 Sinoptiķi sola siltu, saulainu laiku.
 Šorīt sinoptiķi solīja spēcīgu vēju.
 Sinoptiķi sola biezu sniegu.
 Vai tu esi sinoptiķis?
+Sinoptiķis: vēja ātrums sasniegs [NUM] metrus sekundē.
+
+Latvijā plosās vētra.
+[NUM]. augusts Latvijā bija negaiss.
+Stirps vējš, lietus un [NAME] krusa izpostīja cilvēku īpašumus.
+Mājām norauti jumti.
+Daudz nolauztu koku un izpostītu lauku.
+[NAME] tuvumā fiksēts vēja ātrums [NUM] m/s, [NAME] — [NUM] m/s.
+Rīgā negaisa laikā applūda ielas.
+Negaisa dēļ apmēram [NUM] mājsaimniecību visā Latvijā bija bez elektrības.
+Drīzumā varēs saņemt atbalstu vētras laikā bojāto mājas jumtu salabošanai un logu atjaunošanai vai nomaiņa.
+Dabas katastrofas arī citur Eiropas valstīs.
+Vētra bija arī Zviedrijā un Norvēģijā — stiprs lietus, pērkona negaiss.
+Rezultātā — plūdi, cilvēku evakuācija, slēgti ceļi, satiksmes traucējumi.
+Slovēnijā plūdos miruši vismaz [NUM] cilvēki.
+Plūdi izplatījās ļoti lielā teritorijā.
+Spānijā šovasar ceturtais stipra karstuma posms.
+Gaisa temperatūra — līdz četrdesmit četriem grādiem.
+Karstā laika dēļ palielinās ugunsgrēku risks.
+Portugālē plosās vairāki savvaļas ugunsgrēki.
+Gruzijas kalnos bijis zemes noslīdenis.
+Vismaz [NUM] cilvēki miruši, vairāk nekā [NUM] cilvēki pazuduši, notiek meklēšanas darbi.
 
 Līdz rītam!
 No rīta.
